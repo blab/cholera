@@ -9,8 +9,11 @@
 + Masked full-sequence alignment and associated metadata from ~1200 representative _Vibrio cholerae_ strains 
 
 ## workflow 
-1. Annotate El tor N1961 reference strain using [Prokka](https://github.com/tseemann/prokka).
-2. Visualize global cholera phylogeny using [Nextstrain](https://docs.nextstrain.org/en/latest/).  
+ Visualize global cholera phylogeny using [Nextstrain](https://docs.nextstrain.org/en/latest/).  
+
+```
+ nextstrain build --aws-batch --aws-batch-cpus 10 --aws-batch-memory 50000 . --jobs 1 -p auspice/cholera.json
+```
 
 ## todo 
 * assign traits for: 
