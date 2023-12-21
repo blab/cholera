@@ -9,10 +9,13 @@
 + Masked full-sequence alignment and associated metadata from ~1200 representative _Vibrio cholerae_ strains 
 
 ## workflow 
-Visualize global cholera phylogeny using [Nextstrain](https://docs.nextstrain.org/en/latest/).  
+1. Annotate El tor N1961 reference strain using [Prokka](https://github.com/tseemann/prokka).
+2. Visualize global cholera phylogeny using [Nextstrain](https://docs.nextstrain.org/en/latest/).  
 
 ## todo 
 * assign traits for: 
     - ctxB genotype 
     - serogroup (wb* cluster) 
     - var. MGE presence/absence 
+
+
