@@ -15,7 +15,7 @@
 ## todo 
 * assign traits for: 
     - ctxB genotype 
-    - serogroup (wb* cluster) 
+    - serogroup (wb* O-antigen cluster) 
     - var. MGE presence/absence 
 
 
