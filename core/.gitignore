@@ -2,3 +2,7 @@
 bactopia/
 work/
 .nextflow.log*
+
+bactopia-report.tsv
+bactopia-exclude.tsv
+bactopia-summary.txt
