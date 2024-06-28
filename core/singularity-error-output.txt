@@ -1,0 +1,587 @@
+(bactopia) vlin@rhino03:~/repos/cholera/core$ bactopia --accessions test_accessions.txt --nfconfig test_config.nf
+
+ N E X T F L O W   ~  version 24.04.2
+
+Launching `/home/vlin/miniconda3/envs/bactopia/share/bactopia-3.0.1/main.nf` [sick_gilbert] DSL2 - revision: 0cd9f79ba7
+
+
+WARN: Found unexpected parameters:
+* --slurm_use_scratch: false
+* --singularity_cache: /home/vlin/.singularity/cache/
+* --slurm_opts: --mail-user=vlin@fredhutch.org
+* --slurm_queue: campus-new
+- Ignore this warning: params.schema_ignore_params = "slurm_use_scratch,singularity_cache,slurm_opts,slurm_queue" 
+
+
+
+---------------------------------------------
+   _                _              _             
+  | |__   __ _  ___| |_ ___  _ __ (_) __ _       
+  | '_ \ / _` |/ __| __/ _ \| '_ \| |/ _` |   
+  | |_) | (_| | (__| || (_) | |_) | | (_| |      
+  |_.__/ \__,_|\___|\__\___/| .__/|_|\__,_| 
+                            |_|                  
+  bactopia v3.0.1
+  Bactopia is a flexible pipeline for complete analysis of bacterial genomes 
+---------------------------------------------
+Core Nextflow options
+  runName                          : sick_gilbert
+  containerEngine                  : singularity
+  container                        : quay.io/bactopia/bactopia:3.0.1
+  launchDir                        : /home/vlin/repos/cholera/core
+  workDir                          : /home/vlin/repos/cholera/core/work
+  projectDir                       : /home/vlin/miniconda3/envs/bactopia/share/bactopia-3.0.1
+  userName                         : vlin
+  profile                          : standard
+  configFiles                      : /home/vlin/miniconda3/envs/bactopia/share/bactopia-3.0.1/nextflow.config
+
+Required Parameters
+  accessions                       : test_accessions.txt
+
+Dataset Parameters
+  genome_size                      : 0
+
+QC Parameters
+  adapters                         : /home/vlin/miniconda3/envs/bactopia/share/bactopia-3.0.1/data/EMPTY_ADAPTERS
+  phix                             : /home/vlin/miniconda3/envs/bactopia/share/bactopia-3.0.1/data/EMPTY_PHIX
+
+Prokka Parameters
+  proteins                         : /home/vlin/miniconda3/envs/bactopia/share/bactopia-3.0.1/data/proteins.faa
+
+Nextflow Configuration Parameters
+  nfconfig                         : test_config.nf
+
+Institutional config options
+  config_profile_name              : Hutch
+  config_profile_description       : Hutch compute
+  config_profile_contact           : Victor Lin
+
+Nextflow Profile Parameters
+  condadir                         : /home/vlin/.bactopia/conda
+  datasets_cache                   : /home/vlin/.bactopia/datasets
+  singularity_cache_dir            : /home/vlin/.bactopia/singularity
+  singularity_pull_docker_container: true
+
+!! Only displaying parameters that differ from the pipeline defaults !!
+--------------------------------------------------------------------
+If you use bactopia for your analysis please cite:
+
+* Bactopia
+  https://doi.org/10.1128/mSystems.00190-20
+
+* The nf-core framework
+  https://doi.org/10.1038/s41587-020-0439-x
+
+* Software dependencies
+  https://bactopia.github.io/acknowledgements/
+--------------------------------------------------------------------
+WARN: 
+WARN: Conda Disclaimer
+WARN: 
+WARN: If you have access to Docker or Singularity, please consider
+WARN: running Bactopia using containers. The containers are less
+WARN: susceptible to Conda environment related issues (e.g. version
+WARN: conflicts) and errors caused by creation of conda environments
+WARN: in parallel (use '--max_cpus 1' to over come this error).
+WARN: 
+WARN: To use containers, you can use the profile parameter
+WARN:     Docker: -profile docker
+WARN:     Singularity: -profile singularity
+WARN: 
+--------------------------------------------------------------------
+
+Each task will use 4 CPUs out of the available 72 CPUs. At most 
+18 task(s) will be run at a time, this can affect the efficiency 
+of Bactopia. You can use the '-qs' parameter to alter the number of 
+tasks to run at a time (e.g. '-qs 2', means only 2 tasks or a maximum 
+of 8 CPUs will be used at once)
+
+executor >  slurm (3)
+executor >  slurm (4)
+executor >  slurm (4)
+executor >  slurm (9)
+executor >  slurm (9)
+executor >  slurm (10)
+executor >  slurm (10)
+executor >  slurm (10)
+executor >  slurm (10)
+executor >  slurm (10)
+executor >  slurm (15)
+[skipped  ] BACTOPIA:DATASETS                                   [100%] 1 of 1, stored: 1 ✔
+[48/50e86a] BACTOPIA:GATHER:GATHER_MODULE (GCF_007624845)       [100%] 5 of 5, failed: 1, retries: 1 ✔
+[d2/f08a74] BACTOPIA:GATHER:CSVTK_CONCAT (meta)                 [100%] 1 of 1 ✔
+executor >  slurm (15)
+[skipped  ] BACTOPIA:DATASETS                                   [100%] 1 of 1, stored: 1 ✔
+[48/50e86a] BACTOPIA:GATHER:GATHER_MODULE (GCF_007624845)       [100%] 5 of 5, failed: 1, retries: 1 ✔
+[d2/f08a74] BACTOPIA:GATHER:CSVTK_CONCAT (meta)                 [100%] 1 of 1 ✔
+executor >  slurm (15)
+[skipped  ] BACTOPIA:DATASETS                                   [100%] 1 of 1, stored: 1 ✔
+[48/50e86a] BACTOPIA:GATHER:GATHER_MODULE (GCF_007624845)       [100%] 5 of 5, failed: 1, retries: 1 ✔
+[d2/f08a74] BACTOPIA:GATHER:CSVTK_CONCAT (meta)                 [100%] 1 of 1 ✔
+executor >  slurm (16)
+[skipped  ] BACTOPIA:DATASETS                                   [100%] 1 of 1, stored: 1 ✔
+[48/50e86a] BACTOPIA:GATHER:GATHER_MODULE (GCF_007624845)       [100%] 5 of 5, failed: 1, retries: 1 ✔
+[d2/f08a74] BACTOPIA:GATHER:CSVTK_CONCAT (meta)                 [100%] 1 of 1 ✔
+executor >  slurm (16)
+[skipped  ] BACTOPIA:DATASETS                                   [100%] 1 of 1, stored: 1 ✔
+[48/50e86a] BACTOPIA:GATHER:GATHER_MODULE (GCF_007624845)       [100%] 5 of 5, failed: 1, retries: 1 ✔
+[d2/f08a74] BACTOPIA:GATHER:CSVTK_CONCAT (meta)                 [100%] 1 of 1 ✔
+executor >  slurm (16)
+[skipped  ] BACTOPIA:DATASETS                                   [100%] 1 of 1, stored: 1 ✔
+[48/50e86a] BACTOPIA:GATHER:GATHER_MODULE (GCF_007624845)       [100%] 5 of 5, failed: 1, retries: 1 ✔
+[d2/f08a74] BACTOPIA:GATHER:CSVTK_CONCAT (meta)                 [100%] 1 of 1 ✔
+executor >  slurm (17)
+[skipped  ] BACTOPIA:DATASETS                                   [100%] 1 of 1, stored: 1 ✔
+[48/50e86a] BACTOPIA:GATHER:GATHER_MODULE (GCF_007624845)       [100%] 5 of 5, failed: 1, retries: 1 ✔
+[d2/f08a74] BACTOPIA:GATHER:CSVTK_CONCAT (meta)                 [100%] 1 of 1 ✔
+executor >  slurm (19)
+[skipped  ] BACTOPIA:DATASETS                                   [100%] 1 of 1, stored: 1 ✔
+[48/50e86a] BACTOPIA:GATHER:GATHER_MODULE (GCF_007624845)       [100%] 5 of 5, failed: 1, retries: 1 ✔
+[d2/f08a74] BACTOPIA:GATHER:CSVTK_CONCAT (meta)                 [100%] 1 of 1 ✔
+executor >  slurm (20)
+[skipped  ] BACTOPIA:DATASETS                                   [100%] 1 of 1, stored: 1 ✔
+[48/50e86a] BACTOPIA:GATHER:GATHER_MODULE (GCF_007624845)       [100%] 5 of 5, failed: 1, retries: 1 ✔
+[d2/f08a74] BACTOPIA:GATHER:CSVTK_CONCAT (meta)                 [100%] 1 of 1 ✔
+executor >  slurm (20)
+[skipped  ] BACTOPIA:DATASETS                                   [100%] 1 of 1, stored: 1 ✔
+[48/50e86a] BACTOPIA:GATHER:GATHER_MODULE (GCF_007624845)       [100%] 5 of 5, failed: 1, retries: 1 ✔
+[d2/f08a74] BACTOPIA:GATHER:CSVTK_CONCAT (meta)                 [100%] 1 of 1 ✔
+executor >  slurm (20)
+[skipped  ] BACTOPIA:DATASETS                                   [100%] 1 of 1, stored: 1 ✔
+[48/50e86a] BACTOPIA:GATHER:GATHER_MODULE (GCF_007624845)       [100%] 5 of 5, failed: 1, retries: 1 ✔
+[d2/f08a74] BACTOPIA:GATHER:CSVTK_CONCAT (meta)                 [100%] 1 of 1 ✔
+executor >  slurm (25)
+[skipped  ] BACTOPIA:DATASETS                                   [100%] 1 of 1, stored: 1 ✔
+[48/50e86a] BACTOPIA:GATHER:GATHER_MODULE (GCF_007624845)       [100%] 5 of 5, failed: 1, retries: 1 ✔
+[d2/f08a74] BACTOPIA:GATHER:CSVTK_CONCAT (meta)                 [100%] 1 of 1 ✔
+executor >  slurm (28)
+[skipped  ] BACTOPIA:DATASETS                                   [100%] 1 of 1, stored: 1 ✔
+[48/50e86a] BACTOPIA:GATHER:GATHER_MODULE (GCF_007624845)       [100%] 5 of 5, failed: 1, retries: 1 ✔
+[d2/f08a74] BACTOPIA:GATHER:CSVTK_CONCAT (meta)                 [100%] 1 of 1 ✔
+executor >  slurm (28)
+[skipped  ] BACTOPIA:DATASETS                                   [100%] 1 of 1, stored: 1 ✔
+[48/50e86a] BACTOPIA:GATHER:GATHER_MODULE (GCF_007624845)       [100%] 5 of 5, failed: 1, retries: 1 ✔
+[d2/f08a74] BACTOPIA:GATHER:CSVTK_CONCAT (meta)                 [100%] 1 of 1 ✔
+executor >  slurm (28)
+[skipped  ] BACTOPIA:DATASETS                                   [100%] 1 of 1, stored: 1 ✔
+[48/50e86a] BACTOPIA:GATHER:GATHER_MODULE (GCF_007624845)       [100%] 5 of 5, failed: 1, retries: 1 ✔
+[d2/f08a74] BACTOPIA:GATHER:CSVTK_CONCAT (meta)                 [100%] 1 of 1 ✔
+executor >  slurm (28)
+[skipped  ] BACTOPIA:DATASETS                                   [100%] 1 of 1, stored: 1 ✔
+[48/50e86a] BACTOPIA:GATHER:GATHER_MODULE (GCF_007624845)       [100%] 5 of 5, failed: 1, retries: 1 ✔
+[d2/f08a74] BACTOPIA:GATHER:CSVTK_CONCAT (meta)                 [100%] 1 of 1 ✔
+executor >  slurm (30)
+[skipped  ] BACTOPIA:DATASETS                                   [100%] 1 of 1, stored: 1 ✔
+[48/50e86a] BACTOPIA:GATHER:GATHER_MODULE (GCF_007624845)       [100%] 5 of 5, failed: 1, retries: 1 ✔
+[d2/f08a74] BACTOPIA:GATHER:CSVTK_CONCAT (meta)                 [100%] 1 of 1 ✔
+executor >  slurm (31)
+[skipped  ] BACTOPIA:DATASETS                                   [100%] 1 of 1, stored: 1 ✔
+[48/50e86a] BACTOPIA:GATHER:GATHER_MODULE (GCF_007624845)       [100%] 5 of 5, failed: 1, retries: 1 ✔
+[d2/f08a74] BACTOPIA:GATHER:CSVTK_CONCAT (meta)                 [100%] 1 of 1 ✔
+executor >  slurm (32)
+[skipped  ] BACTOPIA:DATASETS                                   [100%] 1 of 1, stored: 1 ✔
+[48/50e86a] BACTOPIA:GATHER:GATHER_MODULE (GCF_007624845)       [100%] 5 of 5, failed: 1, retries: 1 ✔
+[d2/f08a74] BACTOPIA:GATHER:CSVTK_CONCAT (meta)                 [100%] 1 of 1 ✔
+executor >  slurm (32)
+[skipped  ] BACTOPIA:DATASETS                                   [100%] 1 of 1, stored: 1 ✔
+[48/50e86a] BACTOPIA:GATHER:GATHER_MODULE (GCF_007624845)       [100%] 5 of 5, failed: 1, retries: 1 ✔
+[d2/f08a74] BACTOPIA:GATHER:CSVTK_CONCAT (meta)                 [100%] 1 of 1 ✔
+executor >  slurm (33)
+[skipped  ] BACTOPIA:DATASETS                                   [100%] 1 of 1, stored: 1 ✔
+[48/50e86a] BACTOPIA:GATHER:GATHER_MODULE (GCF_007624845)       [100%] 5 of 5, failed: 1, retries: 1 ✔
+[d2/f08a74] BACTOPIA:GATHER:CSVTK_CONCAT (meta)                 [100%] 1 of 1 ✔
+[23/28ee6a] BACTOPIA:QC:QC_MODULE (GCF_007624845)               [100%] 4 of 4 ✔
+executor >  slurm (33)
+[skipped  ] BACTOPIA:DATASETS                                   [100%] 1 of 1, stored: 1 ✔
+[48/50e86a] BACTOPIA:GATHER:GATHER_MODULE (GCF_007624845)       [100%] 5 of 5, failed: 1, retries: 1 ✔
+[d2/f08a74] BACTOPIA:GATHER:CSVTK_CONCAT (meta)                 [100%] 1 of 1 ✔
+[23/28ee6a] BACTOPIA:QC:QC_MODULE (GCF_007624845)               [100%] 4 of 4 ✔
+executor >  slurm (33)
+executor >  slurm (35)
+[skipped  ] BACTOPIA:DATASETS                                   [100%] 1 of 1, stored: 1 ✔
+[48/50e86a] BACTOPIA:GATHER:GATHER_MODULE (GCF_007624845)       [100%] 5 of 5, failed: 1, retries: 1 ✔
+[d2/f08a74] BACTOPIA:GATHER:CSVTK_CONCAT (meta)                 [100%] 1 of 1 ✔
+executor >  slurm (36)
+[skipped  ] BACTOPIA:DATASETS                                   [100%] 1 of 1, stored: 1 ✔
+[48/50e86a] BACTOPIA:GATHER:GATHER_MODULE (GCF_007624845)       [100%] 5 of 5, failed: 1, retries: 1 ✔
+[d2/f08a74] BACTOPIA:GATHER:CSVTK_CONCAT (meta)                 [100%] 1 of 1 ✔
+executor >  slurm (36)
+[skipped  ] BACTOPIA:DATASETS                                   [100%] 1 of 1, stored: 1 ✔
+[48/50e86a] BACTOPIA:GATHER:GATHER_MODULE (GCF_007624845)       [100%] 5 of 5, failed: 1, retries: 1 ✔
+executor >  slurm (36)
+[skipped  ] BACTOPIA:DATASETS                                   [100%] 1 of 1, stored: 1 ✔
+[48/50e86a] BACTOPIA:GATHER:GATHER_MODULE (GCF_007624845)       [100%] 5 of 5, failed: 1, retries: 1 ✔
+executor >  slurm (36)
+[skipped  ] BACTOPIA:DATASETS                                   [100%] 1 of 1, stored: 1 ✔
+[48/50e86a] BACTOPIA:GATHER:GATHER_MODULE (GCF_007624845)       [100%] 5 of 5, failed: 1, retries: 1 ✔
+[d2/f08a74] BACTOPIA:GATHER:CSVTK_CONCAT (meta)                 [100%] 1 of 1 ✔
+executor >  slurm (37)
+[skipped  ] BACTOPIA:DATASETS                                   [100%] 1 of 1, stored: 1 ✔
+[48/50e86a] BACTOPIA:GATHER:GATHER_MODULE (GCF_007624845)       [100%] 5 of 5, failed: 1, retries: 1 ✔
+[d2/f08a74] BACTOPIA:GATHER:CSVTK_CONCAT (meta)                 [100%] 1 of 1 ✔
+executor >  slurm (37)
+executor >  slurm (37)
+[skipped  ] BACTOPIA:DATASETS                                   [100%] 1 of 1, stored: 1 ✔
+[48/50e86a] BACTOPIA:GATHER:GATHER_MODULE (GCF_007624845)       [100%] 5 of 5, failed: 1, retries: 1 ✔
+[d2/f08a74] BACTOPIA:GATHER:CSVTK_CONCAT (meta)                 [100%] 1 of 1 ✔
+[23/28ee6a] BACTOPIA:QC:QC_MODULE (GCF_007624845)               [100%] 4 of 4 ✔
+[7d/0dd18a] BACTOPIA:ASSEMBLER:ASSEMBLER_MODULE (GCF_001857405) [100%] 5 of 5, failed: 1, retries: 1 ✔
+[47/ecc5d5] BACTOPIA:ASSEMBLER:CSVTK_CONCAT (assembly-scan)     [100%] 1 of 1 ✔
+[f7/fe7509] BACTOPIA:SKETCHER:SKETCHER_MODULE (GCF_007624775)   [ 80%] 4 of 5, failed: 1, retries: 1
+[84/d84c9c] BACTOPIA:ANNOTATOR:PROKKA_MODULE (GCF_007624775)    [ 75%] 12 of 16, failed: 12, retries: 12
+[-        ] BACTOPIA:AMRFINDERPLUS:AMRFINDERPLUS_RUN            -
+[-        ] BACTOPIA:AMRFINDERPLUS:GENES_CONCAT                 -
+[-        ] BACTOPIA:AMRFINDERPLUS:PROTEINS_CONCAT              -
+[-        ] BACTOPIA:MLST:MLST_MODULE                           -
+[-        ] BACTOPIA:MLST:CSVTK_CONCAT                          -
+[-        ] BACTOPIA:DUMPSOFTWAREVERSIONS                       -
+[5f/8412f6] NOTE: Process `BACTOPIA:ANNOTATOR:PROKKA_MODULE (GCF_007624775)` terminated with an error exit status (2) -- Execution is retried (3)
+ERROR ~ Error executing process > 'BACTOPIA:ANNOTATOR:PROKKA_MODULE (GCF_007624845)'
+
+Caused by:
+  Process `BACTOPIA:ANNOTATOR:PROKKA_MODULE (GCF_007624845)` terminated with an error exit status (2)
+
+
+Command executed:
+
+  if [ "true" == "true" ]; then
+      gzip -c -d GCF_007624845.fna.gz > GCF_007624845.fna
+  fi
+  
+  if [ "false" == "true" ]; then
+      export PROKKA_DBDIR=$(echo "$(which prokka | sed "s=/prokka==")/../db")
+      env
+      bactopia-prokka \
+          --evalue 1e-09 --coverage 80 --centre Bactopia \
+          --cpus 4 \
+          --prefix GCF_007624845 \
+           \
+          --locustag GCF_007624845 \
+          --proteins proteins.faa \
+           \
+          GCF_007624845.fna
+  else
+      prokka \
+          --evalue 1e-09 --coverage 80 --centre Bactopia \
+          --cpus 4 \
+          --prefix GCF_007624845 \
+           \
+          --locustag GCF_007624845 \
+          --proteins proteins.faa \
+           \
+          GCF_007624845.fna
+  fi
+  
+  # Make blastdb of contigs, genes, proteins
+  mkdir blastdb
+  cat GCF_007624845/GCF_007624845.fna | makeblastdb -dbtype "nucl" -title "Assembled contigs for GCF_007624845" -out blastdb/GCF_007624845.fna
+  cat GCF_007624845/GCF_007624845.ffn | makeblastdb -dbtype "nucl" -title "Predicted genes sequences for GCF_007624845" -out blastdb/GCF_007624845.ffn
+  cat GCF_007624845/GCF_007624845.faa | makeblastdb -dbtype "prot" -title "Predicted protein sequences for GCF_007624845" -out blastdb/GCF_007624845.faa
+  tar -cvf - blastdb/ | gzip -c > GCF_007624845/GCF_007624845-blastdb.tar.gz
+  
+  if [[ "false" == "false" ]]; then
+      gzip GCF_007624845/*.gff
+      gzip GCF_007624845/*.gbk
+      gzip GCF_007624845/*.fna
+      gzip GCF_007624845/*.faa
+      gzip GCF_007624845/*.ffn
+      gzip GCF_007624845/*.sqn
+      gzip GCF_007624845/*.fsa
+      gzip GCF_007624845/*.tbl
+  fi
+  
+  mv GCF_007624845/GCF_007624845.err ./
+  mv GCF_007624845/GCF_007624845.log ./
+  mv GCF_007624845/ results/
+  
+  cat <<-END_VERSIONS > versions.yml
+  "BACTOPIA:ANNOTATOR:PROKKA_MODULE":
+      makeblastdb: $( echo $(makeblastdb -version 2>&1) | sed 's/^.*makeblastdb: //;s/ .*$//')
+      prokka: $( echo $(prokka --version 2>&1) | sed 's/^.*prokka //')
+  END_VERSIONS
+
+Command exit status:
+  2
+
+Command output:
+  (empty)
+
+Command error:
+  [10:13:26] 1 tRNA-Gly c[101419,101494] 34 (gcc)
+  [10:13:26] 2 tRNA-Leu c[101505,101591] 35 (taa)
+  [10:13:26] 3 tRNA-Gly c[101656,101731] 34 (gcc)
+  [10:13:26] 4 tRNA-Cys c[101734,101807] 33 (gca)
+  [10:13:26] 1 tRNA-Asn [51505,51580] 34 (gtt)
+  [10:13:26] 2 tRNA-Tyr [164946,165030] 35 (gta)
+  [10:13:26] 3 tRNA-Tyr [165116,165200] 35 (gta)
+  [10:13:26] Found 70 tRNAs
+  [10:13:26] Predicting Ribosomal RNAs
+  [10:13:26] Running Barrnap with 4 threads
+  [10:13:28] 1 gnl|Bactopia|GCF_007624845_120 36287 16S ribosomal RNA
+  [10:13:28] 2 gnl|Bactopia|GCF_007624845_129 7 16S ribosomal RNA
+  [10:13:28] 3 gnl|Bactopia|GCF_007624845_131 11370 5S ribosomal RNA
+  [10:13:28] 4 gnl|Bactopia|GCF_007624845_131 11612 23S ribosomal RNA
+  [10:13:28] 5 gnl|Bactopia|GCF_007624845_132 7 16S ribosomal RNA
+  [10:13:28] 6 gnl|Bactopia|GCF_007624845_134 31287 16S ribosomal RNA
+  [10:13:28] 7 gnl|Bactopia|GCF_007624845_20 238 23S ribosomal RNA
+  [10:13:28] 8 gnl|Bactopia|GCF_007624845_20 3254 5S ribosomal RNA
+  [10:13:28] 9 gnl|Bactopia|GCF_007624845_4 238 23S ribosomal RNA
+  [10:13:28] 10 gnl|Bactopia|GCF_007624845_4 3254 5S ribosomal RNA
+  [10:13:28] 11 gnl|Bactopia|GCF_007624845_6 238 23S ribosomal RNA
+  [10:13:28] 12 gnl|Bactopia|GCF_007624845_6 3254 5S ribosomal RNA
+  [10:13:28] 13 gnl|Bactopia|GCF_007624845_73 265573 16S ribosomal RNA
+  [10:13:28] 14 gnl|Bactopia|GCF_007624845_94 32380 5S ribosomal RNA
+  [10:13:28] 15 gnl|Bactopia|GCF_007624845_94 32663 5S ribosomal RNA
+  [10:13:28] 16 gnl|Bactopia|GCF_007624845_94 32905 23S ribosomal RNA
+  [10:13:28] Found 16 rRNAs
+  [10:13:28] Skipping ncRNA search, enable with --rfam if desired.
+  [10:13:28] Total of 85 tRNA + rRNA features
+  [10:13:28] Searching for CRISPR repeats
+  [10:13:29] Found 0 CRISPRs
+  [10:13:29] Predicting coding sequences
+  [10:13:29] Contigs total 4172503 bp, so using single mode
+  [10:13:29] Running: prodigal -i GCF_007624845\/GCF_007624845\.fna -c -m -g 11 -p single -f sco -q
+  [10:13:33] Excluding CDS which overlaps existing RNA (tRNA) at gnl|Bactopia|GCF_007624845_44:92039..92278 on - strand
+  [10:13:33] Excluding CDS which overlaps existing RNA (tRNA) at gnl|Bactopia|GCF_007624845_44:135219..135458 on + strand
+  [10:13:35] Excluding CDS which overlaps existing RNA (tRNA) at gnl|Bactopia|GCF_007624845_94:32455..32640 on + strand
+  [10:13:36] Found 3729 CDS
+  [10:13:36] Connecting features back to sequences
+  [10:13:36] Not using genus-specific database. Try --usegenus to enable it.
+  [10:13:36] Preparing user-supplied primary BLAST annotation source: proteins.faa
+  [10:13:36] Guessed source was in fasta format.
+  [10:13:36] Running: makeblastdb -dbtype prot -in proteins\.faa -out GCF_007624845\/proteins -logfile /dev/null
+  [10:13:38] Using /inference source as 'proteins.faa'
+  [10:13:38] Annotating CDS, please be patient.
+  [10:13:38] Will use 4 CPUs for similarity searching.
+  [10:13:39] There are still 3729 unannotated CDS left (started with 3729)
+  [10:13:39] Will use blast to search against GCF_007624845/proteins with 4 CPUs
+  [10:13:39] Running: cat GCF_007624845\/GCF_007624845\.proteins\.tmp\.97\.faa | parallel --gnu --plain -j 4 --block 151523 --recstart '>' --pipe blastp -query - -db GCF_007624845/proteins -evalue 1e-09 -qcov_hsp_perc 80 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > GCF_007624845\/GCF_007624845\.proteins\.tmp\.97\.blast 2> /dev/null
+  [10:13:39] Could not run command: cat GCF_007624845\/GCF_007624845\.proteins\.tmp\.97\.faa | parallel --gnu --plain -j 4 --block 151523 --recstart '>' --pipe blastp -query - -db GCF_007624845/proteins -evalue 1e-09 -qcov_hsp_perc 80 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > GCF_007624845\/GCF_007624845\.proteins\.tmp\.97\.blast 2> /dev/null
+
+Work dir:
+  /home/vlin/repos/cholera/core/work/ba/c5cacffac07e08cc432f4e72b04737
+
+Tip: when you have fixed the problem you can continue the execution adding the option `-resume` to the run command line
+
+ -- Check '.nextflow.log' file for details
+
+    Bactopia Execution Summary
+    ---------------------------
+    Bactopia Version : 3.0.1
+    Nextflow Version : 24.04.2
+    Command Line     : nextflow run /home/vlin/miniconda3/envs/bactopia//share/bactopia-3.0.1/main.nf -w /home/vlin/repos/cholera/core/work/ --accessions test_accessions.txt --nfconfig test_config.nf
+    Resumed          : false
+    Completed At     : 2024-06-28T10:13:57.750727998-07:00
+    Duration         : 14m 51s
+    Success          : false
+    Exit Code        : 2
+    Error Report     : Error executing process > 'BACTOPIA:ANNOTATOR:PROKKA_MODULE (GCF_007624845)'
+
+Caused by:
+  Process `BACTOPIA:ANNOTATOR:PROKKA_MODULE (GCF_007624845)` terminated with an error exit status (2)
+
+
+Command executed:
+
+  if [ "true" == "true" ]; then
+      gzip -c -d GCF_007624845.fna.gz > GCF_007624845.fna
+  fi
+  
+  if [ "false" == "true" ]; then
+      export PROKKA_DBDIR=$(echo "$(which prokka | sed "s=/prokka==")/../db")
+      env
+      bactopia-prokka \
+          --evalue 1e-09 --coverage 80 --centre Bactopia \
+          --cpus 4 \
+          --prefix GCF_007624845 \
+           \
+          --locustag GCF_007624845 \
+          --proteins proteins.faa \
+           \
+          GCF_007624845.fna
+  else
+      prokka \
+          --evalue 1e-09 --coverage 80 --centre Bactopia \
+          --cpus 4 \
+          --prefix GCF_007624845 \
+           \
+          --locustag GCF_007624845 \
+          --proteins proteins.faa \
+           \
+          GCF_007624845.fna
+  fi
+  
+  # Make blastdb of contigs, genes, proteins
+  mkdir blastdb
+  cat GCF_007624845/GCF_007624845.fna | makeblastdb -dbtype "nucl" -title "Assembled contigs for GCF_007624845" -out blastdb/GCF_007624845.fna
+  cat GCF_007624845/GCF_007624845.ffn | makeblastdb -dbtype "nucl" -title "Predicted genes sequences for GCF_007624845" -out blastdb/GCF_007624845.ffn
+  cat GCF_007624845/GCF_007624845.faa | makeblastdb -dbtype "prot" -title "Predicted protein sequences for GCF_007624845" -out blastdb/GCF_007624845.faa
+  tar -cvf - blastdb/ | gzip -c > GCF_007624845/GCF_007624845-blastdb.tar.gz
+  
+  if [[ "false" == "false" ]]; then
+      gzip GCF_007624845/*.gff
+      gzip GCF_007624845/*.gbk
+      gzip GCF_007624845/*.fna
+      gzip GCF_007624845/*.faa
+      gzip GCF_007624845/*.ffn
+      gzip GCF_007624845/*.sqn
+      gzip GCF_007624845/*.fsa
+      gzip GCF_007624845/*.tbl
+  fi
+  
+  mv GCF_007624845/GCF_007624845.err ./
+  mv GCF_007624845/GCF_007624845.log ./
+  mv GCF_007624845/ results/
+  
+  cat <<-END_VERSIONS > versions.yml
+  "BACTOPIA:ANNOTATOR:PROKKA_MODULE":
+      makeblastdb: $( echo $(makeblastdb -version 2>&1) | sed 's/^.*makeblastdb: //;s/ .*$//')
+      prokka: $( echo $(prokka --version 2>&1) | sed 's/^.*prokka //')
+  END_VERSIONS
+
+Command exit status:
+  2
+executor >  slurm (37)
+[skipped  ] BACTOPIA:DATASETS                                   [100%] 1 of 1, stored: 1 ✔
+[48/50e86a] BACTOPIA:GATHER:GATHER_MODULE (GCF_007624845)       [100%] 5 of 5, failed: 1, retries: 1 ✔
+[d2/f08a74] BACTOPIA:GATHER:CSVTK_CONCAT (meta)                 [100%] 1 of 1 ✔
+[23/28ee6a] BACTOPIA:QC:QC_MODULE (GCF_007624845)               [100%] 4 of 4 ✔
+[7d/0dd18a] BACTOPIA:ASSEMBLER:ASSEMBLER_MODULE (GCF_001857405) [100%] 5 of 5, failed: 1, retries: 1 ✔
+[47/ecc5d5] BACTOPIA:ASSEMBLER:CSVTK_CONCAT (assembly-scan)     [100%] 1 of 1 ✔
+[91/5b0581] BACTOPIA:SKETCHER:SKETCHER_MODULE (GCF_001857405)   [100%] 4 of 4, failed: 1, retries: 1
+[84/d84c9c] BACTOPIA:ANNOTATOR:PROKKA_MODULE (GCF_007624775)    [100%] 15 of 15, failed: 15, retries: 12
+[-        ] BACTOPIA:AMRFINDERPLUS:AMRFINDERPLUS_RUN            -
+[-        ] BACTOPIA:AMRFINDERPLUS:GENES_CONCAT                 -
+[-        ] BACTOPIA:AMRFINDERPLUS:PROTEINS_CONCAT              -
+[-        ] BACTOPIA:MLST:MLST_MODULE                           -
+[-        ] BACTOPIA:MLST:CSVTK_CONCAT                          -
+[-        ] BACTOPIA:DUMPSOFTWAREVERSIONS                       -
+[5f/8412f6] NOTE: Process `BACTOPIA:ANNOTATOR:PROKKA_MODULE (GCF_007624775)` terminated with an error exit status (2) -- Execution is retried (3)
+ERROR ~ Error executing process > 'BACTOPIA:ANNOTATOR:PROKKA_MODULE (GCF_007624845)'
+
+Caused by:
+  Process `BACTOPIA:ANNOTATOR:PROKKA_MODULE (GCF_007624845)` terminated with an error exit status (2)
+
+
+Command executed:
+
+  if [ "true" == "true" ]; then
+      gzip -c -d GCF_007624845.fna.gz > GCF_007624845.fna
+  fi
+  
+  if [ "false" == "true" ]; then
+      export PROKKA_DBDIR=$(echo "$(which prokka | sed "s=/prokka==")/../db")
+      env
+      bactopia-prokka \
+          --evalue 1e-09 --coverage 80 --centre Bactopia \
+          --cpus 4 \
+          --prefix GCF_007624845 \
+           \
+          --locustag GCF_007624845 \
+          --proteins proteins.faa \
+           \
+          GCF_007624845.fna
+  else
+      prokka \
+          --evalue 1e-09 --coverage 80 --centre Bactopia \
+          --cpus 4 \
+          --prefix GCF_007624845 \
+           \
+          --locustag GCF_007624845 \
+          --proteins proteins.faa \
+           \
+          GCF_007624845.fna
+  fi
+  
+  # Make blastdb of contigs, genes, proteins
+  mkdir blastdb
+  cat GCF_007624845/GCF_007624845.fna | makeblastdb -dbtype "nucl" -title "Assembled contigs for GCF_007624845" -out blastdb/GCF_007624845.fna
+  cat GCF_007624845/GCF_007624845.ffn | makeblastdb -dbtype "nucl" -title "Predicted genes sequences for GCF_007624845" -out blastdb/GCF_007624845.ffn
+  cat GCF_007624845/GCF_007624845.faa | makeblastdb -dbtype "prot" -title "Predicted protein sequences for GCF_007624845" -out blastdb/GCF_007624845.faa
+  tar -cvf - blastdb/ | gzip -c > GCF_007624845/GCF_007624845-blastdb.tar.gz
+  
+  if [[ "false" == "false" ]]; then
+      gzip GCF_007624845/*.gff
+      gzip GCF_007624845/*.gbk
+      gzip GCF_007624845/*.fna
+      gzip GCF_007624845/*.faa
+      gzip GCF_007624845/*.ffn
+      gzip GCF_007624845/*.sqn
+      gzip GCF_007624845/*.fsa
+      gzip GCF_007624845/*.tbl
+  fi
+  
+  mv GCF_007624845/GCF_007624845.err ./
+  mv GCF_007624845/GCF_007624845.log ./
+  mv GCF_007624845/ results/
+  
+  cat <<-END_VERSIONS > versions.yml
+  "BACTOPIA:ANNOTATOR:PROKKA_MODULE":
+      makeblastdb: $( echo $(makeblastdb -version 2>&1) | sed 's/^.*makeblastdb: //;s/ .*$//')
+      prokka: $( echo $(prokka --version 2>&1) | sed 's/^.*prokka //')
+  END_VERSIONS
+
+Command exit status:
+  2
+
+Command output:
+  (empty)
+
+Command error:
+  [10:13:26] 1 tRNA-Gly c[101419,101494] 34 (gcc)
+  [10:13:26] 2 tRNA-Leu c[101505,101591] 35 (taa)
+  [10:13:26] 3 tRNA-Gly c[101656,101731] 34 (gcc)
+  [10:13:26] 4 tRNA-Cys c[101734,101807] 33 (gca)
+  [10:13:26] 1 tRNA-Asn [51505,51580] 34 (gtt)
+  [10:13:26] 2 tRNA-Tyr [164946,165030] 35 (gta)
+  [10:13:26] 3 tRNA-Tyr [165116,165200] 35 (gta)
+  [10:13:26] Found 70 tRNAs
+  [10:13:26] Predicting Ribosomal RNAs
+  [10:13:26] Running Barrnap with 4 threads
+  [10:13:28] 1 gnl|Bactopia|GCF_007624845_120 36287 16S ribosomal RNA
+  [10:13:28] 2 gnl|Bactopia|GCF_007624845_129 7 16S ribosomal RNA
+  [10:13:28] 3 gnl|Bactopia|GCF_007624845_131 11370 5S ribosomal RNA
+  [10:13:28] 4 gnl|Bactopia|GCF_007624845_131 11612 23S ribosomal RNA
+  [10:13:28] 5 gnl|Bactopia|GCF_007624845_132 7 16S ribosomal RNA
+  [10:13:28] 6 gnl|Bactopia|GCF_007624845_134 31287 16S ribosomal RNA
+  [10:13:28] 7 gnl|Bactopia|GCF_007624845_20 238 23S ribosomal RNA
+  [10:13:28] 8 gnl|Bactopia|GCF_007624845_20 3254 5S ribosomal RNA
+  [10:13:28] 9 gnl|Bactopia|GCF_007624845_4 238 23S ribosomal RNA
+  [10:13:28] 10 gnl|Bactopia|GCF_007624845_4 3254 5S ribosomal RNA
+  [10:13:28] 11 gnl|Bactopia|GCF_007624845_6 238 23S ribosomal RNA
+  [10:13:28] 12 gnl|Bactopia|GCF_007624845_6 3254 5S ribosomal RNA
+  [10:13:28] 13 gnl|Bactopia|GCF_007624845_73 265573 16S ribosomal RNA
+  [10:13:28] 14 gnl|Bactopia|GCF_007624845_94 32380 5S ribosomal RNA
+  [10:13:28] 15 gnl|Bactopia|GCF_007624845_94 32663 5S ribosomal RNA
+  [10:13:28] 16 gnl|Bactopia|GCF_007624845_94 32905 23S ribosomal RNA
+  [10:13:28] Found 16 rRNAs
+  [10:13:28] Skipping ncRNA search, enable with --rfam if desired.
+  [10:13:28] Total of 85 tRNA + rRNA features
+  [10:13:28] Searching for CRISPR repeats
+  [10:13:29] Found 0 CRISPRs
+  [10:13:29] Predicting coding sequences
+  [10:13:29] Contigs total 4172503 bp, so using single mode
+  [10:13:29] Running: prodigal -i GCF_007624845\/GCF_007624845\.fna -c -m -g 11 -p single -f sco -q
+  [10:13:33] Excluding CDS which overlaps existing RNA (tRNA) at gnl|Bactopia|GCF_007624845_44:92039..92278 on - strand
+  [10:13:33] Excluding CDS which overlaps existing RNA (tRNA) at gnl|Bactopia|GCF_007624845_44:135219..135458 on + strand
+  [10:13:35] Excluding CDS which overlaps existing RNA (tRNA) at gnl|Bactopia|GCF_007624845_94:32455..32640 on + strand
+  [10:13:36] Found 3729 CDS
+  [10:13:36] Connecting features back to sequences
+  [10:13:36] Not using genus-specific database. Try --usegenus to enable it.
+  [10:13:36] Preparing user-supplied primary BLAST annotation source: proteins.faa
+  [10:13:36] Guessed source was in fasta format.
+  [10:13:36] Running: makeblastdb -dbtype prot -in proteins\.faa -out GCF_007624845\/proteins -logfile /dev/null
+  [10:13:38] Using /inference source as 'proteins.faa'
+  [10:13:38] Annotating CDS, please be patient.
+  [10:13:38] Will use 4 CPUs for similarity searching.
+  [10:13:39] There are still 3729 unannotated CDS left (started with 3729)
+  [10:13:39] Will use blast to search against GCF_007624845/proteins with 4 CPUs
+  [10:13:39] Running: cat GCF_007624845\/GCF_007624845\.proteins\.tmp\.97\.faa | parallel --gnu --plain -j 4 --block 151523 --recstart '>' --pipe blastp -query - -db GCF_007624845/proteins -evalue 1e-09 -qcov_hsp_perc 80 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > GCF_007624845\/GCF_007624845\.proteins\.tmp\.97\.blast 2> /dev/null
+  [10:13:39] Could not run command: cat GCF_007624845\/GCF_007624845\.proteins\.tmp\.97\.faa | parallel --gnu --plain -j 4 --block 151523 --recstart '>' --pipe blastp -query - -db GCF_007624845/proteins -evalue 1e-09 -qcov_hsp_perc 80 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > GCF_007624845\/GCF_007624845\.proteins\.tmp\.97\.blast 2> /dev/null
+
+Work dir:
+  /home/vlin/repos/cholera/core/work/ba/c5cacffac07e08cc432f4e72b04737
+
+Tip: when you have fixed the problem you can continue the execution adding the option `-resume` to the run command line
+
+ -- Check '.nextflow.log' file for details
