@@ -1,7 +1,12 @@
 .nextflow/
-bactopia/
 work/
 .nextflow.log*
+
+# default outdir
+bactopia/
+
+# custom outdirs
+out/
 
 bactopia-report.tsv
 bactopia-exclude.tsv
