@@ -1,0 +1,104 @@
+rule refine: 
+    input:
+        tree="data/tree_raw.nwk",
+        alignment="data/variants.fasta",
+        metadata="data/150_metadata.tsv",
+    output:
+        tree="results/tree.nwk",
+        node_data="results/branch_lengths.json",
+    shell:
+        """
+        augur refine \
+        --alignment {input.alignment} \
+        --tree {input.tree} \
+        --metadata {input.metadata} \
+        --timetree \
+        --output-tree {output.tree} \
+        --output-node-data {output.node_data} \
+        --precision 3 \
+        --date-inference marginal \
+        --date-confidence \
+        --clock-filter-iqd 4 \
+        --keep-polytomies \
+        --verbosity 6
+        """
+
+rule ancestral:
+    message: "ancestral"
+    input:
+        tree = "results/tree.nwk",
+        alignment = "data/sequences.fasta",
+    output:
+        node_data = "results/nt_muts.json"
+    shell:
+        """
+        augur ancestral \
+            --tree {input.tree} \
+            --alignment {input.alignment} \
+            --output-node-data {output.node_data} \
+        """
+
+rule translate:
+    message: "Translating amino acid sequences"
+    input:
+        tree = "results/tree.nwk",
+        node_data = rules.ancestral.output.node_data,
+        reference = "data/union_modified.gbk",
+    output:
+        node_data = "results/aa_muts.json"
+    shell:
+        """
+        augur translate \
+            --tree {input.tree} \
+            --ancestral-sequences {input.node_data} \
+            --reference-sequence {input.reference} \
+            --output-node-data {output.node_data} \
+        """
+
+rule traits:
+    message:
+        """
+        Inferring ancestral traits for {params.columns}
+        """
+    input:
+        tree = "results/tree.nwk",
+        metadata="data/150_metadata.tsv",
+    output:
+        node_data="results/traits.json",
+    params:
+        columns="isolation_source subregion region serotype country",
+    shell:
+        """
+        augur traits \
+            --tree {input.tree} \
+            --metadata {input.metadata} \
+            --output {output.node_data} \
+            --columns {params.columns} \
+            --confidence 
+        """
+
+rule export:
+    message:
+        "Exporting data files for auspice "
+    input:
+        tree = "results/tree.nwk",
+        branch_lengths = "results/branch_lengths.json",
+        nt_muts="results/nt_muts.json",
+        traits="results/traits.json",
+        lat_longs="config/lat_longs.tsv",
+        colors = "config/colors.txt",
+    output:
+        auspice_json="auspice/cholera.json",
+    shell:
+        """
+        augur export v2 \
+            --tree {input.tree} \
+            --node-data {input.branch_lengths} {input.nt_muts} {input.traits} \
+            --lat-longs {input.lat_longs} \
+            --colors {input.colors} \
+            --output {output.auspice_json} \
+            --geo-resolutions country \
+            --color-by-metadata region subregion country source \
+            --maintainers "Nashwa" \
+            --title "7PET Vibrio cholerae"
+        """
