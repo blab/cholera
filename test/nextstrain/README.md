@@ -1,9 +1,9 @@
 
 I. Post-processing bactopia output 
 ```
-gunzip -c bactopia/results/core-snp.filtered_polymorphic_sites.fasta.gz > variants.fasta
+gunzip -c bactopia/results/core-snp.filtered_polymorphic_sites.fasta.gz > nextstrain/data/variants.fasta
 
-gunzip -c bactopia/results/core-snp-clean.full.aln.gz > sequences.fasta 
+gunzip -c bactopia/results/core-snp-clean.full.aln.gz > nextstrain/data/sequences.fasta 
 
 nextstrain/scripts/convert_branch_lengths.sh bactopia/data/core-snp.final_tree.tre 4033501 nextstrain/data/tree_raw.nwk
 ```
