@@ -1,0 +1,24 @@
+build_name:"cholera"
+
+lat_longs: "config/lat_longs.tsv"
+reference: "config/reference.fasta"
+
+
+## filter
+subsample_seed: "--subsample-seed 12345" 
+group_by: "--group-by year month region" 
+filters: "-exclude-where country=Unknown region=Unknown --exclude-ambiguous-dates-by year"
+keep_root: "--include-where accession=M66"
+## sequences_per_group: ""
+
+## tree
+timetree: true
+
+## refine
+root: "M66"
+
+## ancestral
+
+
+## traits
+columns: "Country region Serotype Source Wave Transmission_Event subregion"

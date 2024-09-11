@@ -1,0 +1,1555 @@
+unique_name	name	strain_id	latitude	longitude	year	serotype	source	country	date	isolation_source	subregion	region
+6508237955695f5795c6f993	00-12_S86		35.86166	104.195397	2000	NA	Clinical	China	2000-XX-XX	Clinical	East Asia	Asia
+6508237955695f09fbc6f991	00-1_S85		35.86166	104.195397	2000	NA	Clinical	China	2000-XX-XX	Clinical	East Asia	Asia
+63555e20adddae08eb1d8357	00/75		23.634501	-102.552784	2000	Ogawa	Human	Mexico	2000-XX-XX	Clinical	Central America	North America
+63555e20adddae56e31d8358	00/79		23.634501	-102.552784	2000	Ogawa	Human	Mexico	2000-XX-XX	Clinical	Central America	North America
+63555e20adddae785f1d8359	00/84		23.634501	-102.552784	2000	Ogawa	Human	Mexico	2000-XX-XX	Clinical	Central America	North America
+6508237955695fd942c6f998	01-38_S91		35.86166	104.195397	2001	NA	Clinical	China	2001-XX-XX	Clinical	East Asia	Asia
+6384abd1993335ee562807cf	041-1A_baham_2011		7.369722	12.354722	2011	NA	Clinical	Cameroon	2011-XX-XX	Clinical	Central Africa	Africa
+6508237955695f8ffdc6f999	05-15_S38		35.86166	104.195397	2005	NA	Clinical	China	2005-XX-XX	Clinical	East Asia	Asia
+6508237955695f6ff2c6f99d	06-25_S109		35.86166	104.195397	2006	NA	Clinical	China	2006-XX-XX	Clinical	East Asia	Asia
+6384abd1993335da1f2807d0	063-9A_yaounde_2011		7.369722	12.354722	2011	NA	Clinical	Cameroon	2011-XX-XX	Clinical	Central Africa	Africa
+6508237955695fc835c6f9a3	07-15_S120		35.86166	104.195397	2007	NA	Clinical	China	2007-XX-XX	Clinical	East Asia	Asia
+6508237955695ff332c6f9a5	08-2_S132		35.86166	104.195397	2008	NA	Carrier	China	2008-XX-XX	Clinical	East Asia	Asia
+6384abd199333574712807d3	089-10A_mbalmayo_2011		7.369722	12.354722	2011	NA	Clinical	Cameroon	2011-XX-XX	Clinical	Central Africa	Africa
+6508237955695f6479c6f9b8	09-42_S155		35.86166	104.195397	2009	NA	Clinical	China	2009-XX-XX	Clinical	East Asia	Asia
+6508237955695f7040c6f9b0	09-5_S54		35.86166	104.195397	2009	NA	"Aquatic animal (soft-shelled turtle, agricultural market)"	China	2009-XX-XX	Food	East Asia	Asia
+6508237955695f0da5c6f9bc	10-13_S12		35.86166	104.195397	2010	NA	Clinical	China	2010-XX-XX	Clinical	East Asia	Asia
+6508237955695f4c6ac6f9bd	10-17_S15		35.86166	104.195397	2010	NA	Clinical	China	2010-XX-XX	Clinical	East Asia	Asia
+637e370ef971a13f92054274	1009		35.86166	104.195397	2010	NA	Soft-shelled turtle	China	2010-XX-XX	Animal	East Asia	Asia
+62ff5e6ca12ebabee39f90af	1019828.5		-18.665695	35.529562	2010	NA	stool	Mozambique	2010-XX-XX	Clinical	East Africa	Africa
+62ff5e6ca12eba86189f90b0	1019829.2		-18.665695	35.529562	2010	NA	stool	Mozambique	2010-XX-XX	Clinical	East Africa	Africa
+62ff5e6ca12eba09119f90b1	1020229.6		-18.665695	35.529562	2010	NA	stool	Mozambique	2010-XX-XX	Clinical	East Africa	Africa
+62ff5e6ca12eba4ec29f90b2	1020231.9		-18.665695	35.529562	2010	NA	stool	Mozambique	2010-XX-XX	Clinical	East Africa	Africa
+62ff5e6ca12ebadb419f90b3	1020234		-18.665695	35.529562	2010	NA	stool	Mozambique	2010-XX-XX	Clinical	East Africa	Africa
+6508237955695fecbcc6f9bf	11-5_S25		35.86166	104.195397	2011	NA	Clinical	China	2011-XX-XX	Clinical	East Asia	Asia
+637b8a3aca78021647667184	111_15		7.946527	-1.023194	2015	NA	Human	Ghana	2015-XX-XX	Clinical	West Africa	Africa
+62f383deac5d5d05ce072c75	116059		-14.235004	-51.92528	1992	NA	Clinical	Brazil	1992-XX-XX	Clinical	South America	South America
+63555e20adddaee32c1d8400	116073		23.634501	-102.552784	1991	NA	Clinical	Mexico	1991-XX-XX	Clinical	Central America	North America
+62fa15fd1325157d9c3feaf1	1283-CDC		35.86166	104.195397	1984	NA	Clinical	China	1984-XX-XX	Clinical	East Asia	Asia
+62fa15fd132515de213feaea	129-CDC		35.86166	104.195397	1994	NA	Clinical	China	1994-XX-XX	Clinical	East Asia	Asia
+62fa15fd13251576893feaeb	132-CDC		35.86166	104.195397	1978	NA	Clinical	China	1978-XX-XX	Clinical	East Asia	Asia
+637b8a3aca78024deb66718d	133_14		7.946527	-1.023194	2014	NA	Human	Ghana	2014-XX-XX	Clinical	West Africa	Africa
+62eb9d20ac5d5deab707032d	1346		-18.665695	35.529562	2005	Inaba		Mozambique	2005-XX-XX	NA	East Africa	Africa
+62eb9d20ac5d5d81bc07032e	1362		-18.665695	35.529562	2005	Ogawa		Mozambique	2005-XX-XX	NA	East Africa	Africa
+62ff5e6ca12eba70ac9f9072	14		-18.665695	35.529562	2002	NA	river	Mozambique	2002-XX-XX	Environmental	East Africa	Africa
+63555e20adddae37d91d83cb	1401		23.634501	-102.552784	2004	Inaba	Food	Mexico	2004-XX-XX	Food	Central America	North America
+62fa15fd132515ee243feaec	143-CDC		35.86166	104.195397	2001	NA	Clinical	China	2001-XX-XX	Clinical	East Asia	Asia
+62ff5e6ca12eba31e19f9085	146		-18.665695	35.529562	2003	NA	stool	Mozambique	2003-XX-XX	Clinical	East Africa	Africa
+62ff5e6ca12eba24629f9086	147		-18.665695	35.529562	2003	NA	stool	Mozambique	2003-XX-XX	Clinical	East Africa	Africa
+62fa15fd1325159d313feaed	147-CDC		35.86166	104.195397	2002	NA	Clinical	China	2002-XX-XX	Clinical	East Asia	Asia
+62ff5e6ca12ebadcd59f9073	15		-18.665695	35.529562	2002	NA	stool	Mozambique	2002-XX-XX	Clinical	East Africa	Africa
+6384abd1993335393b2807d6	150-7A_lolodorf_2011		7.369722	12.354722	2011	NA	Clinical	Cameroon	2011-XX-XX	Clinical	Central Africa	Africa
+62ff5e6ca12eba50cf9f9089	153		-18.665695	35.529562	2003	NA	stool	Mozambique	2003-XX-XX	Clinical	East Africa	Africa
+62ff5e6ca12eba72069f908a	154		-18.665695	35.529562	2003	NA	stool	Mozambique	2003-XX-XX	Clinical	East Africa	Africa
+62fa15fd13251505453feaf3	1551-CDC		35.86166	104.195397	1979	NA	Clinical	China	1979-XX-XX	Clinical	East Asia	Asia
+62fa15fd1325153ade3feaf4	1575-CDC		35.86166	104.195397	1990	NA	Clinical	China	1990-XX-XX	Clinical	East Asia	Asia
+62fa15fd1325151b4c3feaf5	1583-CDC		35.86166	104.195397	1991	NA	Clinical	China	1991-XX-XX	Clinical	East Asia	Asia
+62fa15fd13251541263feaf6	1593-CDC		35.86166	104.195397	1992	NA	Clinical	China	1992-XX-XX	Clinical	East Asia	Asia
+62fa15fd132515289a3feaf7	1605-CDC		35.86166	104.195397	1993	NA	Clinical	China	1993-XX-XX	Clinical	East Asia	Asia
+62eb9d20ac5d5d92d807032f	1627		-18.665695	35.529562	2005	Ogawa		Mozambique	2005-XX-XX	NA	East Africa	Africa
+62fa15fd1325151a1e3feaf8	1627-CDC		35.86166	104.195397	1997	NA	Clinical	China	1997-XX-XX	Clinical	East Asia	Asia
+63790c01ca78026eed6662d9	169_12		-13.133897	27.849332	2003	NA		Zambia	2003-XX-XX	NA	East Africa	Africa
+637b8a3aca78024bbb66714c	16_10		7.946527	-1.023194	2010	NA	Human	Ghana	2010-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802d5eb6662da	177_03		-13.133897	27.849332	1997	NA		Zambia	1997-XX-XX	NA	East Africa	Africa
+637b8a3aca780201cd66714e	17_10		7.946527	-1.023194	2010	NA	Human	Ghana	2010-XX-XX	Clinical	West Africa	Africa
+62ff5e6ca12eba717a9f9076	18		-18.665695	35.529562	2002	NA	stool	Mozambique	2002-XX-XX	Clinical	East Africa	Africa
+62fddd54bc6fe9900e665990	184/AD112		15.870032	100.992541	1985	Inaba	stool	Thailand	1985-XX-XX	Clinical	Southeast Asia	Asia
+62ff5e6ca12ebab4f89f908d	188		-18.665695	35.529562	2003	NA	stool	Mozambique	2003-XX-XX	Clinical	East Africa	Africa
+62ff5e6ca12eba15799f9077	19		-18.665695	35.529562	2002	NA	stool	Mozambique	2002-XX-XX	Clinical	East Africa	Africa
+62fa15fd1325155b533feaf9	1909-CDC		35.86166	104.195397	1998	NA	Clinical	China	1998-XX-XX	Clinical	East Asia	Asia
+62fa15fd13251518633feafa	1944-CDC		35.86166	104.195397	2000	NA	Clinical	China	2000-XX-XX	Clinical	East Asia	Asia
+637b8a3aca780251c866719a	197_14		7.946527	-1.023194	2014	NA	Human	Ghana	2014-XX-XX	Clinical	West Africa	Africa
+63555e20adddae78c41d83d1	1992		23.634501	-102.552784	2004	Inaba	Food	Mexico	2004-XX-XX	Food	Central America	North America
+63790c01ca7802e4906662d2	1_1970		31.046051	34.851612	1970	NA		Israel	1970-XX-XX	NA	Western/Central Asia	Asia
+63790c01ca7802811e6662d3	2		-4.038333	21.758664	2009	NA	Human	Democratic Republic of the Congo	2009-XX-XX	Clinical	Central Africa	Africa
+62fa15fd13251525313feb28	200106-CDC		35.86166	104.195397	2001	NA	Clinical	China	2001-XX-XX	Clinical	East Asia	Asia
+63555e20adddae783e1d83d3	2006		23.634501	-102.552784	2004	Inaba	Food	Mexico	2004-XX-XX	Food	Central America	North America
+63555e20adddae2acd1d83d2	2006/2004		23.634501	-102.552784	2004	Inaba	Food	Mexico	2004-XX-XX	Food	Central America	North America
+63555e20adddae07821d83d4	2007		23.634501	-102.552784	2004	Inaba	Food	Mexico	2004-XX-XX	Food	Central America	North America
+62eccf75ac5d5d18da070bae	2009V_1046		30.375321	69.345116	2009	Ogawa	Clinical	Pakistan	2009-XX-XX	Clinical	South Asia	Asia
+62eccf75ac5d5df045070bb1	2009V_1116		30.375321	69.345116	2009	Ogawa	Clinical	Pakistan	2009-XX-XX	Clinical	South Asia	Asia
+62f4c1bdac5d5dcdcb072f29	2010AA-150		18.971187	-72.285215	2010	Ogawa	Clinical	Haiti	2010-XX-XX	Clinical	Carribbean	North America
+6538e187ca5192a36413a31e	2010EL-1801	2010EL-1801	18.971187	-72.285215	2010	Ogawa	Clinical	Haiti	2010-XX-XX	Clinical	Carribbean	North America
+6538e187ca5192847313a324	2011EL-2315	2011EL-2315	18.971187	-72.285215	2011	Ogawa		Haiti	2011-XX-XX	NA	Carribbean	North America
+6538e187ca5192584b13a325	2011EL-2316	2011EL-2316	18.971187	-72.285215	2011	Ogawa		Haiti	2011-XX-XX	NA	Carribbean	North America
+6538e187ca51922e0913a329	2011EL-2320	2011EL-2320	18.971187	-72.285215	2011	Ogawa		Haiti	2011-XX-XX	NA	Carribbean	North America
+6538e187ca5192c18313a32a	2011EL-2321	2011EL-2321	18.971187	-72.285215	2011	Ogawa	Clinical	Haiti	2011-XX-XX	Clinical	Carribbean	North America
+6538e187ca51927bd113a32c	2011EL-2323	2011EL-2323	18.971187	-72.285215	2011	Ogawa	Clinical	Haiti	2011-XX-XX	Clinical	Carribbean	North America
+62f204caac5d5dda83072453	2011EL-301		61.52401	105.318756	2011	Inaba	Environmental	Russia	2011-XX-XX	Environmental	Eastern Europe	Europe
+62eccf75ac5d5d6b06070bba	2011EL_1137		-30.559482	22.937506	2009	Ogawa	Clinical	South Africa	2009-XX-XX	Clinical	Southern Africa	Africa
+62eccf75ac5d5d508c070bbb	2011V-1021		18.735693	-70.162651	2011	Ogawa	Clinical	Dominican Republic	2011-XX-XX	Clinical	Carribbean	North America
+6538e187ca51927eb913a32d	2012EL-1410	2012EL-1410	18.971187	-72.285215	2012	Inaba		Haiti	2012-XX-XX	NA	Carribbean	North America
+62f4c1bdac5d5dbef7072f33	2012Env-326		18.971187	-72.285215	2012	Ogawa	Environmental	Haiti	2012-XX-XX	Environmental	Carribbean	North America
+62f4c1bdac5d5d3a0f072f31	2012Env-94		18.971187	-72.285215	2012	Ogawa	Environmental	Haiti	2012-XX-XX	Environmental	Carribbean	North America
+62f4c1bdac5d5d4a20072f39	2012HC-15		18.971187	-72.285215	2012	Ogawa	Clinical	Haiti	2012-XX-XX	Clinical	Carribbean	North America
+62f4c1bdac5d5ddf5a072f3f	2012HC-22		18.971187	-72.285215	2012	Ogawa	Clinical	Haiti	2012-XX-XX	Clinical	Carribbean	North America
+6538e187ca519283ed13a32e	2012V-1060	2012V-1060	37.09024	-95.712891	2012	NA	Human	USA	2012-XX-XX	Clinical	North America	North America
+637b8a3aca7802279d66719c	201_12B		7.946527	-1.023194	2012	NA	Human	Ghana	2012-XX-XX	Clinical	West Africa	Africa
+63555e20adddae66041d83b0	204		23.634501	-102.552784	2010	Inaba	River water	Mexico	2010-XX-XX	Environmental	Central America	North America
+63790c01ca7802f5c56662db	204_12		-13.133897	27.849332	2003	NA		Zambia	2003-XX-XX	NA	East Africa	Africa
+63790c01ca780250f16662d8	20_03		-13.133897	27.849332	1997	NA		Zambia	1997-XX-XX	NA	East Africa	Africa
+637a2cd1ca7802e815666bb0	21		20.593684	78.96288	2001	NA	Clinical	India	2001-XX-XX	Clinical	South Asia	Asia
+63555e20adddaee5291d83b1	210		23.634501	-102.552784	2010	Inaba	River water	Mexico	2010-XX-XX	Environmental	Central America	North America
+63555e20adddae4b521d83b2	211		23.634501	-102.552784	2010	Inaba	River water	Mexico	2010-XX-XX	Environmental	Central America	North America
+63790c01ca7802e1896662dd	218_02		-13.133897	27.849332	2003	NA		Zambia	2003-XX-XX	NA	East Africa	Africa
+62fddd54bc6fe904036659a0	22115		15.870032	100.992541	2004	Inaba	stool	Thailand	2004-XX-XX	Clinical	Southeast Asia	Asia
+62fddd54bc6fe913b36659a1	22116		15.870032	100.992541	2004	Inaba	stool	Thailand	2004-XX-XX	Clinical	Southeast Asia	Asia
+62fddd54bc6fe9cac26659a2	22118		15.870032	100.992541	2004	Inaba	stool	Thailand	2004-XX-XX	Clinical	Southeast Asia	Asia
+62fddd54bc6fe9e1b46659a3	22125		15.870032	100.992541	2005	Ogawa	rectal swab culture	Thailand	2005-XX-XX	Clinical	Southeast Asia	Asia
+62fddd54bc6fe978fb6659a4	22126		15.870032	100.992541	2005	Ogawa	rectal swab culture	Thailand	2005-XX-XX	Clinical	Southeast Asia	Asia
+650ad2fce44dc84956ad4aff	22127		15.870032	100.992541	2005	NA	rectal swab culture	Thailand	2005-XX-XX	Clinical	Southeast Asia	Asia
+62fddd54bc6fe927a76659a5	22128		15.870032	100.992541	2005	Ogawa	rectal swab culture	Thailand	2005-XX-XX	Clinical	Southeast Asia	Asia
+62fddd54bc6fe9cdf46659a6	22135		15.870032	100.992541	1994	-	stool	Thailand	1994-XX-XX	Clinical	Southeast Asia	Asia
+62fddd54bc6fe96dac6659a7	22136		15.870032	100.992541	1994	-	stool	Thailand	1994-XX-XX	Clinical	Southeast Asia	Asia
+62fddd54bc6fe962876659a8	22137		15.870032	100.992541	1994	-	stool	Thailand	1994-XX-XX	Clinical	Southeast Asia	Asia
+62fddd54bc6fe955a96659a9	22138		15.870032	100.992541	1994	-	stool	Thailand	1994-XX-XX	Clinical	Southeast Asia	Asia
+62fa15fd1325153b4e3feafb	2255-CDC		35.86166	104.195397	2008	NA	Clinical	China	2008-XX-XX	Clinical	East Asia	Asia
+62fa15fd1325159abc3feafc	2308-CDC		35.86166	104.195397	1978	NA	Clinical	China	1978-XX-XX	Clinical	East Asia	Asia
+63555e20adddae5f971d83d9	2496		23.634501	-102.552784	2010	Inaba	Clinical	Mexico	2010-XX-XX	Clinical	Central America	North America
+62fa15fd132515a6043feafd	2530-CDC		35.86166	104.195397	1996	NA	Clinical	China	1996-XX-XX	Clinical	East Asia	Asia
+63555e20adddae62f11d83da	2533		23.634501	-102.552784	2007	Ogawa	Clinical	Mexico	2007-XX-XX	Clinical	Central America	North America
+62fa15fd13251507913feafe	2574-CDC		35.86166	104.195397	1980	NA	Clinical	China	1980-XX-XX	Clinical	East Asia	Asia
+62fa15fd13251524ec3feaff	2578-CDC		35.86166	104.195397	1985	NA	Clinical	China	1985-XX-XX	Clinical	East Asia	Asia
+62fa15fd132515acaf3feb00	2580-CDC		35.86166	104.195397	1989	NA	Clinical	China	1989-XX-XX	Clinical	East Asia	Asia
+63790c01ca7802d64f6662de	259_01		-13.133897	27.849332	2004	NA		Zambia	2004-XX-XX	NA	East Africa	Africa
+62fa15fd1325153f553feb01	2605-CDC		35.86166	104.195397	1998	NA	Clinical	China	1998-XX-XX	Clinical	East Asia	Asia
+63790c01ca78021b066662df	262_14		7.946527	-1.023194	2014	NA		Ghana	2014-XX-XX	NA	West Africa	Africa
+62fa15fd132515864c3feb02	2657-CDC		35.86166	104.195397	1995	NA	Clinical	China	1995-XX-XX	Clinical	East Asia	Asia
+62fa15fd13251567a13feb03	2710-CDC		35.86166	104.195397	1986	NA	Clinical	China	1986-XX-XX	Clinical	East Asia	Asia
+62fa15fd132515a8133feb04	2744-CDC		35.86166	104.195397	1962	NA	Clinical	China	1962-XX-XX	Clinical	East Asia	Asia
+62fa15fd132515b4cb3feb05	2752-CDC		35.86166	104.195397	1981	NA	Clinical	China	1981-XX-XX	Clinical	East Asia	Asia
+62fa15fd132515863b3feb06	2757-CDC		35.86166	104.195397	1987	NA	Clinical	China	1987-XX-XX	Clinical	East Asia	Asia
+62fa15fd132515c66e3feb07	2783-CDC		35.86166	104.195397	1964	NA	Clinical	China	1964-XX-XX	Clinical	East Asia	Asia
+63790c01ca780206f66662e0	280_02		-13.133897	27.849332	1996	NA		Zambia	1996-XX-XX	NA	East Africa	Africa
+6384abd19933353c132807dc	281_8A_douala_2010		7.369722	12.354722	2010	NA	Clinical	Cameroon	2010-XX-XX	Clinical	Central Africa	Africa
+62fa15fd13251524033feb09	2848-CDC		35.86166	104.195397	1988	NA	Clinical	China	1988-XX-XX	Clinical	East Asia	Asia
+6384abd19933351fa82807dd	285_11A_foumban_2010		7.369722	12.354722	2010	NA	Clinical	Cameroon	2010-XX-XX	Clinical	Central Africa	Africa
+62fa15fd13251534d53feb0a	2865-CDC		35.86166	104.195397	1961	NA	Clinical	China	1961-XX-XX	Clinical	East Asia	Asia
+62fa15fd1325150c8a3feb0b	2873-CDC		35.86166	104.195397	1961	NA	Clinical	China	1961-XX-XX	Clinical	East Asia	Asia
+62fa15fd13251583283feb0c	2881-CDC		35.86166	104.195397	1961	NA	Clinical	China	1961-XX-XX	Clinical	East Asia	Asia
+63555e20adddae37551d83b3	289		-16.290154	-63.588653	1991	Ogawa	Human	Bolivia	1991-XX-XX	Clinical	South America	South America
+637b8a3aca7802794e667157	28_11		7.946527	-1.023194	2011	NA	Human	Ghana	2011-XX-XX	Clinical	West Africa	Africa
+62fa15fd132515515b3feb0e	2914-CDC		35.86166	104.195397	1966	NA	Clinical	China	1966-XX-XX	Clinical	East Asia	Asia
+62fa15fd132515124c3feb0f	2921-CDC		35.86166	104.195397	1962	NA	Clinical	China	1962-XX-XX	Clinical	East Asia	Asia
+62fa15fd1325152add3feb10	2957-CDC		35.86166	104.195397	1964	NA	Clinical	China	1964-XX-XX	Clinical	East Asia	Asia
+6523bf7080be8d0c00404250	29791_3_171		23.684994	90.356331	2016	NA	Clinical	Bangladesh	2016-XX-XX	Clinical	South Asia	Asia
+6523bf7080be8d1f8740425b	29791_3_220		23.684994	90.356331	2016	NA	Clinical	Bangladesh	2016-XX-XX	Clinical	South Asia	Asia
+6523bf7080be8d6b9d40422b	29791_3_24		23.684994	90.356331	2015	NA	Clinical	Bangladesh	2015-XX-XX	Clinical	South Asia	Asia
+6523bf7080be8d1d19404261	29791_3_260		23.684994	90.356331	2016	NA	Clinical	Bangladesh	2016-XX-XX	Clinical	South Asia	Asia
+6523bf7080be8d13cd40426b	29791_3_293		23.684994	90.356331	2015	NA	Clinical	Bangladesh	2015-XX-XX	Clinical	South Asia	Asia
+6523bf7080be8d13f440422f	29791_3_34		23.684994	90.356331	2017	NA	Clinical	Bangladesh	2017-XX-XX	Clinical	South Asia	Asia
+6523bf7080be8d5dbf404273	29791_3_345		23.684994	90.356331	2016	NA	Clinical	Bangladesh	2016-XX-XX	Clinical	South Asia	Asia
+6523bf7080be8d6fa8404275	29791_3_358		23.684994	90.356331	2014	NA	Clinical	Bangladesh	2014-XX-XX	Clinical	South Asia	Asia
+6523bf7080be8d023840427a	29791_3_378		23.684994	90.356331	2014	NA	Clinical	Bangladesh	2014-XX-XX	Clinical	South Asia	Asia
+6523bf7080be8d82b5404233	29791_3_53		23.684994	90.356331	2015	NA	Clinical	Bangladesh	2015-XX-XX	Clinical	South Asia	Asia
+62fa15fd132515c9a83feb11	2981-CDC		35.86166	104.195397	1965	NA	Clinical	China	1965-XX-XX	Clinical	East Asia	Asia
+6523bf7080be8dd7aa4042a7	29878_3_334		23.684994	90.356331	2018	NA	Clinical	Bangladesh	2018-XX-XX	Clinical	South Asia	Asia
+6523bf7080be8df8a040428c	29878_3_42		23.684994	90.356331	2018	NA	Clinical	Bangladesh	2018-XX-XX	Clinical	South Asia	Asia
+63790c01ca7802656f6662d4	3		-4.038333	21.758664	2009	NA	Human	Democratic Republic of the Congo	2009-XX-XX	Clinical	Central Africa	Africa
+62ff5e6ca12eba4fbb9f909d	300043		-18.665695	35.529562	2008	NA	stool	Mozambique	2008-XX-XX	Clinical	East Africa	Africa
+62ff5e6ca12ebaf4b89f90a0	300208		-18.665695	35.529562	2008	NA	stool	Mozambique	2008-XX-XX	Clinical	East Africa	Africa
+62ff5e6ca12eba463b9f90a1	300209		-18.665695	35.529562	2008	NA	stool	Mozambique	2008-XX-XX	Clinical	East Africa	Africa
+62ff5e6ca12ebad8819f90a2	300215		-18.665695	35.529562	2008	NA	stool	Mozambique	2008-XX-XX	Clinical	East Africa	Africa
+62fa15fd132515c00a3feb12	3014-CDC		35.86166	104.195397	1969	NA	Clinical	China	1969-XX-XX	Clinical	East Asia	Asia
+62ff5e6ca12ebaae429f90a4	302015		-18.665695	35.529562	2009	NA	stool	Mozambique	2009-XX-XX	Clinical	East Africa	Africa
+62ff5e6ca12eba740f9f90a5	302029		-18.665695	35.529562	2009	NA	stool	Mozambique	2009-XX-XX	Clinical	East Africa	Africa
+62fa15fd1325157ad33feb13	3024-CDC		35.86166	104.195397	1973	NA	Clinical	China	1973-XX-XX	Clinical	East Asia	Asia
+62fddd54bc6fe95113665991	305/AD1697		15.870032	100.992541	1985	Inaba	stool	Thailand	1985-XX-XX	Clinical	Southeast Asia	Asia
+62fa15fd13251534ab3feb14	3075-CDC		35.86166	104.195397	1974	NA	Clinical	China	1974-XX-XX	Clinical	East Asia	Asia
+6523bf7080be8d4ab14042e0	31585_4_359		23.684994	90.356331	2017	NA	Clinical	Bangladesh	2017-XX-XX	Clinical	South Asia	Asia
+636d085725257840be6f72af	31_1		-0.023559	37.906193	2015	Ogawa	Human	Kenya	2015-XX-XX	Clinical	East Africa	Africa
+63555e20adddae888c1d83e1	3221		-14.235004	-51.92528	1991	Ogawa	Human	Brazil	1991-XX-XX	Clinical	South America	South America
+62fa15fd13251519a63feb16	3270-CDC		35.86166	104.195397	1977	NA	Clinical	China	1977-XX-XX	Clinical	East Asia	Asia
+62fa15fd1325151a763feb17	3289-CDC		35.86166	104.195397	1978	NA	Clinical	China	1978-XX-XX	Clinical	East Asia	Asia
+63790c01ca7802b6266662e1	329_01		-13.133897	27.849332	2004	NA		Zambia	2004-XX-XX	NA	East Africa	Africa
+63790c01ca7802fc5f6662e2	329_02		-13.133897	27.849332	1996	NA		Zambia	1996-XX-XX	NA	East Africa	Africa
+637b8a3aca7802617e66715a	32_10		7.946527	-1.023194	2010	NA	Human	Ghana	2010-XX-XX	Clinical	West Africa	Africa
+62fa15fd1325154f653feb18	3304-CDC		35.86166	104.195397	1979	NA	Clinical	China	1979-XX-XX	Clinical	East Asia	Asia
+63790c01ca78020c236662e3	330_02		-13.133897	27.849332	1997	NA		Zambia	1997-XX-XX	NA	East Africa	Africa
+6384abd1993335edf82807e0	330_2A_buea_2010		7.369722	12.354722	2010	NA	Clinical	Cameroon	2010-XX-XX	Clinical	Central Africa	Africa
+6523f5b780be8d09e440440e	33224_2_133		15.552727	48.516388	2018	NA	Human	Yemen	2018-XX-XX	Clinical	Western/Central Asia	Asia
+6523f5b780be8d3549404424	33224_2_166		15.552727	48.516388	2019	NA	Human	Yemen	2019-XX-XX	Clinical	Western/Central Asia	Asia
+6523f5b780be8d0e04404436	33224_2_193		15.552727	48.516388	2018	NA	Human	Yemen	2018-XX-XX	Clinical	Western/Central Asia	Asia
+6523f5b780be8d96dd40444d	33224_2_230		15.552727	48.516388	2019	NA	Human	Yemen	2019-XX-XX	Clinical	Western/Central Asia	Asia
+6523f5b780be8d1689404451	33224_2_237		15.552727	48.516388	2019	NA	Human	Yemen	2019-XX-XX	Clinical	Western/Central Asia	Asia
+6523f5b780be8d624c40448d	33224_2_308		15.552727	48.516388	2019	NA	Human	Yemen	2019-XX-XX	Clinical	Western/Central Asia	Asia
+6523f5b780be8d2f4c404492	33224_2_315		15.552727	48.516388	2018	NA	Human	Yemen	2018-XX-XX	Clinical	Western/Central Asia	Asia
+6523f5b780be8d24aa404499	33224_2_323		15.552727	48.516388	2018	NA	Human	Yemen	2018-XX-XX	Clinical	Western/Central Asia	Asia
+6523f5b780be8da81540449d	33224_2_327		15.552727	48.516388	2019	NA	Human	Yemen	2019-XX-XX	Clinical	Western/Central Asia	Asia
+6523f5b780be8d95064043dd	33224_2_55		15.552727	48.516388	2018	NA	Human	Yemen	2018-XX-XX	Clinical	Western/Central Asia	Asia
+6523bf7080be8d43804042f3	33308_1_124		23.684994	90.356331	2019	NA	Clinical	Bangladesh	2019-XX-XX	Clinical	South Asia	Asia
+6523bf7080be8d5e604042f5	33308_1_132		23.684994	90.356331	2019	NA	Clinical	Bangladesh	2019-XX-XX	Clinical	South Asia	Asia
+6523bf7080be8d68ec404301	33308_1_179		23.684994	90.356331	2019	NA	Clinical	Bangladesh	2019-XX-XX	Clinical	South Asia	Asia
+6523bf7080be8d9e024042ea	33308_1_86		23.684994	90.356331	2019	NA	Clinical	Bangladesh	2019-XX-XX	Clinical	South Asia	Asia
+63790c01ca7802b53d6662e4	336_01		-13.133897	27.849332	2004	NA		Zambia	2004-XX-XX	NA	East Africa	Africa
+650ad2fce44dc80574ad4afd	349/264		15.870032	100.992541	1983	NA	stool	Thailand	1983-XX-XX	Clinical	Southeast Asia	Asia
+62fa15fd13251567b93feb19	3497-CDC		35.86166	104.195397	1980	NA	Clinical	China	1980-XX-XX	Clinical	East Asia	Asia
+62ff5e6ca12eba35329f9079	35		-18.665695	35.529562	2002	NA	stool	Mozambique	2002-XX-XX	Clinical	East Africa	Africa
+62fa15fd13251540103feb1a	3538-CDC		35.86166	104.195397	1981	NA	Clinical	China	1981-XX-XX	Clinical	East Asia	Asia
+63555e20adddae34ce1d843c	354		23.634501	-102.552784	2008	NA	Food	Mexico	2008-XX-XX	Food	Central America	North America
+63790c01ca780247bf6662e5	354_02		-13.133897	27.849332	1996	NA		Zambia	1996-XX-XX	NA	East Africa	Africa
+62eccf75ac5d5d7596070bbe	3554-08		28.394857	84.124008	2008	Ogawa	Clinical	Nepal	2008-XX-XX	Clinical	South Asia	Asia
+62fa15fd13251597523feb1b	3564-CDC		35.86166	104.195397	1982	NA	Clinical	China	1982-XX-XX	Clinical	East Asia	Asia
+62eccf75ac5d5d393a070bc0	3582-05		30.375321	69.345116	2005	Inaba	Clinical	Pakistan	2005-XX-XX	Clinical	South Asia	Asia
+62fa15fd1325159cc33feb1c	3595-CDC		35.86166	104.195397	1983	NA	Clinical	China	1983-XX-XX	Clinical	East Asia	Asia
+62fa15fd1325150a4d3feb1d	3626-CDC		35.86166	104.195397	1983	NA	Clinical	China	1983-XX-XX	Clinical	East Asia	Asia
+62fa15fd132515a54c3feb1e	3633-CDC		35.86166	104.195397	1984	NA	Clinical	China	1984-XX-XX	Clinical	East Asia	Asia
+63555e20adddae0f861d83b5	368		4.570868	-74.297333	1992	Ogawa	River water	Colombia	1992-XX-XX	Environmental	South America	South America
+63555e20adddaea5871d83b6	372		23.634501	-102.552784	2008	Inaba	Food	Mexico	2008-XX-XX	Food	Central America	North America
+62fa15fd1325159a0f3feb1f	3735-CDC		35.86166	104.195397	1988	NA	Clinical	China	1988-XX-XX	Clinical	East Asia	Asia
+637b8a3aca7802d26366715e	38_10		7.946527	-1.023194	2010	NA	Human	Ghana	2010-XX-XX	Clinical	West Africa	Africa
+637b8a3aca7802185966715f	39_12		7.946527	-1.023194	2012	NA	Human	Ghana	2012-XX-XX	Clinical	West Africa	Africa
+62fa15fd1325156f503feb20	4039-CDC		35.86166	104.195397	1993	NA	Clinical	China	1993-XX-XX	Clinical	East Asia	Asia
+62fa15fd132515b0d03feb21	4070-CDC		35.86166	104.195397	1994	NA	Clinical	China	1994-XX-XX	Clinical	East Asia	Asia
+62eb9d20ac5d5d8555070330	4110		14.058324	108.277199	1995	Inaba		Viet Nam	1995-XX-XX	NA	Southeast Asia	Asia
+62eb9d20ac5d5d8d91070331	4111		14.058324	108.277199	2002	Inaba		Viet Nam	2002-XX-XX	NA	Southeast Asia	Asia
+62eb9d20ac5d5d1ebb070332	4113		14.058324	108.277199	2003	Inaba		Viet Nam	2003-XX-XX	NA	Southeast Asia	Asia
+62eb9d20ac5d5d41b3070333	4121		14.058324	108.277199	2004	Ogawa		Viet Nam	2004-XX-XX	NA	Southeast Asia	Asia
+62fa15fd132515f2253feb22	4210-CDC		35.86166	104.195397	1999	NA	Clinical	China	1999-XX-XX	Clinical	East Asia	Asia
+637e3053f971a13e7105419d	4244		20.593684	78.96288	2003	NA	Clinical	India	2003-XX-XX	Clinical	South Asia	Asia
+637e3053f971a191e90541a5	4265		20.593684	78.96288	2003	NA	Clinical	India	2003-XX-XX	Clinical	South Asia	Asia
+637b8a3aca78025d55667160	42_15		7.946527	-1.023194	2015	NA	Human	Ghana	2015-XX-XX	Clinical	West Africa	Africa
+637e3053f971a1a4040541ba	4315		20.593684	78.96288	2004	NA	Clinical	India	2004-XX-XX	Clinical	South Asia	Asia
+63555e20adddae3dc31d83b8	433		-14.235004	-51.92528	1991	Inaba	Human	Brazil	1991-XX-XX	Clinical	South America	South America
+637e3053f971a15d2d0541ce	4374		20.593684	78.96288	2004	NA	Clinical	India	2004-XX-XX	Clinical	South Asia	Asia
+637e3053f971a137010541d0	4380		20.593684	78.96288	2004	NA	Clinical	India	2004-XX-XX	Clinical	South Asia	Asia
+637e3053f971a1a8cc0541d9	4395		20.593684	78.96288	2004	NA	Clinical	India	2004-XX-XX	Clinical	South Asia	Asia
+62eb9d20ac5d5d23d1070337	4488		20.593684	78.96288	2006	Ogawa		India	2006-XX-XX	NA	South Asia	Asia
+62eb9d20ac5d5db9b107033a	4538		20.593684	78.96288	2007	Inaba		India	2007-XX-XX	NA	South Asia	Asia
+62fddd54bc6fe97e5e665999	4610/3 (404)		15.870032	100.992541	1995	-	stool	Thailand	1995-XX-XX	Clinical	Southeast Asia	Asia
+636d085725257868446f72b0	4621STDY6714748		-0.023559	37.906193	2015	NA	Human	Kenya	2015-XX-XX	Clinical	East Africa	Africa
+636d085725257809476f72b1	4621STDY6714749		-0.023559	37.906193	2015	NA	Human	Kenya	2015-XX-XX	Clinical	East Africa	Africa
+636d085725257801826f72b2	4621STDY6714750		-0.023559	37.906193	2015	NA	Human	Kenya	2015-XX-XX	Clinical	East Africa	Africa
+636d08572525787c3d6f72b3	4621STDY6714758		-0.023559	37.906193	2015	NA	Human	Kenya	2015-XX-XX	Clinical	East Africa	Africa
+636d0857252578247e6f72b4	4621STDY6714763		-0.023559	37.906193	2012	NA	Human	Kenya	2012-XX-XX	Clinical	East Africa	Africa
+636d0857252578c13b6f72b5	4621STDY6714768		-0.023559	37.906193	2012	NA	Human	Kenya	2012-XX-XX	Clinical	East Africa	Africa
+636d08572525787fdf6f72b6	4621STDY6714774		-0.023559	37.906193	2012	NA	Human	Kenya	2012-XX-XX	Clinical	East Africa	Africa
+636d0857252578718a6f72b8	4621STDY6714780		-0.023559	37.906193	2016	NA	Human	Kenya	2016-XX-XX	Clinical	East Africa	Africa
+637e3053f971a186ea0541fa	4634		20.593684	78.96288	2005	NA	Clinical	India	2005-XX-XX	Clinical	South Asia	Asia
+637e3053f971a166330541fc	4636		20.593684	78.96288	2005	NA	Clinical	India	2005-XX-XX	Clinical	South Asia	Asia
+62eb9d20ac5d5d195a070343	4646		20.593684	78.96288	2007	Ogawa		India	2007-XX-XX	NA	South Asia	Asia
+62eb9d20ac5d5dff82070346	4661		23.684994	90.356331	2001	Ogawa		Bangladesh	2001-XX-XX	NA	South Asia	Asia
+62eb9d20ac5d5d4489070347	4662		23.684994	90.356331	2001	Ogawa		Bangladesh	2001-XX-XX	NA	South Asia	Asia
+62eb9d20ac5d5d35a7070348	4663		23.684994	90.356331	2001	Ogawa		Bangladesh	2001-XX-XX	NA	South Asia	Asia
+62eb9d20ac5d5d7170070349	4670		23.684994	90.356331	1991	Inaba		Bangladesh	1991-XX-XX	NA	South Asia	Asia
+62eb9d20ac5d5d3b2107034a	4672		23.684994	90.356331	2000	Ogawa		Bangladesh	2000-XX-XX	NA	South Asia	Asia
+62eb9d20ac5d5d598107034b	4675		23.684994	90.356331	2001	Ogawa		Bangladesh	2001-XX-XX	NA	South Asia	Asia
+62eb9d20ac5d5ddd5c07034c	4679		23.684994	90.356331	1999	Ogawa		Bangladesh	1999-XX-XX	NA	South Asia	Asia
+62fddd54bc6fe927b7665992	476/167		15.870032	100.992541	1983	Ogawa	stool	Thailand	1983-XX-XX	Clinical	Southeast Asia	Asia
+62eb9d20ac5d5d6a6e07034d	4784		-6.369028	34.888822	2009	Ogawa		Tanzania	2009-XX-XX	NA	East Africa	Africa
+637b8a3aca78022be26671af	479_11		7.946527	-1.023194	2011	NA	Human	Ghana	2011-XX-XX	Clinical	West Africa	Africa
+637b8a3aca780242db667162	47_15		7.946527	-1.023194	2015	NA	Human	Ghana	2015-XX-XX	Clinical	West Africa	Africa
+637b8a3aca78028dc66671b3	490_12		7.946527	-1.023194	2012	NA	Human	Ghana	2012-XX-XX	Clinical	West Africa	Africa
+637b8a3aca780216b96671b4	498_12		7.946527	-1.023194	2012	NA	Human	Ghana	2012-XX-XX	Clinical	West Africa	Africa
+63790c01ca780256c56662d5	4_1970		31.046051	34.851612	1970	NA		Israel	1970-XX-XX	NA	Western/Central Asia	Asia
+62fddd54bc6fe9f60d66599a	5000/3 (416)		15.870032	100.992541	1995	-	stool	Thailand	1995-XX-XX	Clinical	Southeast Asia	Asia
+62fddd54bc6fe9eb1e665993	501/771		15.870032	100.992541	1985	Inaba	stool	Thailand	1985-XX-XX	Clinical	Southeast Asia	Asia
+63555e20adddae815d1d83e4	5032		23.634501	-102.552784	2005	Inaba	Environmental	Mexico	2005-XX-XX	Environmental	Central America	North America
+63555e20adddae06a51d83b9	504		23.634501	-102.552784	2008	Inaba	Food	Mexico	2008-XX-XX	Food	Central America	North America
+62fddd54bc6fe9ce8e665994	510/77		15.870032	100.992541	1983	Inaba	stool	Thailand	1983-XX-XX	Clinical	Southeast Asia	Asia
+62fddd54bc6fe9084f66599b	5114/3 (451)		15.870032	100.992541	1995	-	stool	Thailand	1995-XX-XX	Clinical	Southeast Asia	Asia
+62f234975f2db8a2adb6756a	5157		20.593684	78.96288	2009	Ogawa	Clinical	India	2009-XX-XX	Clinical	South Asia	Asia
+62f234975f2db833c2b67575	5286		20.593684	78.96288	2009	Ogawa	Clinical	India	2009-XX-XX	Clinical	South Asia	Asia
+637e370ef971a152fc05426c	539		35.86166	104.195397	2005	NA	Clinical	China	2005-XX-XX	Clinical	East Asia	Asia
+63555e20adddae04ea1d8361	54		23.634501	-102.552784	1999	Ogawa	Clinical	Mexico	1999-XX-XX	Clinical	Central America	North America
+637e370ef971a131ba05426d	542		35.86166	104.195397	2005	NA	Clinical	China	2005-XX-XX	Clinical	East Asia	Asia
+63555e20adddae32fd1d83ee	54267		23.634501	-102.552784	1994	NA	Clinical	Mexico	1994-XX-XX	Clinical	Central America	North America
+63555e20adddaec6c41d83ef	54328		23.634501	-102.552784	1994	NA	Clinical	Mexico	1994-XX-XX	Clinical	Central America	North America
+62fddd54bc6fe93d3166599c	5457/3 (412)		15.870032	100.992541	1995	-	stool	Thailand	1995-XX-XX	Clinical	Southeast Asia	Asia
+637b8a3aca78023715667168	56_12		7.946527	-1.023194	2012	NA	Human	Ghana	2012-XX-XX	Clinical	West Africa	Africa
+63555e20adddae08691d83bb	601		23.634501	-102.552784	2010	Inaba	Food	Mexico	2010-XX-XX	Food	Central America	North America
+62f234975f2db8286cb6757a	6016		20.593684	78.96288	2009	Ogawa	Clinical	India	2009-XX-XX	Clinical	South Asia	Asia
+637e370ef971a1907405426e	604		35.86166	104.195397	2006	NA	Clinical	China	2006-XX-XX	Clinical	East Asia	Asia
+63555e20adddaef5e41d83f1	60483		23.634501	-102.552784	1995	NA	Clinical	Mexico	1995-XX-XX	Clinical	Central America	North America
+637e370ef971a1e7fa05426f	606		35.86166	104.195397	2006	NA	Clinical	China	2006-XX-XX	Clinical	East Asia	Asia
+62eb9d20ac5d5d330d07034f	6191		-0.023559	37.906193	2005	Inaba		Kenya	2005-XX-XX	NA	East Africa	Africa
+62eb9d20ac5d5d0836070350	6193		-0.023559	37.906193	2005	Inaba		Kenya	2005-XX-XX	NA	East Africa	Africa
+62eb9d20ac5d5d6163070351	6194		-0.023559	37.906193	2007	Inaba		Kenya	2007-XX-XX	NA	East Africa	Africa
+62eb9d20ac5d5d28ff070354	6197		-0.023559	37.906193	2007	Inaba		Kenya	2007-XX-XX	NA	East Africa	Africa
+62eb9d20ac5d5d774f070355	6201		-0.023559	37.906193	2007	Inaba		Kenya	2007-XX-XX	NA	East Africa	Africa
+62eb9d20ac5d5d303c070356	6210		-0.023559	37.906193	2007	Inaba		Kenya	2007-XX-XX	NA	East Africa	Africa
+62eb9d20ac5d5d08aa070358	6214		-0.023559	37.906193	2007	Inaba		Kenya	2007-XX-XX	NA	East Africa	Africa
+62eb9d20ac5d5dac10070359	6215		-0.023559	37.906193	2005	Inaba		Kenya	2005-XX-XX	NA	East Africa	Africa
+63790c01ca7802da7a6662e7	622		-4.038333	21.758664	2009	NA	Human	Democratic Republic of the Congo	2009-XX-XX	Clinical	Central Africa	Africa
+650ad2fce44dc878a7ad4afe	6225/3 (425)		15.870032	100.992541	1995	NA	stool	Thailand	1995-XX-XX	Clinical	Southeast Asia	Asia
+62f234975f2db80970b6757f	6236		20.593684	78.96288	2009	Ogawa	Clinical	India	2009-XX-XX	Clinical	South Asia	Asia
+62fa15fd132515b6183feb23	6310-CDC		-0.789275	113.921327	1961	NA	Clinical	Indonesia	1961-XX-XX	Clinical	Southeast Asia	Asia
+62fa15fd13251565343feb24	6311-CDC		-0.789275	113.921327	1961	NA	Clinical	Indonesia	1961-XX-XX	Clinical	Southeast Asia	Asia
+62fa15fd132515ddf13feb25	6312-CDC		-0.789275	113.921327	1961	NA	Clinical	Indonesia	1961-XX-XX	Clinical	Southeast Asia	Asia
+62fa15fd1325150ac83feb26	63244-CDC		35.86166	104.195397	1963	NA	Clinical	China	1963-XX-XX	Clinical	East Asia	Asia
+62fa15fd1325157b613feb29	642345-CDC		35.86166	104.195397	1964	NA	Clinical	China	1964-XX-XX	Clinical	East Asia	Asia
+63555e20adddae3d751d83e5	6811		4.570868	-74.297333	1991	Inaba	Human	Colombia	1991-XX-XX	Clinical	South America	South America
+63555e20adddae1c241d83be	688		23.634501	-102.552784	2006	Inaba	Food	Mexico	2006-XX-XX	Food	Central America	North America
+637e370ef971a1936a054270	707		35.86166	104.195397	2007	Inaba	Clinical	China	2007-XX-XX	Clinical	East Asia	Asia
+63790c01ca7802c51a6662e8	712_11		7.946527	-1.023194	2011	NA		Ghana	2011-XX-XX	NA	West Africa	Africa
+63790c01ca78024efb6662e9	726		-4.038333	21.758664	2009	NA	Human	Democratic Republic of the Congo	2009-XX-XX	Clinical	Central Africa	Africa
+637b8a3aca7802e7676671bb	749_11		7.946527	-1.023194	2011	NA	Human	Ghana	2011-XX-XX	Clinical	West Africa	Africa
+62fbdbbd13251529333feed4	76		48.379433	31.16558	2011	NA	Clinical	Ukraine	2011-XX-XX	Clinical	Eastern Europe	Europe
+62eb9d20ac5d5d464f07035b	7684		-0.023559	37.906193	2009	Inaba		Kenya	2009-XX-XX	NA	East Africa	Africa
+62eb9d20ac5d5d9adf07035d	7686		-0.023559	37.906193	2009	Inaba		Kenya	2009-XX-XX	NA	East Africa	Africa
+62eb9d20ac5d5d863107035e	7687		-0.023559	37.906193	2009	Inaba		Kenya	2009-XX-XX	NA	East Africa	Africa
+62ff5e6ca12ebade619f9070	8		-18.665695	35.529562	2005	NA	river	Mozambique	2005-XX-XX	Environmental	East Africa	Africa
+63555e20adddae58ee1d83e7	8012		23.634501	-102.552784	1991	Inaba	Clinical	Mexico	1991-XX-XX	Clinical	Central America	North America
+63555e20adddaeef0b1d83e8	8022		23.634501	-102.552784	1991	Inaba	Clinical	Mexico	1991-XX-XX	Clinical	Central America	North America
+62fddd54bc6fe955ae665995	816 ct 634		15.870032	100.992541	1984	Inaba	stool	Thailand	1984-XX-XX	Clinical	Southeast Asia	Asia
+637e370ef971a12a09054271	820		35.86166	104.195397	2008	NA	Clinical	China	2008-XX-XX	Clinical	East Asia	Asia
+63555e20adddae8f7c1d83c0	838		23.634501	-102.552784	1999	Ogawa	Clinical	Mexico	1999-XX-XX	Clinical	Central America	North America
+63555e20adddae1ece1d8363	85		23.634501	-102.552784	2000	Ogawa	Clinical	Mexico	2000-XX-XX	Clinical	Central America	North America
+62fa15fd132515bcf43feaee	863-CDC		21.00789	-10.940835	1986	NA	Clinical	Mauritania	1986-XX-XX	Clinical	West Africa	Africa
+638a044cf00f707cc91c7657	891315		-19.015438	29.154857	2015	Ogawa	Human	Zimbabwe	2015-XX-XX	Clinical	East Africa	Africa
+638a044cf00f703ad61c7658	891316		-19.015438	29.154857	2015	Ogawa	Human	Zimbabwe	2015-XX-XX	Clinical	East Africa	Africa
+62fa15fd132515189c3feae9	9-CDC		35.86166	104.195397	2001	NA	Clinical	China	2001-XX-XX	Clinical	East Asia	Asia
+637e370ef971a1d551054272	902		35.86166	104.195397	2009	NA	Clinical	China	2009-XX-XX	Clinical	East Asia	Asia
+62f234975f2db8c517b6758c	9088		20.593684	78.96288	2009	Ogawa	Clinical	India	2009-XX-XX	Clinical	South Asia	Asia
+63555e20adddaef6cb1d8364	91/02		23.634501	-102.552784	1991	Inaba	Human	Mexico	1991-XX-XX	Clinical	Central America	North America
+637e370ef971a1130a054273	910		35.86166	104.195397	2009	NA	Clinical	China	2009-XX-XX	Clinical	East Asia	Asia
+63555e20adddae80721d8370	92/18238		23.634501	-102.552784	1992	Inaba	Human	Mexico	1992-XX-XX	Clinical	Central America	North America
+63555e20adddae7c761d8372	92/18282		23.634501	-102.552784	1992	Inaba	Human	Mexico	1992-XX-XX	Clinical	Central America	North America
+63555e20adddae000d1d8373	92/20547		23.634501	-102.552784	1992	Inaba	Human	Mexico	1992-XX-XX	Clinical	Central America	North America
+63555e20adddaea1ea1d8375	92/33213		23.634501	-102.552784	1992	Ogawa	Human	Mexico	1992-XX-XX	Clinical	Central America	North America
+637b8a3aca7802c218667176	92_15		7.946527	-1.023194	2015	NA	Human	Ghana	2015-XX-XX	Clinical	West Africa	Africa
+63555e20adddae2a191d8377	93/34347		23.634501	-102.552784	1993	Ogawa	Human	Mexico	1993-XX-XX	Clinical	Central America	North America
+63555e20adddae35af1d8379	93/38850		23.634501	-102.552784	1993	Ogawa	Human	Mexico	1993-XX-XX	Clinical	Central America	North America
+63555e20adddae30cd1d837a	93/40130		23.634501	-102.552784	1993	Ogawa	Human	Mexico	1993-XX-XX	Clinical	Central America	North America
+63555e20adddae719a1d837c	93/45551		23.634501	-102.552784	1993	Ogawa	Human	Mexico	1993-XX-XX	Clinical	Central America	North America
+62fa15fd13251588b83feb27	93284-CDC		35.86166	104.195397	1993	NA	Clinical	China	1993-XX-XX	Clinical	East Asia	Asia
+62fa15fd13251538283feaef	936-CDC		35.86166	104.195397	1998	NA	Clinical	China	1998-XX-XX	Clinical	East Asia	Asia
+63555e20adddae0e1a1d837f	94/57121		23.634501	-102.552784	1994	Ogawa	Human	Mexico	1994-XX-XX	Clinical	Central America	North America
+63555e20adddae7f831d8380	94/57122		23.634501	-102.552784	1994	Ogawa	Human	Mexico	1994-XX-XX	Clinical	Central America	North America
+63555e20adddae01f91d8384	95/67202		23.634501	-102.552784	1995	Ogawa	Human	Mexico	1995-XX-XX	Clinical	Central America	North America
+63555e20adddaea81a1d8386	95/67800		23.634501	-102.552784	1995	Ogawa	Human	Mexico	1995-XX-XX	Clinical	Central America	North America
+63555e20adddae21671d838b	95/71490		23.634501	-102.552784	1995	Inaba	Human	Mexico	1995-XX-XX	Clinical	Central America	North America
+63555e20adddae6da91d838c	95/72066		23.634501	-102.552784	1995	Ogawa	Human	Mexico	1995-XX-XX	Clinical	Central America	North America
+63555e20adddae87561d83c3	956		-14.235004	-51.92528	1991	Inaba	Human	Brazil	1991-XX-XX	Clinical	South America	South America
+63555e20adddae58131d8390	96/1250		23.634501	-102.552784	1996	Ogawa	Human	Mexico	1996-XX-XX	Clinical	Central America	North America
+63555e20adddae338c1d8391	96/2152		23.634501	-102.552784	1996	Ogawa	Human	Mexico	1996-XX-XX	Clinical	Central America	North America
+63555e20adddae22581d8392	96/2218		23.634501	-102.552784	1996	Ogawa	Human	Mexico	1996-XX-XX	Clinical	Central America	North America
+63555e20adddae34801d8393	96/2440		23.634501	-102.552784	1996	Ogawa	Human	Mexico	1996-XX-XX	Clinical	Central America	North America
+637b8a3aca780228b466717b	96_15B		7.946527	-1.023194	2015	NA	Human	Ghana	2015-XX-XX	Clinical	West Africa	Africa
+63555e20adddae90661d839a	97/3144		23.634501	-102.552784	1997	Inaba	Human	Mexico	1997-XX-XX	Clinical	Central America	North America
+63555e20adddae65fd1d839c	97/3594		23.634501	-102.552784	1997	Ogawa	Human	Mexico	1997-XX-XX	Clinical	Central America	North America
+63555e20adddaee4901d8398	97/695		23.634501	-102.552784	1997	Ogawa	Human	Mexico	1997-XX-XX	Clinical	Central America	North America
+63555e20adddae9f9f1d8399	97/696		23.634501	-102.552784	1997	Ogawa	Human	Mexico	1997-XX-XX	Clinical	Central America	North America
+63555e20adddae041b1d839d	97/7432		23.634501	-102.552784	1997	Inaba	Human	Mexico	1997-XX-XX	Clinical	Central America	North America
+63555e20adddae8bb81d83c4	971		23.634501	-102.552784	2008	Inaba	Food	Mexico	2008-XX-XX	Food	Central America	North America
+63555e20adddaec4661d83a2	98/1236		23.634501	-102.552784	1998	Inaba	Human	Mexico	1998-XX-XX	Clinical	Central America	North America
+63555e20adddae67c31d83a6	98/2407		23.634501	-102.552784	1998	Ogawa	Human	Mexico	1998-XX-XX	Clinical	Central America	North America
+63555e20adddae7ea21d83a7	98/2754c		23.634501	-102.552784	1998	Ogawa	Human	Mexico	1998-XX-XX	Clinical	Central America	North America
+63555e20adddae3a051d83a1	98/749c		23.634501	-102.552784	1998	Ogawa	Human	Mexico	1998-XX-XX	Clinical	Central America	North America
+63555e20adddae47ef1d83c5	985		23.634501	-102.552784	2007	Inaba	Food	Mexico	2007-XX-XX	Food	Central America	North America
+63555e20adddae6bf21d83a9	99/52C		23.634501	-102.552784	1999	Ogawa	Human	Mexico	1999-XX-XX	Clinical	Central America	North America
+63555e20adddae07fe1d83aa	99/838		23.634501	-102.552784	1999	Ogawa	Human	Mexico	1999-XX-XX	Clinical	Central America	North America
+62eb9d20ac5d5d5fa2070362	A10		23.684994	90.356331	1979	Ogawa		Bangladesh	1979-XX-XX	NA	South Asia	Asia
+62eb9d20ac5d5d2cdc070376	A109		NA	NA	1990	Ogawa			1990-XX-XX	NA	NA	NA
+62eb9d20ac5d5dd706070378	A130		20.593684	78.96288	1989	Ogawa		India	1989-XX-XX	NA	South Asia	Asia
+62eb9d20ac5d5d6be9070379	A131		20.593684	78.96288	1989	Ogawa		India	1989-XX-XX	NA	South Asia	Asia
+62eb9d20ac5d5de60807037a	A152		-18.665695	35.529562	1991	Ogawa		Mozambique	1991-XX-XX	NA	East Africa	Africa
+62eb9d20ac5d5dc9ba07037b	A154		-18.665695	35.529562	1991	Ogawa		Mozambique	1991-XX-XX	NA	East Africa	Africa
+62eb9d20ac5d5d6cdc07037c	A155		-18.665695	35.529562	1991	Inaba		Mozambique	1991-XX-XX	NA	East Africa	Africa
+636f6a21b84af59c26806cf8	A1552		37.09024	-95.712891	1992	Inaba	Human	USA	1992-XX-XX	Clinical	North America	North America
+62eb9d20ac5d5dbaad07037d	A177		4.570868	-74.297333	1992	Inaba		Colombia	1992-XX-XX	NA	South America	South America
+62eb9d20ac5d5d136f070363	A18		20.593684	78.96288	1977	Inaba		India	1977-XX-XX	NA	South Asia	Asia
+62eb9d20ac5d5d2c3207037e	A180		4.570868	-74.297333	1992	Inaba		Colombia	1992-XX-XX	NA	South America	South America
+62eb9d20ac5d5d1e0707037f	A184		4.570868	-74.297333	1992	Ogawa		Colombia	1992-XX-XX	NA	South America	South America
+62eb9d20ac5d5d6f4d070380	A185		4.570868	-74.297333	1992	Ogawa		Colombia	1992-XX-XX	NA	South America	South America
+62eb9d20ac5d5d8d20070382	A193		-16.290154	-63.588653	1992	Ogawa		Bolivia	1992-XX-XX	NA	South America	South America
+62eb9d20ac5d5d7483070364	A22		23.684994	90.356331	1979	Inaba		Bangladesh	1979-XX-XX	NA	South Asia	Asia
+62eb9d20ac5d5d2b0807038b	A232		23.634501	-102.552784	1991	Inaba		Mexico	1991-XX-XX	NA	Central America	North America
+62eb9d20ac5d5dc80907038c	A241		14.058324	108.277199	1989	Inaba		Viet Nam	1989-XX-XX	NA	Southeast Asia	Asia
+62eb9d20ac5d5d589607038d	A245		14.058324	108.277199	1989	Ogawa		Viet Nam	1989-XX-XX	NA	Southeast Asia	Asia
+62eb9d20ac5d5d61ab070365	A27		-9.189967	-75.015152	1991	Inaba		Peru	1991-XX-XX	NA	South America	South America
+62eb9d20ac5d5d477e070366	A29		-9.189967	-75.015152	1991	Inaba		Peru	1991-XX-XX	NA	South America	South America
+62eb9d20ac5d5dee1f070367	A31		-9.189967	-75.015152	1991	Inaba		Peru	1991-XX-XX	NA	South America	South America
+62eb9d20ac5d5d5199070392	A346_1		23.684994	90.356331	1994	Ogawa		Bangladesh	1994-XX-XX	NA	South Asia	Asia
+62eb9d20ac5d5d2bb2070393	A346_2		23.684994	90.356331	1994	Ogawa		Bangladesh	1994-XX-XX	NA	South Asia	Asia
+62eb9d20ac5d5d4a25070396	A390		23.684994	90.356331	1987	Ogawa		Bangladesh	1987-XX-XX	NA	South Asia	Asia
+62eb9d20ac5d5d12f1070397	A397		23.684994	90.356331	1987	Ogawa		Bangladesh	1987-XX-XX	NA	South Asia	Asia
+62eb9d20ac5d5d284607035f	A4		NA	NA	1973	Inaba			1973-XX-XX	NA	NA	NA
+62eb9d20ac5d5dc682070398	A481		11.825138	42.590275	2007	Inaba		Djibouti	2007-XX-XX	NA	East Africa	Africa
+62eb9d20ac5d5d991b070399	A482		11.825138	42.590275	2007	Inaba		Djibouti	2007-XX-XX	NA	East Africa	Africa
+62eb9d20ac5d5dc73707039a	A483		11.825138	42.590275	2007	Inaba		Djibouti	2007-XX-XX	NA	East Africa	Africa
+62eb9d20ac5d5de618070360	A5		-11.202692	17.873887	1989	Inaba		Angola	1989-XX-XX	NA	Central Africa	Africa
+62eb9d20ac5d5dcae6070361	A6		-0.789275	113.921327	1957	Inaba		Indonesia	1957-XX-XX	NA	Southeast Asia	Asia
+63be7a71ff6bdd39c8e90bf2	AGC-16		-4.038333	21.758664	2017	Inaba	Clinical	Democratic Republic of the Congo	2017-XX-XX	Clinical	Central Africa	Africa
+63be7a71ff6bdd0116e90bf3	AGC-17		-4.038333	21.758664	2017	Inaba	Clinical	Democratic Republic of the Congo	2017-XX-XX	Clinical	Central Africa	Africa
+63be7a71ff6bdd7e5ee90bf4	AGC-18		-4.038333	21.758664	2017	Inaba	Clinical	Democratic Republic of the Congo	2017-XX-XX	Clinical	Central Africa	Africa
+63be7a71ff6bdd536be90bf6	AGC-20		-4.038333	21.758664	2019	Inaba	Clinical	Democratic Republic of the Congo	2019-XX-XX	Clinical	Central Africa	Africa
+63be7a71ff6bdd6010e90bf8	AGC-22		-4.038333	21.758664	2017	Inaba	Clinical	Democratic Republic of the Congo	2017-XX-XX	Clinical	Central Africa	Africa
+62fa15fd1325154b0d3feb2b	AHV1003-CDC		35.86166	104.195397	2010	NA	Clinical	China	2010-XX-XX	Clinical	East Asia	Asia
+637a2cd1ca7802340f666bc2	AM_21		20.593684	78.96288	1995	NA	Clinical	India	1995-XX-XX	Clinical	South Asia	Asia
+637a2cd1ca78021b67666bd4	AM_233		20.593684	78.96288	1996	NA	Clinical	India	1996-XX-XX	Clinical	South Asia	Asia
+637a2cd1ca78022cea666bd9	AM_241		20.593684	78.96288	1996	NA	Clinical	India	1996-XX-XX	Clinical	South Asia	Asia
+637a2cd1ca780273f2666bdf	AM_255		20.593684	78.96288	1996	NA	Clinical	India	1996-XX-XX	Clinical	South Asia	Asia
+637a2cd1ca78024743666be0	AM_256		20.593684	78.96288	1996	NA	Clinical	India	1996-XX-XX	Clinical	South Asia	Asia
+637a2cd1ca780269ca666be2	AM_260		20.593684	78.96288	1997	NA	Clinical	India	1997-XX-XX	Clinical	South Asia	Asia
+637a2cd1ca78029dc7666bf9	AM_300		20.593684	78.96288	1997	NA	Clinical	India	1997-XX-XX	Clinical	South Asia	Asia
+637a2cd1ca78023c45666bfc	AM_306		20.593684	78.96288	1997	NA	Clinical	India	1997-XX-XX	Clinical	South Asia	Asia
+637a2cd1ca7802317f666c05	AM_333		20.593684	78.96288	1997	NA	Clinical	India	1997-XX-XX	Clinical	South Asia	Asia
+637a2cd1ca78026923666bc6	AM_55		20.593684	78.96288	1995	NA	Clinical	India	1995-XX-XX	Clinical	South Asia	Asia
+637a2cd1ca7802d1c3666bc7	AM_56		20.593684	78.96288	1995	NA	Clinical	India	1995-XX-XX	Clinical	South Asia	Asia
+637a2cd1ca78024699666bc0	AM_9		20.593684	78.96288	1995	NA	Clinical	India	1995-XX-XX	Clinical	South Asia	Asia
+638522f9d11c0b35a1e273e9	B017		23.684994	90.356331	1997	NA	Clinical	Bangladesh	1997-XX-XX	Clinical	South Asia	Asia
+638522f9d11c0b22aae273e8	B02		23.684994	90.356331	1997	NA	Clinical	Bangladesh	1997-XX-XX	Clinical	South Asia	Asia
+62c827cee3d4380b71e746ae	B33		-18.665695	35.529562	2004	Ogawa	Clinical	Mozambique	2004-XX-XX	Clinical	East Africa	Africa
+6389b45c9a9bd766c8a0b686	B3C19		23.684994	90.356331	2013	Ogawa	Clinical	Bangladesh	2013-XX-XX	Clinical	South Asia	Asia
+6389b45c9a9bd784c0a0b688	B4C1		23.684994	90.356331	2013	Ogawa	Clinical	Bangladesh	2013-XX-XX	Clinical	South Asia	Asia
+6389b45c9a9bd7bfa2a0b68e	B4C8		23.684994	90.356331	2013	Ogawa	Clinical	Bangladesh	2013-XX-XX	Clinical	South Asia	Asia
+638922584379e14ad10d481d	B5C12		23.684994	90.356331	2013	Ogawa	Clinical	Bangladesh	2013-XX-XX	Clinical	South Asia	Asia
+638922584379e133510d4825	B5C20		23.684994	90.356331	2013	Ogawa	Clinical	Bangladesh	2013-XX-XX	Clinical	South Asia	Asia
+63790c01ca780230db6662eb	B9631		-1.940278	29.873888	1998	Ogawa	Human	Rwanda	1998-XX-XX	Clinical	East Africa	Africa
+63790c01ca78021ea06662ec	B9632		-1.940278	29.873888	1998	Ogawa	Human	Rwanda	1998-XX-XX	Clinical	East Africa	Africa
+637e0310f971a13c650540d4	BCH-01451		20.593684	78.96288	2011	NA	Clinical	India	2011-XX-XX	Clinical	South Asia	Asia
+637e0310f971a17a3b0540d7	BCH-02282		20.593684	78.96288	2012	NA	Clinical	India	2012-XX-XX	Clinical	South Asia	Asia
+637e0310f971a116060540db	BCH-04023		20.593684	78.96288	2014	NA	Clinical	India	2014-XX-XX	Clinical	South Asia	Asia
+63722bc7a35dd40166fb9ad6	BGD004		23.684994	90.356331	2007	NA	Clinical	Bangladesh	2007-XX-XX	Clinical	South Asia	Asia
+63722bc7a35dd4d3f7fb9ad8	BGD006		23.684994	90.356331	2007	NA	Clinical	Bangladesh	2007-XX-XX	Clinical	South Asia	Asia
+63722bc7a35dd48a1ffb9ada	BGD008		23.684994	90.356331	2007	NA	Clinical	Bangladesh	2007-XX-XX	Clinical	South Asia	Asia
+63722bc7a35dd40e7cfb9adc	BGD010		23.684994	90.356331	2007	NA	Clinical	Bangladesh	2007-XX-XX	Clinical	South Asia	Asia
+63722bc7a35dd463d9fb9adf	BGD013		23.684994	90.356331	2007	NA	Clinical	Bangladesh	2007-XX-XX	Clinical	South Asia	Asia
+63722bc7a35dd408dafb9ae2	BGD016		23.684994	90.356331	2008	NA	Clinical	Bangladesh	2008-XX-XX	Clinical	South Asia	Asia
+63722bc7a35dd49b5cfb9ae6	BGD021		23.684994	90.356331	2008	NA	Clinical	Bangladesh	2008-XX-XX	Clinical	South Asia	Asia
+63722bc7a35dd4095afb9ae9	BGD024		23.684994	90.356331	2008	NA	Clinical	Bangladesh	2008-XX-XX	Clinical	South Asia	Asia
+63722bc7a35dd45fbffb9aea	BGD025		23.684994	90.356331	2008	NA	Clinical	Bangladesh	2008-XX-XX	Clinical	South Asia	Asia
+63722bc7a35dd41d45fb9aeb	BGD029		23.684994	90.356331	2009	NA	Clinical	Bangladesh	2009-XX-XX	Clinical	South Asia	Asia
+63722bc7a35dd482cdfb9aec	BGD030		23.684994	90.356331	2009	NA	Clinical	Bangladesh	2009-XX-XX	Clinical	South Asia	Asia
+63722bc7a35dd4e782fb9af6	BGD041		23.684994	90.356331	2010	NA	Clinical	Bangladesh	2010-XX-XX	Clinical	South Asia	Asia
+63722bc7a35dd47532fb9af9	BGD045		23.684994	90.356331	2010	NA	Clinical	Bangladesh	2010-XX-XX	Clinical	South Asia	Asia
+63722bc7a35dd43a7dfb9afe	BGD051		23.684994	90.356331	2011	NA	Clinical	Bangladesh	2011-XX-XX	Clinical	South Asia	Asia
+63722bc7a35dd4d522fb9b01	BGD061		23.684994	90.356331	2012	NA	Clinical	Bangladesh	2012-XX-XX	Clinical	South Asia	Asia
+63722bc7a35dd411c1fb9b0e	BGD090		23.684994	90.356331	2014	NA	Clinical	Bangladesh	2014-XX-XX	Clinical	South Asia	Asia
+6374b2e95f1bc774985debd1	BGD101		23.684994	90.356331	2009	NA	Clinical	Bangladesh	2009-XX-XX	Clinical	South Asia	Asia
+6374b2e95f1bc717085debd4	BGD105		23.684994	90.356331	2009	NA	Clinical	Bangladesh	2009-XX-XX	Clinical	South Asia	Asia
+6374b2e95f1bc71c815debda	BGD114		23.684994	90.356331	2011	NA	Clinical	Bangladesh	2011-XX-XX	Clinical	South Asia	Asia
+6374b2e95f1bc70d495debdc	BGD117		23.684994	90.356331	2011	NA	Clinical	Bangladesh	2011-XX-XX	Clinical	South Asia	Asia
+63722bc7a35dd4512cfb9b1d	BGD145		23.684994	90.356331	2016	NA		Bangladesh	2016-XX-XX	NA	South Asia	Asia
+62c827cee3d438f542e746af	BX330286		-25.274398	133.775136	1986	NA	Environmental	Australia	1986-XX-XX	Environmental	Oceania	Oceania
+63790c01ca78020fd76662ea	B_64		-18.665695	35.529562	2004	NA		Mozambique	2004-XX-XX	NA	East Africa	Africa
+636e4752036d2a93d77f90ff	C1		7.946527	-1.023194	2010	Ogawa	Clinical (stool)	Ghana	2010-XX-XX	Clinical	West Africa	Africa
+636e4752036d2a5eb37f9102	C17		7.946527	-1.023194	2014	Ogawa	Clinical (stool)	Ghana	2014-XX-XX	Clinical	West Africa	Africa
+636e4752036d2abf4c7f9103	C22		7.946527	-1.023194	2011	Ogawa	Clinical (stool)	Ghana	2011-XX-XX	Clinical	West Africa	Africa
+636e4752036d2aafff7f9104	C23		7.946527	-1.023194	2014	Ogawa	Clinical (stool)	Ghana	2014-XX-XX	Clinical	West Africa	Africa
+62f9f8ad13251574ba3fe9f1	C5		-0.789275	113.921327	1957	NA		Indonesia	1957-XX-XX	NA	Southeast Asia	Asia
+63790c01ca7802386e6662ed	C8178		-18.665695	35.529562	1992	Inaba	Human	Mozambique	1992-XX-XX	Clinical	East Africa	Africa
+63790c01ca780223706662ee	C8465		-3.373056	29.918886	1992	Ogawa	Human	Burundi	1992-XX-XX	Clinical	East Africa	Africa
+63790c01ca7802291c6662ef	C8466		-3.373056	29.918886	1992	Ogawa	Human	Burundi	1992-XX-XX	Clinical	East Africa	Africa
+63790c01ca780265256662f0	C8798		1.373333	32.290275	1992	Ogawa	Human	Uganda	1992-XX-XX	Clinical	East Africa	Africa
+63790c01ca7802740b6662f1	C8799		1.373333	32.290275	1992	Ogawa	Human	Uganda	1992-XX-XX	Clinical	East Africa	Africa
+637293492697e366023448d0	CCBT0017		-38.416097	-63.616672	1997	Ogawa	Clinical	Argentina	1997-XX-XX	Clinical	South America	South America
+637293492697e333193448df	CCBT0032		-38.416097	-63.616672	1997	Ogawa	Clinical	Argentina	1997-XX-XX	Clinical	South America	South America
+637293492697e319763448e7	CCBT0040		-38.416097	-63.616672	1997	Ogawa	Clinical	Argentina	1997-XX-XX	Clinical	South America	South America
+637293492697e361433448ed	CCBT0046		-38.416097	-63.616672	1996	Inaba	Clinical	Argentina	1996-XX-XX	Clinical	South America	South America
+637293492697e3798b344908	CCBT0075		-38.416097	-63.616672	1996	Inaba	Clinical	Argentina	1996-XX-XX	Clinical	South America	South America
+637293492697e33c29344913	CCBT0088		-38.416097	-63.616672	1996	Inaba	Clinical	Argentina	1996-XX-XX	Clinical	South America	South America
+637293492697e37d4b344916	CCBT0091		-38.416097	-63.616672	1996	Ogawa	Clinical	Argentina	1996-XX-XX	Clinical	South America	South America
+637293492697e36479344929	CCBT0110		-38.416097	-63.616672	1992	Ogawa	Clinical	Argentina	1992-XX-XX	Clinical	South America	South America
+637293492697e36253344938	CCBT0125		-38.416097	-63.616672	1993	Ogawa	Clinical	Argentina	1993-XX-XX	Clinical	South America	South America
+637293492697e32c6f344955	CCBT0155		-38.416097	-63.616672	2000	NA	Environmental	Argentina	2000-XX-XX	Environmental	South America	South America
+637293492697e3078934496d	CCBT0181		-38.416097	-63.616672	1992	Ogawa	Clinical	Argentina	1992-XX-XX	Clinical	South America	South America
+637293492697e3e69e344979	CCBT0193		-38.416097	-63.616672	1992	Ogawa	Clinical	Argentina	1992-XX-XX	Clinical	South America	South America
+637293492697e3d86134499f	CCBT0243		-38.416097	-63.616672	1992	Ogawa	Clinical	Argentina	1992-XX-XX	Clinical	South America	South America
+637293492697e305763449bb	CCBT0271		-38.416097	-63.616672	1992	Ogawa	Clinical	Argentina	1992-XX-XX	Clinical	South America	South America
+637293492697e3ce843449ee	CCBT0324		-38.416097	-63.616672	1993	Ogawa	Clinical	Argentina	1993-XX-XX	Clinical	South America	South America
+637293492697e31c63344a18	CCBT0367		-38.416097	-63.616672	1997	Ogawa	Clinical	Argentina	1997-XX-XX	Clinical	South America	South America
+637293492697e341a5344a1f	CCBT0374		-38.416097	-63.616672	1997	Ogawa	Clinical	Argentina	1997-XX-XX	Clinical	South America	South America
+637293492697e31aca344a64	CCBT0445		-38.416097	-63.616672	1993	Ogawa	Clinical	Argentina	1993-XX-XX	Clinical	South America	South America
+637293492697e33ea5344a66	CCBT0447		-38.416097	-63.616672	1996	Inaba	Clinical	Argentina	1996-XX-XX	Clinical	South America	South America
+637293492697e37d9c344a71	CCBT0458		-38.416097	-63.616672	1993	Ogawa	Clinical	Argentina	1993-XX-XX	Clinical	South America	South America
+637293492697e38e44344a86	CCBT0479		-38.416097	-63.616672	1993	Ogawa	Clinical	Argentina	1993-XX-XX	Clinical	South America	South America
+637293492697e32b06344a8d	CCBT0486		-38.416097	-63.616672	1994	Ogawa	Clinical	Argentina	1994-XX-XX	Clinical	South America	South America
+637293492697e37e42344a8e	CCBT0487		-38.416097	-63.616672	1994	Ogawa	Environmental	Argentina	1994-XX-XX	Environmental	South America	South America
+637293492697e312c4344a90	CCBT0489		-38.416097	-63.616672	1994	Ogawa	Environmental	Argentina	1994-XX-XX	Environmental	South America	South America
+637b6cb4ca780237a6666dd9	CIRS107		23.684994	90.356331	2002	NA	Clinical	Bangladesh	2002-XX-XX	Clinical	South Asia	Asia
+637b6cb4ca780236ca666dfb	CIRS141.1_d-2		23.684994	90.356331	2002	NA	Human (household contact)	Bangladesh	2002-XX-XX	Clinical	South Asia	Asia
+637b6cb4ca7802882c666dfe	CIRS142.2_d-2		23.684994	90.356331	2002	NA	Human (household contact)	Bangladesh	2002-XX-XX	Clinical	South Asia	Asia
+637b6cb5ca780295bd666e3b	CIRS198.2_d-4		23.684994	90.356331	2002	NA	Human (household contact)	Bangladesh	2002-XX-XX	Clinical	South Asia	Asia
+637b6cb5ca78023c07666e3c	CIRS198.2_d-5		23.684994	90.356331	2002	NA	Human (household contact)	Bangladesh	2002-XX-XX	Clinical	South Asia	Asia
+637b6cb5ca780228c9666e4d	CIRS206		23.684994	90.356331	2003	NA	Clinical	Bangladesh	2003-XX-XX	Clinical	South Asia	Asia
+637b6cb5ca7802f56e666e4c	CIRS206.3_d-5		23.684994	90.356331	2003	NA	Human (household contact)	Bangladesh	2003-XX-XX	Clinical	South Asia	Asia
+637b6cb5ca78024316666e57	CIRS209.3_d-2		23.684994	90.356331	2003	NA	Human (household contact)	Bangladesh	2003-XX-XX	Clinical	South Asia	Asia
+637b6cb5ca78022502666e62	CIRS220		23.684994	90.356331	2003	NA	Clinical	Bangladesh	2003-XX-XX	Clinical	South Asia	Asia
+637b6cb5ca7802d0ae666e9e	CIRS258.2_d-6		23.684994	90.356331	2003	NA	Human (household contact)	Bangladesh	2003-XX-XX	Clinical	South Asia	Asia
+637b6cb5ca78022f3c666eb0	CIRS279.2_d-3		23.684994	90.356331	2004	NA	Human (household contact)	Bangladesh	2004-XX-XX	Clinical	South Asia	Asia
+637b6cb5ca78023c4e666ecd	CIRS297		23.684994	90.356331	2004	NA	Clinical	Bangladesh	2004-XX-XX	Clinical	South Asia	Asia
+637b6cb5ca7802b077666edb	CIRS331.1_d-2		23.684994	90.356331	2004	NA	Human (household contact)	Bangladesh	2004-XX-XX	Clinical	South Asia	Asia
+637b6cb5ca78023122666ee3	CIRS332.0(4)		23.684994	90.356331	2004	NA	Clinical	Bangladesh	2004-XX-XX	Clinical	South Asia	Asia
+637b6cb5ca7802eb3d666ee8	CIRS335		23.684994	90.356331	2004	NA	Clinical	Bangladesh	2004-XX-XX	Clinical	South Asia	Asia
+637b6cb5ca7802f05d666eec	CIRS339		23.684994	90.356331	2005	NA	Clinical	Bangladesh	2005-XX-XX	Clinical	South Asia	Asia
+637b6cb5ca780235f2666eef	CIRS347		23.684994	90.356331	2005	NA	Clinical	Bangladesh	2005-XX-XX	Clinical	South Asia	Asia
+637b6cb5ca7802092a666ef3	CIRS362		23.684994	90.356331	2005	NA	Clinical	Bangladesh	2005-XX-XX	Clinical	South Asia	Asia
+637b6cb5ca7802094d666ef2	CIRS362.2_d-4		23.684994	90.356331	2005	NA	Human (household contact)	Bangladesh	2005-XX-XX	Clinical	South Asia	Asia
+6388884507cb4d80d604f0ee	CMR004		7.369722	12.354722	2010	Ogawa	Clinical	Cameroon	2010-XX-XX	Clinical	Central Africa	Africa
+63790c01ca7802de616662f2	CNRVC000005		17.607789	8.081666	1999	Inaba	Human	Niger	1999-XX-XX	Clinical	West Africa	Africa
+63790c01ca78026ad36662f3	CNRVC000043		1.373333	32.290275	2000	Ogawa	Human	Uganda	2000-XX-XX	Clinical	East Africa	Africa
+63790c01ca780264e06662f4	CNRVC000044		1.373333	32.290275	2000	Ogawa	Human	Uganda	2000-XX-XX	Clinical	East Africa	Africa
+63790c01ca7802242e6662f5	CNRVC000055		-18.766947	46.869107	1999	Inaba	Human	Madagascar	1999-XX-XX	Clinical	East Africa	Africa
+63790c01ca780275a56662f6	CNRVC000056		-18.766947	46.869107	1999	Inaba	Human	Madagascar	1999-XX-XX	Clinical	East Africa	Africa
+63790c01ca780292bc6662f7	CNRVC000058		-18.766947	46.869107	2000	Ogawa	Human	Madagascar	2000-XX-XX	Clinical	East Africa	Africa
+63790c01ca7802a2cf6662f9	CNRVC000060		-18.766947	46.869107	2000	Ogawa	Human	Madagascar	2000-XX-XX	Clinical	East Africa	Africa
+63790c01ca780251c26662fa	CNRVC000062		-18.766947	46.869107	2000	Ogawa	Human	Madagascar	2000-XX-XX	Clinical	East Africa	Africa
+63790c01ca78025bf56662fc	CNRVC000065		-18.766947	46.869107	2000	Ogawa	Human	Madagascar	2000-XX-XX	Clinical	East Africa	Africa
+63790c01ca78026e9f6662fd	CNRVC000085		-11.875001	43.872219	2000	Ogawa	Human	Comoros	2000-XX-XX	Clinical	East Africa	Africa
+63790c01ca78021ad06662fe	CNRVC000209		-1.940278	29.873888	2000	Inaba	Human	Rwanda	2000-XX-XX	Clinical	East Africa	Africa
+63790c01ca78020e3c6662ff	CNRVC000212		-1.940278	29.873888	2000	Inaba	Human	Rwanda	2000-XX-XX	Clinical	East Africa	Africa
+63790c01ca7802ee6a666300	CNRVC000323		7.369722	12.354722	2000	Inaba	Human	Cameroon	2000-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78021dcd666301	CNRVC010008		-11.875001	43.872219	2001	Ogawa	Human	Comoros	2001-XX-XX	Clinical	East Africa	Africa
+63790c01ca7802698a666302	CNRVC010015		11.825138	42.590275	1994	Ogawa	Human	Djibouti	1994-XX-XX	Clinical	East Africa	Africa
+63790c01ca78026d88666303	CNRVC010017		11.825138	42.590275	1994	Ogawa	Human	Djibouti	1994-XX-XX	Clinical	East Africa	Africa
+63790c01ca780271c9666304	CNRVC010018		11.825138	42.590275	1994	Ogawa	Human	Djibouti	1994-XX-XX	Clinical	East Africa	Africa
+63790c01ca78026866666305	CNRVC010023		7.369722	12.354722	2000	Inaba	Human	Cameroon	2000-XX-XX	Clinical	Central Africa	Africa
+63790c01ca7802950d666306	CNRVC010038		7.539989	-5.54708	2001	Ogawa	Human	Cote d'Ivoire	2001-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802113f666307	CNRVC010042		7.539989	-5.54708	2001	Ogawa	Human	Cote d'Ivoire	2001-XX-XX	Clinical	West Africa	Africa
+63790c01ca78026edf666308	CNRVC010045		-11.875001	43.872219	2001	Ogawa	Human	Comoros	2001-XX-XX	Clinical	East Africa	Africa
+63790c01ca78020860666309	CNRVC010046		11.825138	42.590275	2000	Ogawa	Human	Djibouti	2000-XX-XX	Clinical	East Africa	Africa
+63790c01ca78025b8266630a	CNRVC010048		11.825138	42.590275	2000	Ogawa	Human	Djibouti	2000-XX-XX	Clinical	East Africa	Africa
+63790c01ca7802085e66630b	CNRVC010051		-18.766947	46.869107	2000	Ogawa	Human	Madagascar	2000-XX-XX	Clinical	East Africa	Africa
+63790c01ca78024c6e66630c	CNRVC010055		-18.766947	46.869107	2001	Ogawa	Human	Madagascar	2001-XX-XX	Clinical	East Africa	Africa
+63790c01ca780292f366630d	CNRVC010061		-3.373056	29.918886	2001	Ogawa	Human	Burundi	2001-XX-XX	Clinical	East Africa	Africa
+63790c01ca78025de266630e	CNRVC010062		-3.373056	29.918886	2001	Ogawa	Human	Burundi	2001-XX-XX	Clinical	East Africa	Africa
+63790c01ca7802bc6366630f	CNRVC010100		-0.789275	113.921327	2001	Ogawa	Human	Indonesia	2001-XX-XX	Clinical	Southeast Asia	Asia
+63790c01ca7802e0d8666310	CNRVC010108		8.619543	0.824782	2001	Ogawa	Human	Togo	2001-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802bf14666311	CNRVC010120		15.454166	18.732207	2001	Inaba	Human	Chad	2001-XX-XX	Clinical	Central Africa	Africa
+63790c01ca7802226d666312	CNRVC010123		15.454166	18.732207	2001	Inaba	Human	Chad	2001-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78023182666313	CNRVC010203		15.454166	18.732207	2001	Inaba	Human	Chad	2001-XX-XX	Clinical	Central Africa	Africa
+63790c01ca7802b4ea666314	CNRVC010205		12.238333	-1.561593	2001	Ogawa	Human	Burkina Faso	2001-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802335b666315	CNRVC010206		12.238333	-1.561593	2001	Ogawa	Human	Burkina Faso	2001-XX-XX	Clinical	West Africa	Africa
+63790c01ca78024875666316	CNRVC010221		7.369722	12.354722	2001	Inaba	Human	Cameroon	2001-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78026c94666317	CNRVC010243		-4.038333	21.758664	2001	Ogawa	Human	Democratic Republic of the Congo	2001-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78021c76666318	CNRVC010254		-4.038333	21.758664	2001	Ogawa	Human	Democratic Republic of the Congo	2001-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78026432666319	CNRVC020003		-11.875001	43.872219	2002	Inaba	Human	Comoros	2002-XX-XX	Clinical	East Africa	Africa
+63790c01ca7802c14166631a	CNRVC020062		6.428055	-9.429499	2002	Ogawa	Human	Liberia	2002-XX-XX	Clinical	West Africa	Africa
+63790c01ca78024b2766631b	CNRVC020284		-4.038333	21.758664	2002	Ogawa	Human	Democratic Republic of the Congo	2002-XX-XX	Clinical	Central Africa	Africa
+63790c01ca7802f8d766631c	CNRVC020361		9.30769	2.315834	2002	Ogawa	Human	Benin	2002-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802c55b66631d	CNRVC020367		9.30769	2.315834	2002	Ogawa	Human	Benin	2002-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802e51a66631e	CNRVC020393		6.428055	-9.429499	2002	Ogawa	Human	Liberia	2002-XX-XX	Clinical	West Africa	Africa
+63790c01ca78022af366631f	CNRVC020404		7.539989	-5.54708	2002	Ogawa	Human	Cote d'Ivoire	2002-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802314f666320	CNRVC030032		-4.038333	21.758664	2003	Inaba	Human	Democratic Republic of the Congo	2003-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78026b06666321	CNRVC030082		9.30769	2.315834	2003	Ogawa	Human	Benin	2003-XX-XX	Clinical	West Africa	Africa
+63790c01ca78020d88666322	CNRVC030084		9.30769	2.315834	2003	Ogawa	Human	Benin	2003-XX-XX	Clinical	West Africa	Africa
+63790c01ca78025e94666323	CNRVC030293		-4.038333	21.758664	2003	Ogawa	Human	Democratic Republic of the Congo	2003-XX-XX	Clinical	Central Africa	Africa
+63790c01ca7802eddd666324	CNRVC030391		5.152149	46.199616	2003	Ogawa	Human	Somalia	2003-XX-XX	Clinical	East Africa	Africa
+63790c01ca78026ceb666325	CNRVC030392		5.152149	46.199616	2003	Ogawa	Human	Somalia	2003-XX-XX	Clinical	East Africa	Africa
+63790c01ca7802312e666326	CNRVC030438		33.223191	43.679291	2003	Inaba	Human	Iraq	2003-XX-XX	Clinical	Western/Central Asia	Asia
+63790c01ca78020690666327	CNRVC030469		-4.038333	21.758664	2003	Inaba	Human	Democratic Republic of the Congo	2003-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78026eb6666328	CNRVC030475		6.428055	-9.429499	2003	Ogawa	Human	Liberia	2003-XX-XX	Clinical	West Africa	Africa
+63790c01ca78020a9f666329	CNRVC030477		6.428055	-9.429499	2003	Ogawa	Human	Liberia	2003-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802952866632a	CNRVC030485		7.539989	-5.54708	2003	Ogawa	Human	Cote d'Ivoire	2003-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802329166632b	CNRVC030519		-4.038333	21.758664	2002	Ogawa	Human	Democratic Republic of the Congo	2002-XX-XX	Clinical	Central Africa	Africa
+63790c01ca7802511666632c	CNRVC030567		7.539989	-5.54708	2003	Ogawa	Human	Cote d'Ivoire	2003-XX-XX	Clinical	West Africa	Africa
+63790c01ca780284a066632d	CNRVC030593		-11.875001	43.872219	2003	Inaba	Human	Comoros	2003-XX-XX	Clinical	East Africa	Africa
+63790c01ca7802402b66632e	CNRVC030594		-11.875001	43.872219	2003	Inaba	Human	Comoros	2003-XX-XX	Clinical	East Africa	Africa
+63790c01ca7802e61466632f	CNRVC040061		7.369722	12.354722	2004	Inaba	Human	Cameroon	2004-XX-XX	Clinical	Central Africa	Africa
+63790c01ca780238e9666330	CNRVC040074		7.369722	12.354722	2001	Inaba	Human	Cameroon	2001-XX-XX	Clinical	Central Africa	Africa
+63790c01ca7802f426666331	CNRVC040082		7.369722	12.354722	2002	Inaba	Human	Cameroon	2002-XX-XX	Clinical	Central Africa	Africa
+63790c01ca7802079a666332	CNRVC040110		7.369722	12.354722	2004	Inaba	Human	Cameroon	2004-XX-XX	Clinical	Central Africa	Africa
+63790c01ca7802f436666333	CNRVC040127		9.30769	2.315834	2004	Ogawa	Human	Benin	2004-XX-XX	Clinical	West Africa	Africa
+63790c01ca78027207666334	CNRVC040132		9.30769	2.315834	2004	Ogawa	Human	Benin	2004-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802fda1666335	CNRVC040203		8.460555	-11.779889	2004	Ogawa	Human	Sierra Leone	2004-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802763d666336	CNRVC040206		9.945587	-9.696645	2004	Ogawa	Human	Guinea	2004-XX-XX	Clinical	West Africa	Africa
+63790c01ca780253a3666337	CNRVC040209		17.607789	8.081666	2004	Ogawa	Human	Niger	2004-XX-XX	Clinical	West Africa	Africa
+63790c01ca78024f1e666338	CNRVC040210		17.607789	8.081666	2004	Ogawa	Human	Niger	2004-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802d24d666339	CNRVC040257		8.460555	-11.779889	2004	Ogawa	Human	Sierra Leone	2004-XX-XX	Clinical	West Africa	Africa
+63790c01ca78020d9766633a	CNRVC040299		-4.038333	21.758664	2004	Inaba	Human	Democratic Republic of the Congo	2004-XX-XX	Clinical	Central Africa	Africa
+63790c01ca7802025d66633b	CNRVC040303		14.497401	-14.452362	2004	Ogawa	Human	Senegal	2004-XX-XX	Clinical	West Africa	Africa
+63790c01ca78025b4d66633c	CNRVC040314		14.497401	-14.452362	2004	Ogawa	Human	Senegal	2004-XX-XX	Clinical	West Africa	Africa
+63790c01ca78028fab66633d	CNRVC050008		7.369722	12.354722	2005	Inaba	Human	Cameroon	2005-XX-XX	Clinical	Central Africa	Africa
+63790c01ca7802493d66633e	CNRVC050011		7.369722	12.354722	2005	Inaba	Human	Cameroon	2005-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78021d1766633f	CNRVC050060		1.650801	10.267895	2005	Inaba	Human	Equatorial Guinea	2005-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78027978666340	CNRVC050073		1.650801	10.267895	2005	Inaba	Human	Equatorial Guinea	2005-XX-XX	Clinical	Central Africa	Africa
+63790c01ca780273e0666341	CNRVC050077		-4.038333	21.758664	2005	Inaba	Human	Democratic Republic of the Congo	2005-XX-XX	Clinical	Central Africa	Africa
+63790c01ca780279cf666342	CNRVC050139		9.30769	2.315834	2005	Ogawa	Human	Benin	2005-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802c045666343	CNRVC050140		9.30769	2.315834	2005	Ogawa	Human	Benin	2005-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802af4a666344	CNRVC050280		30.375321	69.345116	2005	Inaba	Human	Pakistan	2005-XX-XX	Clinical	South Asia	Asia
+63790c01ca780233d6666345	CNRVC050284		-4.038333	21.758664	2005	Ogawa	Human	Democratic Republic of the Congo	2005-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78024783666346	CNRVC050323		9.081999	8.675277	2005	Ogawa	Human	Nigeria	2005-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802b294666347	CNRVC050334		9.081999	8.675277	2005	Ogawa	Human	Nigeria	2005-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802d51a666348	CNRVC060003		-4.038333	21.758664	2006	Inaba	Human	Democratic Republic of the Congo	2006-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78023eee666349	CNRVC060009		17.570692	-3.996166	2006	Ogawa	Human	Mali	2006-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802779466634a	CNRVC060010		17.570692	-3.996166	2005	Ogawa	Human	Mali	2005-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802374b66634c	CNRVC060111		7.369722	12.354722	2006	Ogawa	Environment	Cameroon	2006-XX-XX	Environmental	Central Africa	Africa
+63790c01ca780213d066634d	CNRVC060119		-0.023559	37.906193	2006	Inaba	Human	Kenya	2006-XX-XX	Clinical	East Africa	Africa
+63790c01ca7802471766634e	CNRVC060120		-0.023559	37.906193	2006	Inaba	Human	Kenya	2006-XX-XX	Clinical	East Africa	Africa
+63790c01ca78024e0066634f	CNRVC060153		-4.038333	21.758664	2006	Ogawa	Human	Democratic Republic of the Congo	2006-XX-XX	Clinical	Central Africa	Africa
+63790c01ca7802462a666350	CNRVC060272		17.607789	8.081666	2006	Ogawa	Human	Niger	2006-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802adb8666351	CNRVC060273		17.607789	8.081666	2006	Ogawa	Human	Niger	2006-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802351d666352	CNRVC060279		9.081999	8.675277	2006	Ogawa	Human	Nigeria	2006-XX-XX	Clinical	West Africa	Africa
+63790c01ca78020294666353	CNRVC060280		9.081999	8.675277	2006	Ogawa	Human	Nigeria	2006-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802345e666354	CNRVC060333		20.593684	78.96288	2006	Ogawa	Human	India/Nepal	2006-XX-XX	Clinical	South Asia	Asia
+63790c01ca7802f1d5666355	CNRVC070011		-0.228021	15.827659	2007	Inaba	Human	Congo	2007-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78025f9d666356	CNRVC070012		-0.228021	15.827659	2007	Inaba	Human	Republic of the Congo	2007-XX-XX	Clinical	Central Africa	Africa
+63790c01ca7802384f666357	CNRVC070020		11.825138	42.590275	2007	Inaba	Human	Djibouti	2007-XX-XX	Clinical	East Africa	Africa
+63790c01ca7802f906666358	CNRVC070045		-4.038333	21.758664	2007	Inaba	Human	Democratic Republic of the Congo	2007-XX-XX	Clinical	Central Africa	Africa
+63790c01ca7802770d666359	CNRVC070066		6.876991	31.306978	2007	Not typable (very low agglutination)	Human	South Sudan	2007-XX-XX	Clinical	East Africa	Africa
+63790c01ca7802f5e066635a	CNRVC070067		6.876991	31.306978	2007	Not typable (very low agglutination)	Human	South Sudan	2007-XX-XX	Clinical	East Africa	Africa
+63790c01ca780248de66635b	CNRVC070120		28.033886	1.659626	1994	Ogawa	Human	Algeria	1994-XX-XX	Clinical	North Africa	Africa
+63790c01ca7802a4cb66635c	CNRVC070124		21.00789	-10.940835	2005	Ogawa	Human	Mauritania	2005-XX-XX	Clinical	West Africa	Africa
+63790c01ca780233f166635d	CNRVC070136		21.00789	-10.940835	2006	Ogawa	Human	Mauritania	2006-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802eb2266635e	CNRVC070142		21.00789	-10.940835	2006	Ogawa	Human	Mauritania	2006-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802ff7266635f	CNRVC070144		21.00789	-10.940835	2005	Ogawa	Human	Mauritania	2005-XX-XX	Clinical	West Africa	Africa
+63790c01ca780222db666360	CNRVC070154		28.033886	1.659626	1994	Ogawa	Human	Algeria	1994-XX-XX	Clinical	North Africa	Africa
+63790c01ca7802b25e666361	CNRVC070164		9.30769	2.315834	2007	Ogawa	Human	Benin	2007-XX-XX	Clinical	West Africa	Africa
+63790c01ca780230fa666362	CNRVC070316		12.238333	-1.561593	2005	Ogawa	Human	Burkina Faso	2005-XX-XX	Clinical	West Africa	Africa
+63790c01ca78026adb666363	CNRVC070334		12.238333	-1.561593	2005	Ogawa	Human	Burkina Faso	2005-XX-XX	Clinical	West Africa	Africa
+63790c01ca78027a4d666364	CNRVC070530		-4.038333	21.758664	2007	Inaba	Human	Democratic Republic of the Congo	2007-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78023b8b666365	CNRVC080122		17.607789	8.081666	2008	Ogawa	Human	Niger	2008-XX-XX	Clinical	West Africa	Africa
+63790c01ca780226d3666366	CNRVC080124		17.607789	8.081666	2008	Ogawa	Human	Niger	2008-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802e8b0666367	CNRVC080133		-4.038333	21.758664	2008	Inaba	Human	Democratic Republic of the Congo	2008-XX-XX	Clinical	Central Africa	Africa
+63790c01ca7802992f666368	CNRVC080370		-4.038333	21.758664	2008	Inaba	Human	Democratic Republic of the Congo	2008-XX-XX	Clinical	Central Africa	Africa
+63790c01ca7802f22c666369	CNRVC080383		6.876991	31.306978	2008	Ogawa	Human	South Sudan	2008-XX-XX	Clinical	East Africa	Africa
+63790c01ca78021be866636b	CNRVC080496		7.539989	-5.54708	2006	Ogawa	Human	Cote d'Ivoire	2006-XX-XX	Clinical	NA	NA
+63790c01ca7802b0ac66636c	CNRVC080497		7.539989	-5.54708	2006	Ogawa	Human	Cote d'Ivoire	2006-XX-XX	Clinical	NA	NA
+63790c01ca7802585666636d	CNRVC080762		7.369722	12.354722	2008	Ogawa	Human	Cameroon	2008-XX-XX	Clinical	Central Africa	Africa
+63790c01ca7802576366636e	CNRVC080764		7.369722	12.354722	2008	Ogawa	Human	Cameroon	2008-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78023bf766636f	CNRVC090123		30.375321	69.345116	2009	Ogawa	Human	Pakistan	2009-XX-XX	Clinical	South Asia	Asia
+63790c01ca78026829666370	CNRVC090143		30.375321	69.345116	2009	Ogawa	Human	Pakistan	2009-XX-XX	Clinical	South Asia	Asia
+63790c01ca780263cc666371	CNRVC090144		30.375321	69.345116	2009	Ogawa	Human	Pakistan	2009-XX-XX	Clinical	South Asia	Asia
+63790c01ca7802fad5666372	CNRVC090175		9.081999	8.675277	2009	Ogawa	Human	Nigeria	2009-XX-XX	Clinical	West Africa	Africa
+63790c01ca780262ec666373	CNRVC090177		9.081999	8.675277	2009	Ogawa	Human	Nigeria	2009-XX-XX	Clinical	West Africa	Africa
+63790c01ca78028698666374	CNRVC090182		7.369722	12.354722	2009	Ogawa	Human	Cameroon	2009-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78028157666375	CNRVC100057		-13.133897	27.849332	2010	Inaba	Human	Zambia	2010-XX-XX	Clinical	East Africa	Africa
+63790c01ca78026997666376	CNRVC100062		-13.133897	27.849332	2010	Inaba	Human	Zambia	2010-XX-XX	Clinical	East Africa	Africa
+63790c01ca7802d1fb666377	CNRVC100159		9.081999	8.675277	2010	Ogawa	Human	Nigeria	2010-XX-XX	Clinical	West Africa	Africa
+63790c01ca78026b2c666378	CNRVC100176		9.30769	2.315834	2010	Ogawa	Human	Benin	2010-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802ef41666379	CNRVC100183		9.30769	2.315834	2010	Ogawa	Human	Benin	2010-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802747866637b	CNRVC100224		9.081999	8.675277	2010	Ogawa	Human	Nigeria	2010-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802253766637c	CNRVC100240		15.454166	18.732207	2010	Ogawa	Human	Chad	2010-XX-XX	Clinical	Central Africa	Africa
+63790c01ca780269df66637d	CNRVC100246		15.454166	18.732207	2010	Ogawa	Human	Chad	2010-XX-XX	Clinical	Central Africa	Africa
+63790c01ca7802f35866637f	CNRVC110058		9.081999	8.675277	2011	Ogawa	Human	Nigeria	2011-XX-XX	Clinical	West Africa	Africa
+63790c01ca78028ee9666380	CNRVC110060		9.081999	8.675277	2011	Ogawa	Human	Nigeria	2011-XX-XX	Clinical	West Africa	Africa
+636d0857252578b29b6f72b9	CNRVC110078		23.684994	90.356331	2011	Ogawa	Human (traveller)	Bangladesh	2011-XX-XX	Clinical	South Asia	Asia
+63790c01ca780220e0666381	CNRVC110096		7.369722	12.354722	2010	Ogawa	Human	Cameroon	2010-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78026842666382	CNRVC110113		7.369722	12.354722	2011	Ogawa	Human	Cameroon	2011-XX-XX	Clinical	Central Africa	Africa
+63790c01ca7802038b666385	CNRVC110230		15.454166	18.732207	2011	Ogawa	Human	Chad	2011-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78021878666386	CNRVC110241		15.454166	18.732207	2011	Ogawa	Human	Chad	2011-XX-XX	Clinical	Central Africa	Africa
+63790c01ca780272a9666387	CNRVC110262		9.081999	8.675277	2011	Ogawa	Human	Nigeria	2011-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802e343666388	CNRVC110266		6.611111	20.939444	2011	Inaba	Human	Central African Republic	2011-XX-XX	Clinical	Central Africa	Africa
+63790c01ca7802ca83666389	CNRVC110272		6.611111	20.939444	2011	Inaba	Human	Central African Republic	2011-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78025e0b66638a	CNRVC120194		11.803749	-15.180413	2012	Ogawa	Human	Guinea Bissau	2012-XX-XX	Clinical	West Africa	Africa
+63790c01ca780284ea66638b	CNRVC120195		11.803749	-15.180413	2012	Ogawa	Human	Guinea Bissau	2012-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802b63666638e	CNRVC140027		9.081999	8.675277	2014	Ogawa	Human	Nigeria	2014-XX-XX	Clinical	West Africa	Africa
+636d08572525786d896f72ba	CNRVC140054		6.876991	31.306978	2014	Inaba	Human	South Sudan	2014-XX-XX	Clinical	East Africa	Africa
+636d0857252578b9586f72bb	CNRVC140069		6.876991	31.306978	2014	Inaba	Human	South Sudan	2014-XX-XX	Clinical	East Africa	Africa
+636d0857252578721b6f72bc	CNRVC140072		6.876991	31.306978	2014	Inaba	Human	South Sudan	2014-XX-XX	Clinical	East Africa	Africa
+636d08572525781af36f72bd	CNRVC140077		6.876991	31.306978	2014	Inaba	Human	South Sudan	2014-XX-XX	Clinical	East Africa	Africa
+636d085725257842606f72be	CNRVC140079		6.876991	31.306978	2014	Inaba	Human	South Sudan	2014-XX-XX	Clinical	East Africa	Africa
+63555e20adddaecd3a1d840d	CNRVC140117		-16.290154	-63.588653	1991	Ogawa	Human	Bolivia	1991-XX-XX	Clinical	South America	South America
+63555e20adddae15cc1d840e	CNRVC140118		-14.235004	-51.92528	1991	Inaba	Human	Brazil	1991-XX-XX	Clinical	South America	South America
+63555e20adddae4acc1d8411	CNRVC140121		-14.235004	-51.92528	1991	Inaba	Human	Brazil	1991-XX-XX	Clinical	South America	South America
+63555e20adddae62721d8412	CNRVC140122		-14.235004	-51.92528	1992	Inaba	Human	Brazil	1992-XX-XX	Clinical	South America	South America
+63555e20adddaea5b11d8413	CNRVC140123		-16.290154	-63.588653	1992	Ogawa	Human	Bolivia	1992-XX-XX	Clinical	South America	South America
+63555e20adddae37a61d8414	CNRVC140124		-16.290154	-63.588653	1992	Ogawa	Human	Bolivia	1992-XX-XX	Clinical	South America	South America
+63555e20adddaed7831d8415	CNRVC140125		-16.290154	-63.588653	1992	Ogawa	Human	Bolivia	1992-XX-XX	Clinical	South America	South America
+63555e20adddaef3611d8416	CNRVC140126		-16.290154	-63.588653	1991	Ogawa	Human	Bolivia	1991-XX-XX	Clinical	South America	South America
+63790c01ca7802ded866638f	CNRVC140127		-11.202692	17.873887	1988	Ogawa	Human	Angola	1988-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78020e51666390	CNRVC140128		-11.202692	17.873887	1988	Ogawa	Human	Angola	1988-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78025400666391	CNRVC140129		-11.202692	17.873887	1988	Ogawa	Human	Angola	1988-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78022569666392	CNRVC140130		-11.202692	17.873887	1988	Ogawa	Human	Angola	1988-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78023fbe666393	CNRVC140131		-11.202692	17.873887	1988	Ogawa	Human	Angola	1988-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78023e4b666395	CNRVC140133		11.803749	-15.180413	1994	Ogawa	Human	Guinea Bissau	1994-XX-XX	Clinical	West Africa	Africa
+63790c01ca780288fc666396	CNRVC140134		39.399872	-8.224454	1971	Ogawa		Portugal	1971-XX-XX	NA	Southern Europe	Europe
+63790c01ca780280dc666397	CNRVC140135		39.399872	-8.224454	1971	Ogawa		Portugal	1971-XX-XX	NA	Southern Europe	Europe
+63790c01ca7802a4ff666398	CNRVC140136		39.399872	-8.224454	1971	Ogawa		Portugal	1971-XX-XX	NA	Southern Europe	Europe
+63790c01ca7802e1d3666399	CNRVC140137		39.399872	-8.224454	1974	Inaba		Portugal	1974-XX-XX	NA	Southern Europe	Europe
+63790c01ca78020e9766639a	CNRVC140139		39.399872	-8.224454	1974	Inaba		Portugal	1974-XX-XX	NA	Southern Europe	Europe
+63790c01ca7802136066639b	CNRVC140140		7.539989	-5.54708	1988	Ogawa	Human	Cote d'Ivoire	1988-XX-XX	Clinical	West Africa	Africa
+63790c01ca78025fd166639c	CNRVC140141		7.539989	-5.54708	1988	Ogawa	Human	Cote d'Ivoire	1988-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802dca366639d	CNRVC140150		9.081999	8.675277	2014	Ogawa	Human	Nigeria	2014-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802c51966639e	CNRVC140160		17.607789	8.081666	2010	Ogawa	Human	Niger	2010-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802862c66639f	CNRVC140167		17.607789	8.081666	2010	Ogawa	Human	Niger	2010-XX-XX	Clinical	West Africa	Africa
+636d0857252578058e6f72c0	CNRVC150056		-4.038333	21.758664	2015	Ogawa	Human	Democratic Republic of the Congo	2015-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78022b896663a0	CNRVC150131		48.379433	31.16558	1970	Ogawa	Sea water	Ukraine	1970-XX-XX	Environmental	Eastern Europe	Europe
+63790c01ca780237a96663a1	CNRVC150132		48.379433	31.16558	1974	Inaba	Human	Ukraine	1974-XX-XX	Clinical	Eastern Europe	Europe
+63790c01ca78020b956663a2	CNRVC150133		61.52401	105.318756	1990	Ogawa	Human	Russia	1990-XX-XX	Clinical	Eastern Europe	Europe
+63790c01ca780200c96663a3	CNRVC150134		61.52401	105.318756	1990	Ogawa	Water	Russia	1990-XX-XX	NA	Eastern Europe	Europe
+636d08572525785b836f72c2	CNRVC150140		20.593684	78.96288	2015	Ogawa	Human (traveller)	India	2015-XX-XX	Clinical	South Asia	Asia
+636d08572525784cee6f72c3	CNRVC150141		6.876991	31.306978	2015	Inaba	Human	South Sudan	2015-XX-XX	Clinical	East Africa	Africa
+636d0857252578ca366f72c4	CNRVC150165		6.876991	31.306978	2015	Inaba	Human	South Sudan	2015-XX-XX	Clinical	East Africa	Africa
+636d085725257882206f72c5	CNRVC150168		33.223191	43.679291	2015	Inaba	Human	Iraq	2015-XX-XX	Clinical	Western/Central Asia	Asia
+636d0857252578b7ec6f72c6	CNRVC150169		33.223191	43.679291	2015	Inaba	Human	Iraq	2015-XX-XX	Clinical	Western/Central Asia	Asia
+636d08572525781fae6f72c7	CNRVC150170		33.223191	43.679291	2015	Inaba	Human	Iraq	2015-XX-XX	Clinical	Western/Central Asia	Asia
+636d085725257839b96f72c9	CNRVC150177		33.223191	43.679291	2015	Inaba	Human	Iraq	2015-XX-XX	Clinical	Western/Central Asia	Asia
+636d08572525783c506f72ca	CNRVC150181		33.223191	43.679291	2015	Inaba	Human	Iraq	2015-XX-XX	Clinical	Western/Central Asia	Asia
+63790c01ca7802339f6663a5	CNRVC150211		-0.023559	37.906193	1998	Inaba	Human	Kenya	1998-XX-XX	Clinical	East Africa	Africa
+63790c01ca780228dc6663a6	CNRVC150212		-6.369028	34.888822	1998	Ogawa	Human	Tanzania	1998-XX-XX	Clinical	East Africa	Africa
+63790c01ca7802b8e26663a7	CNRVC150213		9.145	40.489673	1998	Ogawa	Human	Ethiopia	1998-XX-XX	Clinical	East Africa	Africa
+63790c01ca78021a426663a8	CNRVC150214		45.943161	24.96676	1981	Ogawa	Human	Romania	1981-XX-XX	Clinical	Eastern Europe	Europe
+63790c01ca7802335d6663a9	CNRVC150215		33.854721	35.862285	1993	Ogawa	Human	Lebanon	1993-XX-XX	Clinical	Western/Central Asia	Asia
+63790c01ca780263fd6663aa	CNRVC150216		38.963745	35.243322	1976	Ogawa	Human	Turkey	1976-XX-XX	Clinical	Western/Central Asia	Asia
+63790c01ca780236096663ab	CNRVC150217		7.946527	-1.023194	1982	Ogawa	Human	Ghana/Nigeria	1982-XX-XX	Clinical	West Africa	Africa
+63790c01ca780218446663ac	CNRVC150218		9.145	40.489673	1985	Ogawa	Human	Ethiopia	1985-XX-XX	Clinical	East Africa	Africa
+63790c01ca78025ce56663ae	CNRVC150220		30.375321	69.345116	1992	Ogawa	Human	Pakistan	1992-XX-XX	Clinical	South Asia	Asia
+63790c01ca78020abf6663af	CNRVC150221		45.943161	24.96676	1991	Ogawa	Human	Romania	1991-XX-XX	Clinical	Eastern Europe	Europe
+63790c01ca78023a386663b0	CNRVC150222		45.943161	24.96676	1987	Ogawa	Human	Romania	1987-XX-XX	Clinical	Eastern Europe	Europe
+63790c01ca7802028c6663b1	CNRVC150223		33.854721	35.862285	1993	Ogawa	Human	Lebanon	1993-XX-XX	Clinical	Western/Central Asia	Asia
+63790c01ca780210ca6663b3	CNRVC150226		14.497401	-14.452362	1994	Ogawa	Human	Senegal	1994-XX-XX	Clinical	West Africa	Africa
+63790c01ca78028e6b6663b4	CNRVC150227		7.539989	-5.54708	1988	Ogawa	Human	Cote d'Ivoire	1988-XX-XX	Clinical	West Africa	Africa
+63790c01ca780213706663b5	CNRVC150228		33.886917	9.537499	1973	Ogawa	Human	Tunisia	1973-XX-XX	Clinical	North Africa	Africa
+63790c01ca7802bc4d6663b6	CNRVC150229		33.886917	9.537499	1981	Ogawa	Human	Tunisia	1981-XX-XX	Clinical	North Africa	Africa
+63790c01ca7802a1826663b7	CNRVC150230		41.87194	12.56738	1994	Ogawa	Human	Italy	1994-XX-XX	Clinical	Southern Europe	Europe
+63790c01ca7802620c6663b8	CNRVC150231		7.539989	-5.54708	1988	Ogawa	Human	Cote d'Ivoire	1988-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802f0326663b9	CNRVC150234		5.152149	46.199616	1985	Inaba	Human	Somalia	1985-XX-XX	Clinical	East Africa	Africa
+63790c01ca7802d34f6663ba	CNRVC150236		5.152149	46.199616	1985	Ogawa	Human	Somalia	1985-XX-XX	Clinical	East Africa	Africa
+63790c01ca78026c596663bb	CNRVC150239		12.565679	104.990963	1993	Ogawa	Human	Cambodia	1993-XX-XX	Clinical	Southeast Asia	Asia
+63790c01ca7802c0906663bc	CNRVC150240		-0.023559	37.906193	1998	Ogawa	Human	Kenya	1998-XX-XX	Clinical	East Africa	Africa
+63790c01ca7802bc016663bd	CNRVC150243		-0.023559	37.906193	1998	Ogawa	Human	Kenya	1998-XX-XX	Clinical	East Africa	Africa
+63790c01ca780213b06663be	CNRVC150244		41.87194	12.56738	1973	Inaba	Human	Italy	1973-XX-XX	Clinical	Southern Europe	Europe
+63790c01ca780243a56663bf	CNRVC150245		7.539989	-5.54708	1988	Autoagglutinable	Human	Cote d'Ivoire	1988-XX-XX	Clinical	West Africa	Africa
+63790c01ca78027b1e6663c0	CNRVC150251		-0.023559	37.906193	1998	Inaba	Human	Kenya	1998-XX-XX	Clinical	East Africa	Africa
+63790c01ca780277476663c1	CNRVC150252		-0.023559	37.906193	1998	Inaba	Human	Kenya	1998-XX-XX	Clinical	East Africa	Africa
+63790c01ca78022e336663c2	CNRVC150254		9.145	40.489673	1998	Ogawa	Human	Ethiopia	1998-XX-XX	Clinical	East Africa	Africa
+636d085725257878256f72cc	CNRVC160013		33.223191	43.679291	2007	Inaba	Human	Iraq	2007-XX-XX	Clinical	Western/Central Asia	Asia
+636d085725257838626f72cd	CNRVC160014		33.223191	43.679291	2007	Inaba	Human	Iraq	2007-XX-XX	Clinical	Western/Central Asia	Asia
+636d085725257868606f72ce	CNRVC160016		33.223191	43.679291	2007	Inaba	Human	Iraq	2007-XX-XX	Clinical	Western/Central Asia	Asia
+636d0857252578003b6f72cf	CNRVC160017		33.223191	43.679291	2007	Inaba	Human	Iraq	2007-XX-XX	Clinical	Western/Central Asia	Asia
+636d085725257840b56f72d0	CNRVC160018		33.223191	43.679291	2007	Inaba	Human	Iraq	2007-XX-XX	Clinical	Western/Central Asia	Asia
+636d085725257879ad6f72d1	CNRVC160461		6.876991	31.306978	2016	Inaba	Human	South Sudan	2016-XX-XX	Clinical	East Africa	Africa
+636d0857252578324b6f72d2	CNRVC160462		6.876991	31.306978	2016	Inaba	Human	South Sudan	2016-XX-XX	Clinical	East Africa	Africa
+6538e9e820be806ffc2ce05a	CNRVC170024	CNRVC170024	45.943161	24.96676	1994	Ogawa	Human	Romania	1994-XX-XX	Clinical	Eastern Europe	Europe
+6538e9e820be800a262ce05c	CNRVC170026	CNRVC170026	47.411631	28.369885	1995	Ogawa	Human	Republic of Moldova	1995-XX-XX	Clinical	Eastern Europe	Europe
+6538e9e820be8052652ce05d	CNRVC170027	CNRVC170027	47.411631	28.369885	1995	Ogawa	Human (carriere)	Republic of Moldova	1995-XX-XX	Clinical	Eastern Europe	Europe
+6538e9e820be80225d2ce05e	CNRVC170028	CNRVC170028	45.943161	24.96676	1990	Ogawa	Human	Romania	1990-XX-XX	Clinical	Eastern Europe	Europe
+6538e9e820be8009592ce062	CNRVC170034	CNRVC170034	45.943161	24.96676	1990	Ogawa	Human	Romania	1990-XX-XX	Clinical	Eastern Europe	Europe
+6538e9e820be80061a2ce064	CNRVC170036	CNRVC170036	38.963745	35.243322	1994	Ogawa	Human	Turkey	1994-XX-XX	Clinical	Western/Central Asia	Asia
+6538e9e820be8009dd2ce066	CNRVC170038	CNRVC170038	45.943161	24.96676	1991	Ogawa	Human	Romania	1991-XX-XX	Clinical	Eastern Europe	Europe
+6538e9e820be8062222ce067	CNRVC170039	CNRVC170039	45.943161	24.96676	1994	Ogawa	Human	Romania	1994-XX-XX	Clinical	Eastern Europe	Europe
+6538e9e820be80195a2ce068	CNRVC170041	CNRVC170041	45.943161	24.96676	1994	Ogawa	Human	Romania	1994-XX-XX	Clinical	Eastern Europe	Europe
+6538e9e820be80a79f2ce06e	CNRVC170047	CNRVC170047	45.943161	24.96676	1990	Ogawa	Human	Romania	1990-XX-XX	Clinical	Eastern Europe	Europe
+6538e9e820be80646d2ce074	CNRVC170053	CNRVC170053	45.943161	24.96676	1990	Ogawa	Human	Romania	1990-XX-XX	Clinical	Eastern Europe	Europe
+6538e9e820be802a352ce081	CNRVC170067	CNRVC170067	45.943161	24.96676	1990	Ogawa	Human	Romania	1990-XX-XX	Clinical	Eastern Europe	Europe
+6538e9e820be80c6a72ce097	CNRVC170091	CNRVC170091	45.943161	24.96676	1991	Ogawa	Human	Romania	1991-XX-XX	Clinical	Eastern Europe	Europe
+6538e9e820be80e4902ce098	CNRVC170092	CNRVC170092	45.943161	24.96676	1994	Ogawa	Human	Romania	1994-XX-XX	Clinical	Eastern Europe	Europe
+6538e9e820be80f3ef2ce09e	CNRVC170101	CNRVC170101	45.943161	24.96676	1995	Ogawa	Human	Romania	1995-XX-XX	Clinical	Eastern Europe	Europe
+6538e9e820be8071822ce09f	CNRVC170102	CNRVC170102	45.943161	24.96676	1995	Ogawa	Human	Romania	1995-XX-XX	Clinical	Eastern Europe	Europe
+6538e9e820be80b4a32ce0a0	CNRVC170103	CNRVC170103	45.943161	24.96676	1995	Ogawa	Human	Romania	1995-XX-XX	Clinical	Eastern Europe	Europe
+6538e9e820be80f1ad2ce0a4	CNRVC170107	CNRVC170107	45.943161	24.96676	1987	Ogawa	Human	Romania	1987-XX-XX	Clinical	Eastern Europe	Europe
+6538e9e820be80e8e82ce0a5	CNRVC170108	CNRVC170108	45.943161	24.96676	1981	Ogawa	Human	Romania	1981-XX-XX	Clinical	Eastern Europe	Europe
+6538e9e820be8058462ce0a6	CNRVC170109	CNRVC170109	45.943161	24.96676	1977	Ogawa	Human	Romania	1977-XX-XX	Clinical	Eastern Europe	Europe
+6538e9e820be80f6842ce0a7	CNRVC170111	CNRVC170111	45.943161	24.96676	1981	Ogawa	Human	Romania	1981-XX-XX	Clinical	Eastern Europe	Europe
+6538e9e820be80a4a92ce0a8	CNRVC170112	CNRVC170112	45.943161	24.96676	1987	Ogawa	Human	Romania	1987-XX-XX	Clinical	Eastern Europe	Europe
+6538e9e820be800d3a2ce0aa	CNRVC170115	CNRVC170115	45.943161	24.96676	1991	Ogawa	Human	Romania	1991-XX-XX	Clinical	Eastern Europe	Europe
+6538e9e820be8027e12ce0ac	CNRVC170117	CNRVC170117	47.411631	28.369885	1995	Ogawa		Republic of Moldova	1995-XX-XX	NA	Eastern Europe	Europe
+6538e9e820be8040532ce0ad	CNRVC170118	CNRVC170118	47.411631	28.369885	1995	Ogawa		Republic of Moldova	1995-XX-XX	NA	Eastern Europe	Europe
+6538e9e820be80eebf2ce0af	CNRVC170120	CNRVC170120	45.943161	24.96676	1991	Ogawa	Humana	Romania	1991-XX-XX	Clinical	Eastern Europe	Europe
+6538e9e820be80ffe92ce0b4	CNRVC170125	CNRVC170125	45.943161	24.96676	1995	Ogawa	Human	Romania	1995-XX-XX	Clinical	Eastern Europe	Europe
+6538e9e820be8027f92ce0bd	CNRVC170135	CNRVC170135	45.943161	24.96676	1993	Ogawa	Human	Romania	1993-XX-XX	Clinical	Eastern Europe	Europe
+6538e9e820be8037472ce0be	CNRVC170136	CNRVC170136	45.943161	24.96676	1993	Ogawa	Human	Romania	1993-XX-XX	Clinical	Eastern Europe	Europe
+6538e9e820be804f552ce0c2	CNRVC170140	CNRVC170140	38.963745	35.243322	1994	Ogawa	Human	Turkey	1994-XX-XX	Clinical	Western/Central Asia	Asia
+6538e9e820be80172b2ce0c4	CNRVC170142	CNRVC170142	47.411631	28.369885	1995	Ogawa		Republic of Moldova	1995-XX-XX	NA	Eastern Europe	Europe
+6538e9e820be80766d2ce0c6	CNRVC170145	CNRVC170145	45.943161	24.96676	1995	Ogawa	Human	Romania	1995-XX-XX	Clinical	Eastern Europe	Europe
+6538e9e820be80b4172ce0c8	CNRVC170147	CNRVC170147	45.943161	24.96676	1993	Ogawa	Human	Romania	1993-XX-XX	Clinical	Eastern Europe	Europe
+6538e9e820be803a342ce0cc	CNRVC170151	CNRVC170151	45.943161	24.96676	1994	Ogawa	Human	Romania	1994-XX-XX	Clinical	Eastern Europe	Europe
+6538e9e820be809de62ce0ce	CNRVC170158	CNRVC170158	48.379433	31.16558	1990	Ogawa	Danube water	Ukraine	1990-XX-XX	Environmental	Eastern Europe	Europe
+636d0857252578580a6f72d3	CNRVC170159		6.876991	31.306978	2017	Inaba	Human	South Sudan	2017-XX-XX	Clinical	East Africa	Africa
+636d085725257806246f72d4	CNRVC170160		6.876991	31.306978	2017	Inaba	Human	South Sudan	2017-XX-XX	Clinical	East Africa	Africa
+636d08572525780ac06f72d5	CNRVC170161		6.876991	31.306978	2017	Inaba	Human	South Sudan	2017-XX-XX	Clinical	East Africa	Africa
+636d0857252578390d6f72d6	CNRVC170164		6.876991	31.306978	2017	Inaba	Human	South Sudan	2017-XX-XX	Clinical	East Africa	Africa
+636d0857252578a5236f72d7	CNRVC170165		6.876991	31.306978	2017	Inaba	Human	South Sudan	2017-XX-XX	Clinical	East Africa	Africa
+636d0857252578a5616f72d8	CNRVC170168		15.552727	48.516388	2016	Ogawa	Human	Yemen	2016-XX-XX	Clinical	Western/Central Asia	Asia
+636d0857252578f6706f72d9	CNRVC170169		15.552727	48.516388	2016	Ogawa	Human	Yemen	2016-XX-XX	Clinical	Western/Central Asia	Asia
+636d085725257882476f72da	CNRVC170170		15.552727	48.516388	2016	Ogawa	Human	Yemen	2016-XX-XX	Clinical	Western/Central Asia	Asia
+636d08572525782c0d6f72dc	CNRVC170174		15.552727	48.516388	2016	Ogawa	Human	Yemen	2016-XX-XX	Clinical	Western/Central Asia	Asia
+636d0857252578d9886f72de	CNRVC170176		15.552727	48.516388	2016	Ogawa	Human	Yemen	2016-XX-XX	Clinical	Western/Central Asia	Asia
+636d0857252578ac356f72e0	CNRVC170178		15.552727	48.516388	2017	Ogawa	Human	Yemen	2017-XX-XX	Clinical	Western/Central Asia	Asia
+636d085725257869126f72ed	CNRVC170191		15.552727	48.516388	2017	Ogawa	Human	Yemen	2017-XX-XX	Clinical	Western/Central Asia	Asia
+636d085725257896ef6f72f4	CNRVC170198		15.552727	48.516388	2017	Ogawa	Human	Yemen	2017-XX-XX	Clinical	Western/Central Asia	Asia
+636d085725257808436f72fd	CNRVC170207		15.552727	48.516388	2017	Ogawa	Human	Yemen	2017-XX-XX	Clinical	Western/Central Asia	Asia
+636d085825257850f36f7300	CNRVC170241		15.552727	48.516388	2017	Ogawa	Human (refugee)	Yemen	2017-XX-XX	Clinical	Western/Central Asia	Asia
+636d085825257841986f7302	CNRVC170248		32.427908	53.688046	2012	Inaba	Human	Iran	2012-XX-XX	Clinical	South Asia	Asia
+636d085825257857d46f7303	CNRVC170249		32.427908	53.688046	2013	Inaba	Human	Iran	2013-XX-XX	Clinical	South Asia	Asia
+636d08582525789a856f7304	CNRVC170250		32.427908	53.688046	2013	Inaba	Human	Iran	2013-XX-XX	Clinical	South Asia	Asia
+636d085825257810766f7305	CNRVC170252		32.427908	53.688046	2015	Inaba	Human	Iran	2015-XX-XX	Clinical	South Asia	Asia
+63790c01ca78020a936663c3	CNRVC900105		-11.202692	17.873887	1990	Inaba	Human	Angola	1990-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78022c596663c4	CNRVC900108		9.945587	-9.696645	1990	Ogawa	Human	Guinea	1990-XX-XX	Clinical	West Africa	Africa
+63790c01ca780203b26663c5	CNRVC900117		-13.254308	34.301525	1990	Inaba	Human	Malawi	1990-XX-XX	Clinical	East Africa	Africa
+63790c01ca7802682f6663c6	CNRVC900123		-13.254308	34.301525	1990	Inaba	Human	Malawi	1990-XX-XX	Clinical	East Africa	Africa
+63790c01ca78020ff16663c7	CNRVC900125		-18.665695	35.529562	1990	NA	Human	Mozambique	1990-XX-XX	Clinical	East Africa	Africa
+63790c01ca780226196663c8	CNRVC910036		9.30769	2.315834	1991	Ogawa	Human	Benin	1991-XX-XX	Clinical	West Africa	Africa
+63790c01ca78023bcd6663c9	CNRVC910040		12.565679	104.990963	1991	Inaba	Human	Cambodia	1991-XX-XX	Clinical	Southeast Asia	Asia
+63790c01ca7802569f6663ca	CNRVC910164		38.963745	35.243322	1991	Ogawa	Human	Turkey	1991-XX-XX	Clinical	Western/Central Asia	Asia
+63790c01ca780264cc6663cb	CNRVC910266		9.30769	2.315834	1991	Autoagglutinable	Human	Benin	1991-XX-XX	Clinical	West Africa	Africa
+63790c01ca78029f446663cc	CNRVC910267		9.30769	2.315834	1991	Autoagglutinable	Human	Benin	1991-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802d00b6663cd	CNRVC910279		17.607789	8.081666	1991	Ogawa	Human	Niger	1991-XX-XX	Clinical	West Africa	Africa
+63790c01ca780286406663ce	CNRVC910347		31.791702	-7.09262	1991	Ogawa	Human	Morocco	1991-XX-XX	Clinical	North Africa	Africa
+63790c01ca780280096663cf	CNRVC910349		31.791702	-7.09262	1991	Ogawa	Human	Morocco	1991-XX-XX	Clinical	North Africa	Africa
+63790c01ca7802d2f76663d0	CNRVC910375		7.539989	-5.54708	1991	Ogawa	Human	Cote d'Ivoire	1991-XX-XX	Clinical	West Africa	Africa
+63790c01ca78027b4b6663d1	CNRVC910386		31.791702	-7.09262	1991	Ogawa	Human	Morocco	1991-XX-XX	Clinical	North Africa	Africa
+63790c01ca7802b8396663d2	CNRVC910416		38.963745	35.243322	1991	Ogawa	Human	Kurdistan	1991-XX-XX	Clinical	Western/Central Asia	Asia
+63790c01ca780296b46663d3	CNRVC910429		-4.038333	21.758664	1991	Ogawa	Human	Democratic Republic of the Congo	1991-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78028d446663d4	CNRVC920027		-11.202692	17.873887	1992	Inaba	Human	Angola	1992-XX-XX	Clinical	Central Africa	Africa
+63790c01ca780212d76663d5	CNRVC920049		-13.254308	34.301525	1992	Ogawa	Human	Malawi	1992-XX-XX	Clinical	East Africa	Africa
+63790c01ca7802d2546663d6	CNRVC920169		-4.038333	21.758664	1992	Inaba	Human	Democratic Republic of the Congo	1992-XX-XX	Clinical	Central Africa	Africa
+63790c01ca7802da166663d7	CNRVC920170		-13.254308	34.301525	1989	Inaba	Human	Malawi	1989-XX-XX	Clinical	East Africa	Africa
+63790c01ca780278ee6663d8	CNRVC920171		14.058324	108.277199	1983	Ogawa	Human	Viet Nam	1983-XX-XX	Clinical	Southeast Asia	Asia
+63790c01ca7802567c6663d9	CNRVC920172		28.033886	1.659626	1987	Ogawa	Human	Algeria	1987-XX-XX	Clinical	North Africa	Africa
+63790c01ca7802eedd6663da	CNRVC920176		0.18636	6.613081	1989	NA	Human	Sao Tome	1989-XX-XX	Clinical	Central Africa	Africa
+63790c01ca780281d46663db	CNRVC920194		-11.202692	17.873887	1990	Inaba	Human	Angola	1990-XX-XX	Clinical	Central Africa	Africa
+63555e20adddae11e71d8417	CNRVC930025		3.933889	-53.125782	1993	Inaba	Human	French Guiana	1993-XX-XX	Clinical	South America	South America
+63790c01ca7802c7526663dd	CNRVC930027		26.820553	30.802498	1966	Ogawa	Human	Egypt	1966-XX-XX	Clinical	North Africa	Africa
+63790c01ca780248496663de	CNRVC930029		21.913965	95.956223	1971	Ogawa	Human	Myanmar	1971-XX-XX	Clinical	Southeast Asia	Asia
+63790c01ca78020ba96663df	CNRVC930030		48.669026	19.699024	1970	Ogawa	Human	Slovakia	1970-XX-XX	Clinical	Eastern Europe	Europe
+63790c01ca7802258f6663e0	CNRVC930033		31.046051	34.851612	1970	Ogawa	Human	Israel	1970-XX-XX	Clinical	Western/Central Asia	Asia
+63790c01ca78020c9a6663e1	CNRVC930036		20.593684	78.96288	1962	Ogawa	Human	India	1962-XX-XX	Clinical	South Asia	Asia
+63790c01ca7802148c6663e2	CNRVC930037		8.460555	-11.779889	1970	Ogawa	Human	Sierra Leone	1970-XX-XX	Clinical	West Africa	Africa
+63790c01ca780224db6663e3	CNRVC930038		9.145	40.489673	1970	Inaba	Human	Ethiopia	1970-XX-XX	Clinical	East Africa	Africa
+63790c01ca7802369c6663e5	CNRVC930044		33.854721	35.862285	1970	Ogawa	Human	Lebanon	1970-XX-XX	Clinical	Western/Central Asia	Asia
+63790c01ca78020c8b6663e6	CNRVC930046		15.454166	18.732207	1971	Hikojima	Human	Chad	1971-XX-XX	Clinical	Central Africa	Africa
+63790c01ca7802296e6663e7	CNRVC930060		12.879721	121.774017	1961	Ogawa	Human	Philippines	1961-XX-XX	Clinical	Southeast Asia	Asia
+63790c01ca78023cce6663e8	CNRVC930061		35.86166	104.195397	1961	Ogawa	Human	China	1961-XX-XX	Clinical	East Asia	Asia
+63790c01ca78028c3b6663e9	CNRVC930066		20.593684	78.96288	1964	Ogawa	Human	India	1964-XX-XX	Clinical	South Asia	Asia
+63790c01ca7802130d6663ea	CNRVC930067		12.565679	104.990963	1963	Ogawa	Human	Cambodia	1963-XX-XX	Clinical	Southeast Asia	Asia
+63790c01ca7802c2ba6663eb	CNRVC930075		17.570692	-3.996166	1970	Ogawa	Human	Mali	1970-XX-XX	Clinical	West Africa	Africa
+63790c01ca780238556663ed	CNRVC930079		46.227638	2.213749	1970	Ogawa	Human	France	1970-XX-XX	Clinical	Western Europe	Europe
+63790c01ca7802039a6663ee	CNRVC930127		9.945587	-9.696645	1970	Ogawa	Human	Guinea	1970-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802935a6663ef	CNRVC930153		-4.038333	21.758664	1993	Ogawa	Human	Democratic Republic of the Congo	1993-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78028fe36663f0	CNRVC930155		15.870032	100.992541	1993	Ogawa	Human	Thailand	1993-XX-XX	Clinical	Southeast Asia	Asia
+63790c01ca780290806663f1	CNRVC930163		-4.038333	21.758664	1988	Inaba	Human	Democratic Republic of the Congo	1988-XX-XX	Clinical	Central Africa	Africa
+63790c01ca780228b36663f2	CNRVC930164		28.033886	1.659626	1983	Inaba	Human	Algeria	1983-XX-XX	Clinical	North Africa	Africa
+63790c01ca780203446663f3	CNRVC930166		28.033886	1.659626	1975	Ogawa	Human	Algeria	1975-XX-XX	Clinical	North Africa	Africa
+63790c01ca7802e2ba6663f4	CNRVC930167		28.033886	1.659626	1982	Ogawa	Human	Algeria	1982-XX-XX	Clinical	North Africa	Africa
+63790c01ca780293ee6663f5	CNRVC930168		28.033886	1.659626	1982	Inaba	Human	Algeria	1982-XX-XX	Clinical	North Africa	Africa
+63790c01ca7802fa616663f6	CNRVC930169		28.033886	1.659626	1986	Ogawa	Human	Algeria	1986-XX-XX	Clinical	North Africa	Africa
+63790c01ca780262c06663f7	CNRVC930170		-4.038333	21.758664	1984	Autoagglutinable	Human	Democratic Republic of the Congo	1984-XX-XX	Clinical	Central Africa	Africa
+63790c01ca7802e6ea6663f8	CNRVC930171		7.539989	-5.54708	1984	Ogawa	Human	Cote d'Ivoire	1984-XX-XX	Clinical	West Africa	Africa
+63790c01ca780286c16663f9	CNRVC930172		28.033886	1.659626	1986	Ogawa	Human	Algeria	1986-XX-XX	Clinical	North Africa	Africa
+63790c01ca7802af376663fa	CNRVC930174		7.873054	80.771797	1981	Ogawa	Human	Sri Lanka	1981-XX-XX	Clinical	South Asia	Asia
+63790c01ca780246916663fb	CNRVC930185		-4.038333	21.758664	1993	Ogawa	Human	Democratic Republic of the Congo	1993-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78021a346663fc	CNRVC930187		28.033886	1.659626	1974	Ogawa	Human	Algeria	1974-XX-XX	Clinical	North Africa	Africa
+63790c01ca780224e06663fd	CNRVC930255		31.791702	-7.09262	1993	Ogawa	Human	Morocco	1993-XX-XX	Clinical	North Africa	Africa
+63790c01ca78021e206663fe	CNRVC930301		11.825138	42.590275	1993	Ogawa		Djibouti	1993-XX-XX	NA	East Africa	Africa
+6538e9e820be8019292ce0cf	CNRVC930329	CNRVC930329	38.963745	35.243322	1993	Ogawa	Human	Turkey	1993-XX-XX	Clinical	Western/Central Asia	Asia
+6538e9e820be8014922ce0d0	CNRVC930402	CNRVC930402	46.227638	2.213749	1993	Ogawa	Human	France	1993-XX-XX	Clinical	Western Europe	Europe
+63790c01ca780256a96663ff	CNRVC930409		-1.940278	29.873888	1993	Ogawa	Human	Rwanda	1993-XX-XX	Clinical	East Africa	Africa
+63790c01ca780235b6666400	CNRVC930417		-3.373056	29.918886	1993	Ogawa	Human	Burundi	1993-XX-XX	Clinical	East Africa	Africa
+63790c01ca7802360b666401	CNRVC930425		-3.373056	29.918886	1993	Ogawa	Human	Burundi	1993-XX-XX	Clinical	East Africa	Africa
+63790c01ca7802fd21666402	CNRVC930428		-6.369028	34.888822	1993	Ogawa	Human	Tanzania	1993-XX-XX	Clinical	East Africa	Africa
+63790c01ca78026fe6666403	CNRVC940011		-11.202692	17.873887	1994	Inaba	Human	Angola	1994-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78027a8f666404	CNRVC940012		-11.202692	17.873887	1994	Inaba	Human	Angola	1994-XX-XX	Clinical	Central Africa	Africa
+63790c01ca7802794a666405	CNRVC940030		7.539989	-5.54708	1993	Inaba	Human	Cote d'Ivoire	1993-XX-XX	Clinical	West Africa	Africa
+63790c01ca78023959666406	CNRVC940034		7.539989	-5.54708	1994	Ogawa	Human	Cote d'Ivoire	1994-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802325b666407	CNRVC940035		7.539989	-5.54708	1993	Inaba	Human	Cote d'Ivoire	1993-XX-XX	Clinical	West Africa	Africa
+63790c01ca78028e5b666408	CNRVC940044		12.879721	121.774017	1963	Ogawa	Human	Philippines	1963-XX-XX	Clinical	Southeast Asia	Asia
+63790c01ca7802f81b66640a	CNRVC940051		-1.940278	29.873888	1988	Ogawa	Human	Rwanda	1988-XX-XX	Clinical	East Africa	Africa
+63790c01ca780278c566640b	CNRVC940066		5.152149	46.199616	1994	Autoagglutinable	Human	Somalia	1994-XX-XX	Clinical	East Africa	Africa
+63790c01ca7802e2d566640c	CNRVC940103		9.945587	-9.696645	1994	Ogawa	Human	Guinea	1994-XX-XX	Clinical	West Africa	Africa
+63790c01ca780240c566640d	CNRVC940109		9.945587	-9.696645	1994	Ogawa	Human	Guinea	1994-XX-XX	Clinical	West Africa	Africa
+63790c01ca78023e1266640e	CNRVC940128		9.945587	-9.696645	1994	Ogawa	Human	Guinea	1994-XX-XX	Clinical	West Africa	Africa
+63790c01ca780231b766640f	CNRVC940131		-4.038333	21.758664	1994	Ogawa	Human	Democratic Republic of the Congo	1994-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78021000666410	CNRVC940135		28.394857	84.124008	1994	Ogawa	Human	Nepal	1994-XX-XX	Clinical	South Asia	Asia
+63790c01ca780243f4666411	CNRVC940137		31.791702	-7.09262	1994	Ogawa	Human	Morocco	1994-XX-XX	Clinical	North Africa	Africa
+63790c01ca7802cbd5666412	CNRVC940141		9.945587	-9.696645	1994	Ogawa	Human	Guinea	1994-XX-XX	Clinical	West Africa	Africa
+63790c01ca78021a34666413	CNRVC940142		6.428055	-9.429499	1994	Ogawa	Human	Liberia	1994-XX-XX	Clinical	West Africa	Africa
+63790c01ca78029348666414	CNRVC940143		-4.038333	21.758664	1994	Ogawa	Human	Democratic Republic of the Congo	1994-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78027cc4666415	CNRVC940147		6.428055	-9.429499	1994	Inaba	Human	Liberia	1994-XX-XX	Clinical	West Africa	Africa
+63790c01ca78027d8e666416	CNRVC940149		41.153332	20.168331	1994	Ogawa	Human	Albania	1994-XX-XX	Clinical	Southern Europe	Europe
+6538e9e820be8055bc2ce0d1	CNRVC940154	CNRVC940154	41.153332	20.168331	1994	Ogawa	Human	Albania	1994-XX-XX	Clinical	Southern Europe	Europe
+6538e9e820be8027d12ce0d2	CNRVC940159	CNRVC940159	41.153332	20.168331	1994	Ogawa	Human	Albania	1994-XX-XX	Clinical	Southern Europe	Europe
+63790c01ca78025573666417	CNRVC940162		6.428055	-9.429499	1994	Inaba	Human	Liberia	1994-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802bbeb666418	CNRVC940163		15.454166	18.732207	1994	Ogawa	Human	Chad	1994-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78022277666419	CNRVC940164		6.428055	-9.429499	1994	Ogawa	Human	Liberia	1994-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802553966641a	CNRVC940165		6.428055	-9.429499	1994	Ogawa	Human	Liberia	1994-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802448266641b	CNRVC940173		-4.038333	21.758664	1994	Ogawa	Human	Democratic Republic of the Congo	1994-XX-XX	Clinical	Central Africa	Africa
+63790c01ca780274e066641c	CNRVC940179		31.791702	-7.09262	1994	Ogawa	Human	Morocco	1994-XX-XX	Clinical	North Africa	Africa
+63790c01ca7802381c66641d	CNRVC940180		31.791702	-7.09262	1994	Ogawa	Human	Morocco	1994-XX-XX	Clinical	North Africa	Africa
+63555e20adddae19de1d8418	CNRVC940183		3.933889	-53.125782	1994	Ogawa	Human	French Guiana	1994-XX-XX	Clinical	South America	South America
+63790c01ca780267cd66641e	CNRVC940184		15.454166	18.732207	1994	Ogawa	Human	Chad	1994-XX-XX	Clinical	Central Africa	Africa
+63790c01ca7802638a66641f	CNRVC940190		17.607789	8.081666	1994	Ogawa	Human	Niger	1994-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802bde2666420	CNRVC950002		-11.202692	17.873887	1995	Inaba	Human	Angola	1995-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78024ac3666421	CNRVC950007		-11.202692	17.873887	1995	Inaba	Human	Angola	1995-XX-XX	Clinical	Central Africa	Africa
+63790c01ca7802b2b8666422	CNRVC950011		7.369722	12.354722	1995	Ogawa		Cameroon	1995-XX-XX	NA	Central Africa	Africa
+63555e20adddae12961d8419	CNRVC950014		-1.831239	-78.183406	1995	Ogawa	Human	Ecuador	1995-XX-XX	Clinical	South America	South America
+63790c01ca78023165666423	CNRVC950040		15.454166	18.732207	1972	Hikojima	Human	Chad	1972-XX-XX	Clinical	Central Africa	Africa
+63790c01ca7802999b666424	CNRVC950087		15.454166	18.732207	1972	Autoagglutinable	Human	Chad	1972-XX-XX	Clinical	Central Africa	Africa
+63790c01ca7802130c666425	CNRVC950100		4.210484	101.975766	1973	Ogawa	Human	Malaysia	1973-XX-XX	Clinical	Southeast Asia	Asia
+63790c01ca78024833666426	CNRVC950105		12.238333	-1.561593	1974	Inaba	Human	Burkina Faso	1974-XX-XX	Clinical	West Africa	Africa
+63790c01ca78027bb7666427	CNRVC950106		12.238333	-1.561593	1974	Ogawa	Human	Burkina Faso	1974-XX-XX	Clinical	West Africa	Africa
+63790c01ca780227bb666428	CNRVC950138		7.369722	12.354722	1970	Inaba	Human	Cameroon	1970-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78029478666429	CNRVC950140		7.369722	12.354722	1970	Hikojima	Human	Cameroon	1970-XX-XX	Clinical	Central Africa	Africa
+63790c01ca7802cc1566642a	CNRVC950141		7.369722	12.354722	1970	Ogawa	Human	Cameroon	1970-XX-XX	Clinical	Central Africa	Africa
+63790c01ca780221fe66642b	CNRVC950142		7.369722	12.354722	1970	Hikojima	Human	Cameroon	1970-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78024c3c66642c	CNRVC950143		7.369722	12.354722	1970	Inaba	Human	Cameroon	1970-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78028c7a66642d	CNRVC950161		14.058324	108.277199	1966	Inaba	Human	Viet Nam	1966-XX-XX	Clinical	Southeast Asia	Asia
+63790c01ca780248c866642e	CNRVC950165		14.058324	108.277199	1968	Inaba	Human	Viet Nam	1968-XX-XX	Clinical	Southeast Asia	Asia
+63790c01ca7802361966642f	CNRVC950172		14.058324	108.277199	1969	Inaba	Human	Viet Nam	1969-XX-XX	Clinical	Southeast Asia	Asia
+63790c01ca7802f88a666430	CNRVC950182		7.539989	-5.54708	1973	Inaba	Human	Cote d'Ivoire	1973-XX-XX	Clinical	West Africa	Africa
+63790c01ca780298c8666431	CNRVC950189		7.539989	-5.54708	1973	Ogawa	Human	Cote d'Ivoire	1973-XX-XX	Clinical	West Africa	Africa
+63790c01ca78028052666432	CNRVC950191		7.539989	-5.54708	1973	Ogawa	Human	Cote d'Ivoire	1973-XX-XX	Clinical	West Africa	Africa
+63790c01ca78025255666433	CNRVC950203		7.539989	-5.54708	1970	Ogawa	Human	Cote d'Ivoire	1970-XX-XX	Clinical	West Africa	Africa
+63790c01ca78025c48666434	CNRVC950218		12.879721	121.774017	1973	Ogawa	Human	Philippines	1973-XX-XX	Clinical	Southeast Asia	Asia
+63790c01ca78029f3a666435	CNRVC950223		7.946527	-1.023194	1971	Inaba	Human	Ghana	1971-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802fd95666436	CNRVC950224		7.946527	-1.023194	1971	Inaba	Human	Ghana	1971-XX-XX	Clinical	West Africa	Africa
+63790c01ca780237ca666437	CNRVC950235		9.081999	8.675277	1970	Ogawa	Human	Nigeria	1970-XX-XX	Clinical	West Africa	Africa
+63790c01ca78027d14666438	CNRVC950238		9.081999	8.675277	1970	Ogawa	Human	Nigeria	1970-XX-XX	Clinical	West Africa	Africa
+6538e9e820be80771b2ce0d3	CNRVC950248	CNRVC950248	41.87194	12.56738	1973	Ogawa	Human	Italy	1973-XX-XX	Clinical	Southern Europe	Europe
+63790c01ca78028b58666439	CNRVC950250		41.87194	12.56738	1974	Ogawa	Human	Italy	1974-XX-XX	Clinical	Southern Europe	Europe
+63790c01ca7802017866643a	CNRVC950253		14.497401	-14.452362	1973	Inaba	Human	Senegal	1973-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802a21766643b	CNRVC950326		14.497401	-14.452362	1974	Inaba	Human	Senegal	1974-XX-XX	Clinical	West Africa	Africa
+63790c01ca780260da66643c	CNRVC950340		14.497401	-14.452362	1974	Inaba	Human	Senegal	1974-XX-XX	Clinical	West Africa	Africa
+63790c01ca78020fce66643d	CNRVC950343		14.497401	-14.452362	1972	Inaba	Human	Senegal	1972-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802910766643e	CNRVC950345		14.497401	-14.452362	1971	Inaba	Human	Senegal	1971-XX-XX	Clinical	West Africa	Africa
+63790c01ca78028f5466643f	CNRVC950358		15.454166	18.732207	1974	Inaba	Human	Chad	1974-XX-XX	Clinical	Central Africa	Africa
+63790c01ca780232bb666440	CNRVC950360		15.454166	18.732207	1974	Inaba	Human	Chad	1974-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78024ecc666441	CNRVC950364		15.454166	18.732207	1972	Ogawa	Human	Chad	1972-XX-XX	Clinical	Central Africa	Africa
+63790c01ca7802b5d6666442	CNRVC950366		15.454166	18.732207	1974	Ogawa	Human	Chad	1974-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78023b68666443	CNRVC950376		33.886917	9.537499	1974	Ogawa	Human	Tunisia	1974-XX-XX	Clinical	North Africa	Africa
+63790c01ca7802924c666444	CNRVC950396		12.238333	-1.561593	1974	Ogawa	Human	Burkina Faso	1974-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802582a666445	CNRVC950405		12.238333	-1.561593	1974	Ogawa	Human	Burkina Faso	1974-XX-XX	Clinical	West Africa	Africa
+6538e9e820be8016c22ce0d4	CNRVC950412	CNRVC950412	39.399872	-8.224454	1974	Ogawa	Human	Portugal	1974-XX-XX	Clinical	Southern Europe	Europe
+63790c01ca78024d8d666446	CNRVC950418		28.033886	1.659626	1974	Ogawa	Human	Algeria	1974-XX-XX	Clinical	North Africa	Africa
+6538e9e820be800ada2ce0d5	CNRVC950419	CNRVC950419	39.399872	-8.224454	1974	Ogawa	Human	Portugal	1974-XX-XX	Clinical	Southern Europe	Europe
+6538e9e820be8077fc2ce0d6	CNRVC950425	CNRVC950425	39.399872	-8.224454	1974	Inaba	Human	Portugal	1974-XX-XX	Clinical	Southern Europe	Europe
+63790c01ca7802f4f1666447	CNRVC950431		31.791702	-7.09262	1974	Ogawa	Human	Morocco	1974-XX-XX	Clinical	North Africa	Africa
+63790c01ca7802168a666448	CNRVC950466		31.791702	-7.09262	1972	Ogawa	Human	Morocco	1972-XX-XX	Clinical	North Africa	Africa
+63790c01ca780266b5666449	CNRVC950468		31.791702	-7.09262	1972	Ogawa	Human	Morocco	1972-XX-XX	Clinical	North Africa	Africa
+63790c01ca7802ffe566644a	CNRVC950476		31.791702	-7.09262	1972	Ogawa	Human	Morocco	1972-XX-XX	Clinical	North Africa	Africa
+63790c01ca78029d7266644b	CNRVC950487		31.791702	-7.09262	1972	Ogawa	Human	Morocco	1972-XX-XX	Clinical	North Africa	Africa
+63790c01ca78025a9166644c	CNRVC950498		31.791702	-7.09262	1972	Ogawa	Human	Morocco	1972-XX-XX	Clinical	North Africa	Africa
+6538e9e820be8015382ce0d7	CNRVC950514	CNRVC950514	8.619543	0.824782	1970	Ogawa	Human	Togo	1970-XX-XX	Clinical	West Africa	Africa
+6538e9e820be80a6d12ce0d8	CNRVC950518	CNRVC950518	8.619543	0.824782	1970	Ogawa	Human	Togo	1970-XX-XX	Clinical	West Africa	Africa
+6538e9e820be80e0f42ce0d9	CNRVC950520	CNRVC950520	28.033886	1.659626	1975	Ogawa	Human	Algeria	1975-XX-XX	Clinical	North Africa	Africa
+6538e9e820be80f77f2ce0da	CNRVC950521	CNRVC950521	28.033886	1.659626	1975	Ogawa	Human	Algeria	1975-XX-XX	Clinical	North Africa	Africa
+6538e9e820be80b1ac2ce0db	CNRVC950522	CNRVC950522	39.399872	-8.224454	1975	Inaba	Human	Portugal	1975-XX-XX	Clinical	Southern Europe	Europe
+6538e9e820be8065092ce0dc	CNRVC950525	CNRVC950525	23.885942	45.079162	1975	Inaba	Human	Saudi Arabia	1975-XX-XX	Clinical	Western/Central Asia	Asia
+6538e9e820be8018952ce0dd	CNRVC950532	CNRVC950532	39.399872	-8.224454	1975	Inaba	Human	Portugal	1975-XX-XX	Clinical	Southern Europe	Europe
+6538e9e820be807e022ce0de	CNRVC950534	CNRVC950534	28.033886	1.659626	1975	Ogawa	Human	Algeria	1975-XX-XX	Clinical	North Africa	Africa
+63790c01ca78021b8f66644d	CNRVC950535		-11.875001	43.872219	1975	Inaba	Human	Comoros	1975-XX-XX	Clinical	East Africa	Africa
+63790c01ca7802366466644e	CNRVC950540		-11.875001	43.872219	1975	Inaba	Human	Comoros	1975-XX-XX	Clinical	East Africa	Africa
+63790c01ca7802543966644f	CNRVC950543		-11.875001	43.872219	1975	Inaba	Human	Comoros	1975-XX-XX	Clinical	East Africa	Africa
+6538e9e820be80726b2ce0df	CNRVC950546	CNRVC950546	46.227638	2.213749	1971	Ogawa	Human	France	1971-XX-XX	Clinical	Western Europe	Europe
+6538e9e820be8049942ce0e0	CNRVC950547	CNRVC950547	40.463667	-3.74922	1971	Ogawa	Human	Spain	1971-XX-XX	Clinical	Southern Europe	Europe
+6538e9e820be8079042ce0e1	CNRVC950556	CNRVC950556	33.886917	9.537499	1973	Ogawa	Human	Tunisia	1973-XX-XX	Clinical	North Africa	Africa
+63790c01ca78027890666450	CNRVC950558		33.886917	9.537499	1971	Ogawa	Human	Tunisia	1971-XX-XX	Clinical	North Africa	Africa
+63790c01ca780262b2666451	CNRVC950559		33.886917	9.537499	1971	Ogawa	Human	Tunisia	1971-XX-XX	Clinical	North Africa	Africa
+63790c01ca7802fcac666452	CNRVC950568		-11.202692	17.873887	1970	Inaba	Human	Angola	1970-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78027ef5666453	CNRVC950569		-11.202692	17.873887	1970	Inaba	Human	Angola	1970-XX-XX	Clinical	Central Africa	Africa
+63790c01ca7802ea8a666454	CNRVC950641		21.913965	95.956223	1972	Ogawa	Human	Myanmar	1972-XX-XX	Clinical	Southeast Asia	Asia
+63790c01ca7802851e666455	CNRVC950693		-4.038333	21.758664	1995	Ogawa	Human	Democratic Republic of the Congo	1995-XX-XX	Clinical	Central Africa	Africa
+63790c01ca7802fd75666456	CNRVC950694		-4.038333	21.758664	1995	Ogawa	Human	Democratic Republic of the Congo	1995-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78023456666457	CNRVC950695		-4.038333	21.758664	1995	Ogawa	Human	Democratic Republic of the Congo	1995-XX-XX	Clinical	Central Africa	Africa
+63790c01ca7802f187666458	CNRVC950699		9.945587	-9.696645	1995	Ogawa	Human	Guinea	1995-XX-XX	Clinical	West Africa	Africa
+63790c01ca78023cd1666459	CNRVC950700		12.238333	-1.561593	1995	Ogawa	Human	Burkina Faso	1995-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802942366645a	CNRVC950702		12.238333	-1.561593	1995	Ogawa	Human	Burkina Faso	1995-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802210366645b	CNRVC950707		17.570692	-3.996166	1995	Inaba	Human	Mali	1995-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802fd7f66645c	CNRVC950708		17.570692	-3.996166	1995	Inaba	Human	Mali	1995-XX-XX	Clinical	West Africa	Africa
+63790c01ca78021bd866645d	CNRVC950712		8.460555	-11.779889	1995	Ogawa	Human	Sierra Leone	1995-XX-XX	Clinical	West Africa	Africa
+63790c01ca78022bf766645e	CNRVC950723		9.945587	-9.696645	1995	Inaba	Human	Guinea	1995-XX-XX	Clinical	West Africa	Africa
+63790c01ca780250e266645f	CNRVC950724		9.945587	-9.696645	1995	Ogawa	Human	Guinea	1995-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802607c666460	CNRVC950728		6.428055	-9.429499	1995	Ogawa	Human	Liberia	1995-XX-XX	Clinical	West Africa	Africa
+63790c01ca78025192666461	CNRVC950730		6.428055	-9.429499	1995	Ogawa	Human	Liberia	1995-XX-XX	Clinical	West Africa	Africa
+63790c01ca78027ab4666462	CNRVC950746		-4.038333	21.758664	1995	Ogawa	Human	Democratic Republic of the Congo	1995-XX-XX	Clinical	Central Africa	Africa
+63790c01ca780242e9666463	CNRVC950753		7.539989	-5.54708	1995	Inaba	Human	Cote d'Ivoire	1995-XX-XX	Clinical	West Africa	Africa
+63790c01ca78025649666464	CNRVC950755		7.539989	-5.54708	1995	Inaba	Human	Cote d'Ivoire	1995-XX-XX	Clinical	West Africa	Africa
+63790c01ca78026eb0666465	CNRVC950756		7.539989	-5.54708	1995	Ogawa	Human	Cote d'Ivoire	1995-XX-XX	Clinical	West Africa	Africa
+63790c01ca78022e9d666466	CNRVC950758		7.539989	-5.54708	1995	Ogawa	Human	Cote d'Ivoire	1995-XX-XX	Clinical	West Africa	Africa
+63790c01ca78025d1a666467	CNRVC950759		17.607789	8.081666	1995	Inaba	Human	Niger	1995-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802c0da666468	CNRVC950792		33.223191	43.679291	1995	Ogawa	Human	Iraq	1995-XX-XX	Clinical	Western/Central Asia	Asia
+63790c01ca7802a969666469	CNRVC950798		33.223191	43.679291	1995	Ogawa	Human	Iraq	1995-XX-XX	Clinical	Western/Central Asia	Asia
+63790c01ca7802d8f966646a	CNRVC950800		33.223191	43.679291	1995	Ogawa	Human	Iraq	1995-XX-XX	Clinical	Western/Central Asia	Asia
+63790c01ca78027e0d66646b	CNRVC950801		12.238333	-1.561593	1995	Inaba	Human	Burkina Faso	1995-XX-XX	Clinical	West Africa	Africa
+63790c01ca780217f266646c	CNRVC950806		12.238333	-1.561593	1995	Inaba	Human	Burkina Faso	1995-XX-XX	Clinical	West Africa	Africa
+63790c01ca78026bbc66646d	CNRVC960003		17.607789	8.081666	1996	Inaba	Human	Niger	1996-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802f35d66646e	CNRVC960018		14.497401	-14.452362	1996	Ogawa	Human	Senegal	1996-XX-XX	Clinical	West Africa	Africa
+63790c01ca78021efb666470	CNRVC960028		9.081999	8.675277	1996	Inaba	Human	Nigeria	1996-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802308e666471	CNRVC960031		14.497401	-14.452362	1996	Ogawa	Human	Senegal	1996-XX-XX	Clinical	West Africa	Africa
+63790c01ca78024783666472	CNRVC960118		-4.038333	21.758664	1996	Inaba	Human	Democratic Republic of the Congo	1996-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78022348666473	CNRVC960122		14.497401	-14.452362	1996	Ogawa	Human	Senegal	1996-XX-XX	Clinical	West Africa	Africa
+63790c01ca78023f14666474	CNRVC960124		-4.038333	21.758664	1996	Inaba	Human	Democratic Republic of the Congo	1996-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78023746666475	CNRVC960127		-4.038333	21.758664	1996	Inaba	Human	Democratic Republic of the Congo	1996-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78022537666476	CNRVC960142		12.862807	30.217636	1996	Inaba	Human	Sudan	1996-XX-XX	Clinical	North Africa	Africa
+63790c01ca7802570d666477	CNRVC960188		-0.789275	113.921327	1937	Autoagglutinable		Indonesia	1937-XX-XX	NA	Southeast Asia	Asia
+63790c01ca7802cbfb666478	CNRVC960215		20.593684	78.96288	1996	Ogawa	Human	India	1996-XX-XX	Clinical	South Asia	Asia
+63790c01ca78025e30666479	CNRVC960218		-4.038333	21.758664	1996	Inaba	Human	Democratic Republic of the Congo	1996-XX-XX	Clinical	Central Africa	Africa
+63790c01ca7802540e66647a	CNRVC960223		6.428055	-9.429499	1996	Ogawa	Human	Liberia	1996-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802542e66647b	CNRVC960228		15.454166	18.732207	1996	Inaba	Human	Chad	1996-XX-XX	Clinical	Central Africa	Africa
+63790c01ca7802060366647c	CNRVC960234		15.454166	18.732207	1996	Inaba	Human	Chad	1996-XX-XX	Clinical	Central Africa	Africa
+63790c01ca7802151866647d	CNRVC960243		15.454166	18.732207	1996	Inaba	Human	Chad	1996-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78021aa166647e	CNRVC960246		7.369722	12.354722	1996	Inaba	Human	Cameroon	1996-XX-XX	Clinical	Central Africa	Africa
+63790c01ca7802298866647f	CNRVC960250		17.570692	-3.996166	1996	Ogawa	Human	Mali	1996-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802b259666480	CNRVC960252		9.081999	8.675277	1996	Inaba	Human	Nigeria	1996-XX-XX	Clinical	West Africa	Africa
+63790c01ca78026f8a666481	CNRVC960254		9.081999	8.675277	1996	Inaba	Human	Nigeria	1996-XX-XX	Clinical	West Africa	Africa
+63790c01ca78025b57666482	CNRVC960258		9.081999	8.675277	1996	Inaba	Human	Nigeria	1996-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802581b666483	CNRVC960260		21.00789	-10.940835	1996	Ogawa	Human	Mauritania	1996-XX-XX	Clinical	West Africa	Africa
+63790c01ca78022cf0666484	CNRVC960263		21.00789	-10.940835	1996	Ogawa	Human	Mauritania	1996-XX-XX	Clinical	West Africa	Africa
+63790c01ca780215f4666485	CNRVC960265		15.454166	18.732207	1996	Inaba	Human	Chad	1996-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78024e9c666486	CNRVC960271		9.081999	8.675277	1996	Inaba	Human	Nigeria	1996-XX-XX	Clinical	West Africa	Africa
+63790c01ca78026255666487	CNRVC960272		14.497401	-14.452362	1996	Ogawa	Human	Senegal	1996-XX-XX	Clinical	West Africa	Africa
+63790c01ca780252e7666488	CNRVC960273		15.454166	18.732207	1996	Inaba	Human	Chad	1996-XX-XX	Clinical	Central Africa	Africa
+63790c01ca780207eb666489	CNRVC960276		12.862807	30.217636	1996	Inaba	Human	Sudan	1996-XX-XX	Clinical	North Africa	Africa
+63790c01ca7802f7b766648a	CNRVC960293		7.369722	12.354722	1996	Inaba	Human	Cameroon	1996-XX-XX	Clinical	Central Africa	Africa
+63790c01ca7802645a66648b	CNRVC960299		-1.940278	29.873888	1996	Inaba	Human	Rwanda	1996-XX-XX	Clinical	East Africa	Africa
+63790c01ca78029e2266648c	CNRVC960308		-4.038333	21.758664	1996	Inaba	Human	Democratic Republic of the Congo	1996-XX-XX	Clinical	Central Africa	Africa
+63790c01ca7802287366648d	CNRVC960312		-1.940278	29.873888	1996	Inaba	Human	Rwanda	1996-XX-XX	Clinical	East Africa	Africa
+63790c01ca7802de1466648e	CNRVC960317		-1.940278	29.873888	1996	Inaba	Human	Rwanda	1996-XX-XX	Clinical	East Africa	Africa
+63790c01ca7802f4e4666492	CNRVC960327		14.497401	-14.452362	1996	Ogawa	Human	Senegal	1996-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802b714666493	CNRVC960328		-1.940278	29.873888	1996	Ogawa	Human	Rwanda	1996-XX-XX	Clinical	East Africa	Africa
+63790c01ca78021029666494	CNRVC960329		-1.940278	29.873888	1996	Ogawa	Human	Rwanda	1996-XX-XX	Clinical	East Africa	Africa
+63790c01ca78023a0a666495	CNRVC960552		7.539989	-5.54708	1970	Ogawa	Human	Cote d'Ivoire	1970-XX-XX	Clinical	West Africa	Africa
+63790c01ca78021e4b666496	CNRVC960575		9.30769	2.315834	1970	Ogawa	Human	Benin	1970-XX-XX	Clinical	West Africa	Africa
+63790c01ca78021ff4666497	CNRVC960579		9.30769	2.315834	1970	Ogawa	Human	Benin	1970-XX-XX	Clinical	West Africa	Africa
+63790c01ca78024246666498	CNRVC960596		9.145	40.489673	1970	Inaba	Human	Ethiopia	1970-XX-XX	Clinical	East Africa	Africa
+63790c01ca78024ebf666499	CNRVC960623		7.946527	-1.023194	1970	Ogawa	Human	Ghana	1970-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802537466649a	CNRVC960627		7.946527	-1.023194	1970	Ogawa	Human	Ghana	1970-XX-XX	Clinical	West Africa	Africa
+63790c01ca78021a3666649b	CNRVC960629		9.945587	-9.696645	1970	Ogawa	Human	Guinea	1970-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802181a66649c	CNRVC960635		9.945587	-9.696645	1970	Ogawa	Human	Guinea	1970-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802877c66649d	CNRVC960768		33.223191	43.679291	1966	Ogawa	Human	Iraq	1966-XX-XX	Clinical	Western/Central Asia	Asia
+63790c01ca78025d3266649e	CNRVC960778		33.223191	43.679291	1966	Ogawa	Human	Iraq	1966-XX-XX	Clinical	Western/Central Asia	Asia
+63790c01ca7802a02766649f	CNRVC960799		32.427908	53.688046	1965	Ogawa	Human	Iran	1965-XX-XX	Clinical	South Asia	Asia
+63790c01ca7802637b6664a0	CNRVC960800		32.427908	53.688046	1965	Ogawa	Human	Iran	1965-XX-XX	Clinical	South Asia	Asia
+63790c01ca78023e7d6664a1	CNRVC960842		32.427908	53.688046	1965	Ogawa	Human	Iran	1965-XX-XX	Clinical	South Asia	Asia
+63790c01ca780254126664a2	CNRVC960871		32.427908	53.688046	1965	Ogawa	Human	Iran	1965-XX-XX	Clinical	South Asia	Asia
+63790c01ca7802c9a46664a3	CNRVC960872		32.427908	53.688046	1965	Inaba	Human	Iran	1965-XX-XX	Clinical	South Asia	Asia
+63790c01ca780279a16664a4	CNRVC960891		31.046051	34.851612	1970	Inaba	Human	Israel	1970-XX-XX	Clinical	Western/Central Asia	Asia
+63790c01ca780273656664a6	CNRVC960911		31.046051	34.851612	1970	Inaba	Human	Israel	1970-XX-XX	Clinical	Western/Central Asia	Asia
+63790c01ca7802ce796664a7	CNRVC960918		30.585164	36.238414	1970	Inaba	Human	Jordan	1970-XX-XX	Clinical	Western/Central Asia	Asia
+63790c01ca780249656664a8	CNRVC960922		33.854721	35.862285	1970	Ogawa	Human	Lebanon	1970-XX-XX	Clinical	Western/Central Asia	Asia
+63790c01ca78029bcb6664a9	CNRVC960928		6.428055	-9.429499	1970	Ogawa	Human	Liberia	1970-XX-XX	Clinical	West Africa	Africa
+63790c01ca78027a956664aa	CNRVC960946		6.428055	-9.429499	1970	Ogawa	Human	Liberia	1970-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802a12e6664ab	CNRVC960949		26.3351	17.228331	1970	Ogawa	Human	Libya	1970-XX-XX	Clinical	North Africa	Africa
+63790c01ca78024b716664ac	CNRVC960951		26.3351	17.228331	1970	Ogawa	Human	Libya	1970-XX-XX	Clinical	North Africa	Africa
+63790c01ca780229796664ad	CNRVC960952		17.570692	-3.996166	1970	Ogawa	Human	Mali	1970-XX-XX	Clinical	West Africa	Africa
+63790c01ca78028af66664ae	CNRVC960959		17.607789	8.081666	1970	Ogawa	Human	Niger	1970-XX-XX	Clinical	West Africa	Africa
+63790c01ca780275cb6664af	CNRVC960971		17.607789	8.081666	1970	Inaba	Human	Niger	1970-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802f43c6664b0	CNRVC960976		-6.314993	143.95555	1962	Ogawa	Human	Papua New Guinea	1962-XX-XX	Clinical	Oceania	Oceania
+63790c01ca78027a816664b1	CNRVC961005		30.375321	69.345116	1964	Ogawa	Human	Pakistan	1964-XX-XX	Clinical	South Asia	Asia
+63790c01ca780246a06664b2	CNRVC961014		8.460555	-11.779889	1970	Ogawa	Human	Sierra Leone	1970-XX-XX	Clinical	West Africa	Africa
+63790c01ca780263676664b3	CNRVC961017		48.669026	19.699024	1970	Ogawa	Human	Slovakia	1970-XX-XX	Clinical	Eastern Europe	Europe
+63790c01ca780249516664b4	CNRVC961018		48.669026	19.699024	1970	Ogawa	Human	Slovakia	1970-XX-XX	Clinical	Eastern Europe	Europe
+63790c01ca7802e7d86664b5	CNRVC961077		15.870032	100.992541	1963	Inaba	Human	Thailand	1963-XX-XX	Clinical	Southeast Asia	Asia
+63790c01ca780274f96664b6	CNRVC961129		14.058324	108.277199	1964	Ogawa	Human	Viet Nam	1964-XX-XX	Clinical	Southeast Asia	Asia
+63790c01ca780258706664b7	CNRVC961190		-0.789275	113.921327	1937	Ogawa	Human	Indonesia	1937-XX-XX	Clinical	Southeast Asia	Asia
+63790c01ca7802169a6664b8	CNRVC970004		-4.038333	21.758664	1997	Inaba	Human	Democratic Republic of the Congo	1997-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78029fc86664ba	CNRVC970008		28.033886	1.659626	1990	Ogawa	Human	Algeria	1990-XX-XX	Clinical	North Africa	Africa
+63790c01ca780250dc6664bb	CNRVC970014		7.369722	12.354722	1997	Inaba	Human	Cameroon	1997-XX-XX	Clinical	Central Africa	Africa
+63790c01ca7802bbcf6664bc	CNRVC970019		7.369722	12.354722	1997	Inaba	Human	Cameroon	1997-XX-XX	Clinical	Central Africa	Africa
+63790c01ca780225e06664bd	CNRVC970022		7.369722	12.354722	1997	Ogawa	Human	Cameroon	1997-XX-XX	Clinical	Central Africa	Africa
+63790c01ca780206a36664be	CNRVC970024		7.369722	12.354722	1997	Ogawa	Human	Cameroon	1997-XX-XX	Clinical	Central Africa	Africa
+63790c01ca780228ac6664bf	CNRVC970027		-4.038333	21.758664	1997	Inaba	Human	Democratic Republic of the Congo	1997-XX-XX	Clinical	Central Africa	Africa
+63790c01ca7802f7d96664c2	CNRVC970053		5.152149	46.199616	1997	Ogawa	Human	Somalia	1997-XX-XX	Clinical	East Africa	Africa
+63790c01ca78024a486664c3	CNRVC970056		-3.373056	29.918886	1997	Ogawa	Human	Burundi	1997-XX-XX	Clinical	East Africa	Africa
+63790c01ca78022ca36664c4	CNRVC970058		-4.038333	21.758664	1997	Ogawa	Human	Democratic Republic of the Congo	1997-XX-XX	Clinical	Central Africa	Africa
+63790c01ca7802cb4c6664c8	CNRVC970079		6.611111	20.939444	1997	Inaba	Human	Central African Republic	1997-XX-XX	Clinical	Central Africa	Africa
+63790c01ca780214eb6664c9	CNRVC970108		6.611111	20.939444	1997	Inaba	Human	Central African Republic	1997-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78020a196664ca	CNRVC970109		6.611111	20.939444	1997	Inaba	Human	Central African Republic	1997-XX-XX	Clinical	Central Africa	Africa
+63790c01ca780222216664cd	CNRVC970113		-4.038333	21.758664	1997	Inaba	Human	Democratic Republic of the Congo	1997-XX-XX	Clinical	Central Africa	Africa
+63790c01ca7802d93f6664ce	CNRVC970123		6.611111	20.939444	1997	Inaba	Human	Central African Republic	1997-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78025ce26664d0	CNRVC970126		6.611111	20.939444	1997	Inaba	Human	Central African Republic	1997-XX-XX	Clinical	Central Africa	Africa
+63790c01ca780229fe6664d5	CNRVC970147		9.30769	2.315834	1997	Inaba	Human	Benin	1997-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802bfba6664d6	CNRVC970152		9.30769	2.315834	1997	Inaba	Human	Benin	1997-XX-XX	Clinical	West Africa	Africa
+63790c01ca780274026664d7	CNRVC970170		-0.803689	11.609444	1997	Inaba	Human	Gabon	1997-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78020e766664d8	CNRVC970174		-4.038333	21.758664	1997	Ogawa	Human	Democratic Republic of the Congo	1997-XX-XX	Clinical	Central Africa	Africa
+63790c01ca7802263a6664d9	CNRVC970175		11.825138	42.590275	1997	Ogawa	Human	Djibouti	1997-XX-XX	Clinical	East Africa	Africa
+63790c01ca780224366664db	CNRVC970177		11.825138	42.590275	1997	Ogawa	Human	Djibouti	1997-XX-XX	Clinical	East Africa	Africa
+63790c01ca7802ab786664dc	CNRVC980004		1.373333	32.290275	1998	Ogawa	Human	Uganda	1998-XX-XX	Clinical	East Africa	Africa
+63790c01ca780243ae6664dd	CNRVC980005		1.373333	32.290275	1998	Ogawa	Human	Uganda	1998-XX-XX	Clinical	East Africa	Africa
+63790c01ca780238a26664df	CNRVC980022		7.369722	12.354722	1997	Inaba	Human	Cameroon	1997-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78020b956664e0	CNRVC980023		-11.875001	43.872219	1998	Ogawa	Human	Comoros	1998-XX-XX	Clinical	East Africa	Africa
+63790c01ca780288616664e1	CNRVC980026		-11.875001	43.872219	1998	Ogawa	Human	Comoros	1998-XX-XX	Clinical	East Africa	Africa
+63790c01ca7802d6d06664e2	CNRVC980029		-11.875001	43.872219	1998	Ogawa	Human	Comoros	1998-XX-XX	Clinical	East Africa	Africa
+63790c01ca7802bfd16664e3	CNRVC980030		-0.228021	15.827659	1998	Inaba	Human	Congo	1998-XX-XX	Clinical	Central Africa	Africa
+63790c01ca780228826664e4	CNRVC980034		-0.228021	15.827659	1998	Inaba	Human	Congo	1998-XX-XX	Clinical	Central Africa	Africa
+63790c01ca780215da6664e5	CNRVC980038		8.460555	-11.779889	1986	Ogawa	Human	Sierra Leone	1986-XX-XX	Clinical	West Africa	Africa
+63790c01ca78029e5e6664e6	CNRVC980039		11.825138	42.590275	1985	Ogawa	Human	Djibouti	1985-XX-XX	Clinical	East Africa	Africa
+63790c01ca780219de6664e7	CNRVC980040		12.238333	-1.561593	1984	Ogawa	Human	Burkina Faso	1984-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802e5ee6664e8	CNRVC980041		17.570692	-3.996166	1984	Ogawa	Human	Mali	1984-XX-XX	Clinical	West Africa	Africa
+63790c01ca78028a116664e9	CNRVC980043		17.570692	-3.996166	1985	Hikojima	Human	Mali	1985-XX-XX	Clinical	West Africa	Africa
+63790c01ca780221466664ea	CNRVC980044		11.825138	42.590275	1985	Ogawa	Human	Djibouti	1985-XX-XX	Clinical	East Africa	Africa
+63790c01ca780209526664eb	CNRVC980046		9.30769	2.315834	1985	Ogawa	Human	Benin	1985-XX-XX	Clinical	West Africa	Africa
+63790c01ca78026fad6664ec	CNRVC980047		-4.038333	21.758664	1988	Inaba	Human	Democratic Republic of the Congo	1988-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78025e6c6664ed	CNRVC980048		12.238333	-1.561593	1984	Ogawa	Human	Burkina Faso	1984-XX-XX	Clinical	West Africa	Africa
+63790c01ca780233b76664ee	CNRVC980049		12.238333	-1.561593	1984	Ogawa	Human	Burkina Faso	1984-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802c39f6664ef	CNRVC980050		-4.038333	21.758664	1984	Autoagglutinable	Human	Democratic Republic of the Congo	1984-XX-XX	Clinical	Central Africa	Africa
+63790c01ca780227d06664f0	CNRVC980060		7.369722	12.354722	1998	Ogawa	Human	Cameroon	1998-XX-XX	Clinical	Central Africa	Africa
+63790c01ca7802729f6664f2	CNRVC980080		-6.369028	34.888822	1998	Ogawa	Human	Tanzania	1998-XX-XX	Clinical	East Africa	Africa
+63790c01ca780240a16664f3	CNRVC980081		-6.369028	34.888822	1998	Ogawa	Human	Tanzania	1998-XX-XX	Clinical	East Africa	Africa
+63790c01ca7802a2d46664f4	CNRVC980158		11.825138	42.590275	1997	Ogawa	Human	Djibouti	1997-XX-XX	Clinical	East Africa	Africa
+63790c01ca78024b806664f5	CNRVC980194		-1.940278	29.873888	1998	Ogawa	Human	Rwanda	1998-XX-XX	Clinical	East Africa	Africa
+63790c01ca7802faba6664f6	CNRVC980195		-1.940278	29.873888	1998	Ogawa	Human	Rwanda	1998-XX-XX	Clinical	East Africa	Africa
+63790c01ca78024a416664f7	CNRVC980323		7.369722	12.354722	1998	Ogawa	Human	Cameroon	1998-XX-XX	Clinical	Central Africa	Africa
+63790c01ca780254326664f8	CNRVC980324		-1.940278	29.873888	1998	Ogawa	Human	Rwanda	1998-XX-XX	Clinical	East Africa	Africa
+63790c01ca780202d76664fa	CNRVC980356		12.862807	30.217636	1998	Ogawa	Human	Sudan	1998-XX-XX	Clinical	North Africa	Africa
+63790c01ca78023e8b6664fb	CNRVC980359		12.238333	-1.561593	1998	Inaba	Human	Burkina Faso	1998-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802c21e6664fc	CNRVC980360		12.238333	-1.561593	1998	Inaba	Human	Burkina Faso	1998-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802512f6664fd	CNRVC980367		9.945587	-9.696645	1998	Ogawa	Human	Guinea	1998-XX-XX	Clinical	West Africa	Africa
+63790c01ca780213966664fe	CNRVC980374		15.454166	18.732207	1998	Inaba	Human	Chad	1998-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78027c3f6664ff	CNRVC980384		12.862807	30.217636	1998	Ogawa	Human	Sudan	1998-XX-XX	Clinical	North Africa	Africa
+63790c01ca78025b71666500	CNRVC980395		7.369722	12.354722	1998	Inaba	Human	Cameroon	1998-XX-XX	Clinical	Central Africa	Africa
+63790c01ca7802db3d666501	CNRVC980396		7.369722	12.354722	1998	Inaba	Human	Cameroon	1998-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78028e02666503	CNRVC980398		7.369722	12.354722	1998	Inaba	Human	Cameroon	1998-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78028072666504	CNRVC980418		8.460555	-11.779889	1998	Ogawa	Human	Sierra Leone	1998-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802e746666505	CNRVC980420		7.539989	-5.54708	1998	Ogawa	Human	Cote d'Ivoire	1998-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802911c666506	CNRVC980421		7.539989	-5.54708	1998	Ogawa	Human	Cote d'Ivoire	1998-XX-XX	Clinical	West Africa	Africa
+63790c01ca78027e71666507	CNRVC990002		5.152149	46.199616	1999	Inaba	Human	Somalia	1999-XX-XX	Clinical	East Africa	Africa
+63790c01ca780219b3666508	CNRVC990015		1.373333	32.290275	1999	Ogawa	Human	Uganda	1999-XX-XX	Clinical	East Africa	Africa
+63790c01ca78029861666509	CNRVC990019		-18.665695	35.529562	1999	Ogawa	Human	Mozambique	1999-XX-XX	Clinical	East Africa	Africa
+63790c01ca7802cad166650a	CNRVC990038		-18.665695	35.529562	1999	Ogawa	Human	Mozambique	1999-XX-XX	Clinical	East Africa	Africa
+63790c01ca7802123666650b	CNRVC990039		-18.665695	35.529562	1999	Ogawa	Human	Mozambique	1999-XX-XX	Clinical	East Africa	Africa
+63790c01ca78023e5366650c	CNRVC990078		-18.766947	46.869107	1999	Ogawa	Human	Madagascar	1999-XX-XX	Clinical	East Africa	Africa
+63790c01ca7802bdb966650d	CNRVC990194		12.565679	104.990963	1999	Ogawa	Human	Cambodia	1999-XX-XX	Clinical	Southeast Asia	Asia
+63790c01ca7802ea9d66650e	CNRVC990209		19.85627	102.495496	1999	Ogawa	Human	Laos	1999-XX-XX	Clinical	Southeast Asia	Asia
+63790c01ca780231bd66650f	CNRVC990234		12.238333	-1.561593	1999	Inaba	Human	Burkina Faso	1999-XX-XX	Clinical	West Africa	Africa
+63790c01ca780299bf666510	CNRVC990256		-0.228021	15.827659	1999	Inaba	Human	Congo	1999-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78027d8c666511	CNRVC990298		33.93911	67.709953	1999	Ogawa	Human	Afghanistan	1999-XX-XX	Clinical	South Asia	Asia
+63790c01ca780260c5666512	CNRVC990299		33.93911	67.709953	1999	Ogawa	Human	Afghanistan	1999-XX-XX	Clinical	South Asia	Asia
+63790c01ca78020ef8666513	CNRVC990329		7.369722	12.354722	1999	Ogawa	Human	Cameroon	1999-XX-XX	Clinical	Central Africa	Africa
+637a2cd1ca7802a12f666c36	CO_1095		20.593684	78.96288	1995	NA	Clinical	India	1995-XX-XX	Clinical	South Asia	Asia
+62f38239ac5d5d9bf4072c6a	CP1030		23.634501	-102.552784	2008	Inaba	Environmental	Mexico	2008-XX-XX	Environmental	Central America	North America
+62ecf29aac5d5d256b070bd0	CP1038		-19.015438	29.154857	2009	Ogawa	Clinical	Zimbabwe	2009-XX-XX	Clinical	East Africa	Africa
+62f2c59bac5d5d4967072a01	CP1040		-13.133897	27.849332	2004	NA	Clinical	Zambia	2004-XX-XX	Clinical	East Africa	Africa
+62ecf29aac5d5d2db6070bd1	CP1041		-13.133897	27.849332	2004	Ogawa	Clinical	Zambia	2004-XX-XX	Clinical	East Africa	Africa
+62f383deac5d5d3fad072c76	CP1044		-9.189967	-75.015152	1991	Ogawa	Clinical	Peru	1991-XX-XX	Clinical	South America	South America
+62f383deac5d5d64a1072c77	CP1046		-9.189967	-75.015152	1995	Ogawa	Clinical	Peru	1995-XX-XX	Clinical	South America	South America
+62f383deac5d5d8718072c78	CP1047		-9.189967	-75.015152	1995	Ogawa	Clinical	Peru	1995-XX-XX	Clinical	South America	South America
+62ecf29aac5d5de4b1070bd3	CP1048		23.684994	90.356331	2010	Ogawa	Clinical	Bangladesh	2010-XX-XX	Clinical	South Asia	Asia
+62f9f8ad132515335e3fe9f3	CRC1106		20.593684	78.96288	1964	NA		India	1964-XX-XX	NA	South Asia	Asia
+62f9f8ad1325152ae03fe9f2	CRC711		20.593684	78.96288	1962	NA		India	1962-XX-XX	NA	South Asia	Asia
+637a2cd1ca780291d8666c39	CRC_184		20.593684	78.96288	2000	NA	Clinical	India	2000-XX-XX	Clinical	South Asia	Asia
+637a2cd1ca78029576666c3d	CRC_262		20.593684	78.96288	2000	NA	Clinical	India	2000-XX-XX	Clinical	South Asia	Asia
+637a2cd1ca780200ed666c3e	CRC_267		20.593684	78.96288	2000	NA	Clinical	India	2000-XX-XX	Clinical	South Asia	Asia
+636f4b53036d2af84d7f9c8d	CTMA-1441		-4.038333	21.758664	2015	Inaba	Clinical	Democratic Republic of the Congo	2015-XX-XX	Clinical	Central Africa	Africa
+637f86bed11c0b2e6ae1e6ac	CTMA_1402		-4.038333	21.758664	2017	NA	Clinical	Democratic Republic of the Congo	2017-XX-XX	Clinical	Central Africa	Africa
+637f86bed11c0b7e55e1e6b2	CTMA_1408		-4.038333	21.758664	2015	NA	Clinical	Democratic Republic of the Congo	2015-XX-XX	Clinical	Central Africa	Africa
+637f86bed11c0b4917e1e6b3	CTMA_1409		-4.038333	21.758664	2015	NA	Clinical	Democratic Republic of the Congo	2015-XX-XX	Clinical	Central Africa	Africa
+637f86bed11c0b59c0e1e6b5	CTMA_1411		-4.038333	21.758664	2015	NA	Clinical	Democratic Republic of the Congo	2015-XX-XX	Clinical	Central Africa	Africa
+637f86bed11c0b805fe1e6c6	CTMA_1428		-4.038333	21.758664	2016	NA	Clinical	Democratic Republic of the Congo	2016-XX-XX	Clinical	Central Africa	Africa
+637f86bed11c0b8e31e1e6c8	CTMA_1430		-4.038333	21.758664	2016	NA	Clinical	Democratic Republic of the Congo	2016-XX-XX	Clinical	Central Africa	Africa
+637f86bed11c0b2344e1e6ca	CTMA_1432		-4.038333	21.758664	2016	NA	Clinical	Democratic Republic of the Congo	2016-XX-XX	Clinical	Central Africa	Africa
+637f86bed11c0b00dde1e6cc	CTMA_1434		-4.038333	21.758664	2016	NA	Clinical	Democratic Republic of the Congo	2016-XX-XX	Clinical	Central Africa	Africa
+637f86bed11c0b2c57e1e6d6	CTMA_1446		-4.038333	21.758664	2016	NA	Clinical	Democratic Republic of the Congo	2016-XX-XX	Clinical	Central Africa	Africa
+637f86bed11c0b25d6e1e6db	CTMA_1451		-4.038333	21.758664	2014	NA	Clinical	Democratic Republic of the Congo	2014-XX-XX	Clinical	Central Africa	Africa
+637f86bed11c0bcf32e1e6e7	CTMA_1464		-4.038333	21.758664	2014	NA	Clinical	Democratic Republic of the Congo	2014-XX-XX	Clinical	Central Africa	Africa
+637f86bed11c0b3a93e1e6e9	CTMA_1466		-4.038333	21.758664	2014	NA	Clinical	Democratic Republic of the Congo	2014-XX-XX	Clinical	Central Africa	Africa
+637f86bed11c0b0fade1e6eb	CTMA_1468		-4.038333	21.758664	2014	NA	Clinical	Democratic Republic of the Congo	2014-XX-XX	Clinical	Central Africa	Africa
+637f86bed11c0b3af2e1e6ed	CTMA_1470		-4.038333	21.758664	2014	NA	Clinical	Democratic Republic of the Congo	2014-XX-XX	Clinical	Central Africa	Africa
+6512d9e2027b427ba77120ca	Case_05		23.684994	90.356331	1993	NA	Clinical	Bangladesh	1993-XX-XX	Clinical	South Asia	Asia
+6512d9e2027b42bff17120cb	Case_06		23.684994	90.356331	1993	NA	Clinical	Bangladesh	1993-XX-XX	Clinical	South Asia	Asia
+6512d9e2027b4239457120cc	Case_07		23.684994	90.356331	1993	NA	Clinical	Bangladesh	1993-XX-XX	Clinical	South Asia	Asia
+63eb4956beb4ca61803f3e58	D1		23.684994	90.356331	2021	NA	Clinical	Bangladesh	2021-XX-XX	Clinical	South Asia	Asia
+63beb90cff6bdd7cf7e90eb7	D19.3		23.684994	90.356331	2017	NA	Clinical	Bangladesh	2017-XX-XX	Clinical	South Asia	Asia
+63eb4956beb4ca7bb33f3e59	D3		23.684994	90.356331	2022	NA	Clinical	Bangladesh	2022-XX-XX	Clinical	South Asia	Asia
+63beb90cff6bdd9f15e90ecc	D36		23.684994	90.356331	2017	NA	Clinical	Bangladesh	2017-XX-XX	Clinical	South Asia	Asia
+63eb4956beb4ca23ce3f3e5a	D4		23.684994	90.356331	2022	NA	Clinical	Bangladesh	2022-XX-XX	Clinical	South Asia	Asia
+63beb90cff6bdd69ede90ee3	D58		23.684994	90.356331	2017	NA	Clinical	Bangladesh	2017-XX-XX	Clinical	South Asia	Asia
+63beb90cff6bdda07be90ef1	D82		23.684994	90.356331	2018	NA	Clinical	Bangladesh	2018-XX-XX	Clinical	South Asia	Asia
+6374b2e95f1bc775d55debf3	DCC-001		23.684994	90.356331	2012	NA	Clinical	Bangladesh	2012-XX-XX	Clinical	South Asia	Asia
+65244bfe507ea260dd014562	DMAVC-16		23.684994	90.356331	2022	NA	Clinical	Bangladesh	2022-XX-XX	Clinical	South Asia	Asia
+65244bfe507ea23c51014566	DMAVC-20		23.684994	90.356331	2021	NA	Clinical	Bangladesh	2021-XX-XX	Clinical	South Asia	Asia
+65244bfe507ea26965014558	DMAVC-6		23.684994	90.356331	2022	NA	Clinical	Bangladesh	2022-XX-XX	Clinical	South Asia	Asia
+65244bfe507ea24f7901455b	DMAVC-9		23.684994	90.356331	2022	NA	Clinical	Bangladesh	2022-XX-XX	Clinical	South Asia	Asia
+62ed2b9c5f2db81a9fb66906	DR1		18.735693	-70.162651	2011	NA	clinical	Dominican Republic	2011-XX-XX	Clinical	Carribbean	North America
+6389fe199a9bd780f6a0b887	Dr_1		-6.369028	34.888822	2017	NA	Clinical	Tanzania	2017-XX-XX	Clinical	East Africa	Africa
+637b8a3aca7802a5086671bd	E16_16		7.946527	-1.023194	2016	NA	Environment	Ghana	2016-XX-XX	Environmental	West Africa	Africa
+637b8a3aca780240286671be	E17_16		7.946527	-1.023194	2016	NA	Environment	Ghana	2016-XX-XX	Environmental	West Africa	Africa
+637b8a3aca780226066671bf	E20_16		7.946527	-1.023194	2016	NA	Environment	Ghana	2016-XX-XX	Environmental	West Africa	Africa
+62f4daf95f2db859b5b68445	E306		35.86166	104.195397	2013	NA	Clinical	China	2013-XX-XX	Clinical	East Asia	Asia
+62f9f8ad132515980f3fe9f5	E9120		-0.789275	113.921327	1961	NA		Indonesia	1961-XX-XX	NA	Southeast Asia	Asia
+62f383deac5d5d0303072c79	EC0009		23.684994	90.356331	2010	Ogawa	Environmental	Bangladesh	2010-XX-XX	Environmental	South Asia	Asia
+637e370ef971a10e8e054277	EL021-65		35.86166	104.195397	1965	Ogawa	Clinical	China	1965-XX-XX	Clinical	East Asia	Asia
+637e370ef971a1d915054275	EL1-62		35.86166	104.195397	1962	Ogawa	Clinical	China	1962-XX-XX	Clinical	East Asia	Asia
+637e370ef971a16047054276	EL11-63		35.86166	104.195397	1963	Ogawa	Clinical	China	1963-XX-XX	Clinical	East Asia	Asia
+637e370ef971a1080105427c	EL1192		35.86166	104.195397	1978	Ogawa	Clinical	China	1978-XX-XX	Clinical	East Asia	Asia
+637e370ef971a112bc05427d	EL1344		35.86166	104.195397	1979	Ogawa	Clinical	China	1979-XX-XX	Clinical	East Asia	Asia
+637e370ef971a14af205427e	EL1358		35.86166	104.195397	1979	Ogawa	Environmental	China	1979-XX-XX	Environmental	East Asia	Asia
+637e370ef971a1b0bb05427f	EL1409		35.86166	104.195397	1979	Inaba	Clinical	China	1979-XX-XX	Clinical	East Asia	Asia
+637e370ef971a10b94054280	EL1605		35.86166	104.195397	1980	Ogawa	Clinical	China	1980-XX-XX	Clinical	East Asia	Asia
+637e370ef971a11cfe054281	EL1824		35.86166	104.195397	1981	Inaba	Clinical	China	1981-XX-XX	Clinical	East Asia	Asia
+637e370ef971a158c0054282	EL1825		35.86166	104.195397	1981	Inaba	Clinical	China	1981-XX-XX	Clinical	East Asia	Asia
+637e370ef971a1416c054283	EL1848		35.86166	104.195397	1982	Inaba	Clinical	China	1982-XX-XX	Clinical	East Asia	Asia
+637e370ef971a1898d054284	EL2066		35.86166	104.195397	1983	Inaba	Clinical	China	1983-XX-XX	Clinical	East Asia	Asia
+637e370ef971a1d192054285	EL2092		35.86166	104.195397	1984	Inaba	Clinical	China	1984-XX-XX	Clinical	East Asia	Asia
+637e370ef971a1141b054286	EL2152		35.86166	104.195397	1985	Inaba	Clinical	China	1985-XX-XX	Clinical	East Asia	Asia
+637e370ef971a182ff054287	EL2201		35.86166	104.195397	1986	Inaba	Clinical	China	1986-XX-XX	Clinical	East Asia	Asia
+637e370ef971a1d36f054288	EL2247		35.86166	104.195397	1987	Inaba	Clinical	China	1987-XX-XX	Clinical	East Asia	Asia
+637e370ef971a18a4f054289	EL2266		35.86166	104.195397	1988	Inaba	Clinical	China	1988-XX-XX	Clinical	East Asia	Asia
+637e370ef971a1540005428a	EL2281		35.86166	104.195397	1989	Inaba	Clinical	China	1989-XX-XX	Clinical	East Asia	Asia
+637e370ef971a163a405428b	EL2300		35.86166	104.195397	1991	Inaba	Clinical	China	1991-XX-XX	Clinical	East Asia	Asia
+637e370ef971a1319505428c	EL2311		35.86166	104.195397	1992	Inaba	Clinical	China	1992-XX-XX	Clinical	East Asia	Asia
+637e370ef971a1e97105428d	EL2312		35.86166	104.195397	1992	Inaba	Clinical	China	1992-XX-XX	Clinical	East Asia	Asia
+637e370ef971a128a705428f	EL2314		35.86166	104.195397	1992	Inaba	Clinical	China	1992-XX-XX	Clinical	East Asia	Asia
+637e370ef971a143a9054292	EL2322		35.86166	104.195397	1992	Inaba	Clinical	China	1992-XX-XX	Clinical	East Asia	Asia
+637e370ef971a1029105429b	EL2351		35.86166	104.195397	1994	Ogawa	Clinical	China	1994-XX-XX	Clinical	East Asia	Asia
+637e370ef971a130c305429c	EL2356		35.86166	104.195397	1994	Ogawa	Clinical	China	1994-XX-XX	Clinical	East Asia	Asia
+637e370ef971a1624b05429d	EL2382		35.86166	104.195397	1994	Ogawa	Clinical	China	1994-XX-XX	Clinical	East Asia	Asia
+637e370ef971a1530505429f	EL2390		35.86166	104.195397	1996	Ogawa	Clinical	China	1996-XX-XX	Clinical	East Asia	Asia
+637e370ef971a1dc8f0542a1	EL2392		35.86166	104.195397	1996	Ogawa	Clinical	China	1996-XX-XX	Clinical	East Asia	Asia
+637e370ef971a17e0e0542a2	EL2393		35.86166	104.195397	1996	Ogawa	Environmental	China	1996-XX-XX	Environmental	East Asia	Asia
+637e370ef971a18b220542a7	EL2405		35.86166	104.195397	1996	Ogawa	Clinical	China	1996-XX-XX	Clinical	East Asia	Asia
+637e370ef971a1126a054278	EL320		35.86166	104.195397	1974	Ogawa	Clinical	China	1974-XX-XX	Clinical	East Asia	Asia
+637e370ef971a11a34054279	EL338		35.86166	104.195397	1974	Ogawa	Clinical	China	1974-XX-XX	Clinical	East Asia	Asia
+637e370ef971a16c3605427a	EL489		35.86166	104.195397	1975	Ogawa	Clinical	China	1975-XX-XX	Clinical	East Asia	Asia
+637e370ef971a129ee05427b	EL922		35.86166	104.195397	1977	Ogawa	Clinical	China	1977-XX-XX	Clinical	East Asia	Asia
+6536368fcdc1b9e4c5344942	EN079	EN079	23.684994	90.356331	2006	NA	Clinical	Bangladesh	2006-XX-XX	Clinical	South Asia	Asia
+6536368fcdc1b93d3c344964	EN149	EN149	23.684994	90.356331	2006	NA	Clinical	Bangladesh	2006-XX-XX	Clinical	South Asia	Asia
+6536368fcdc1b9045934496a	EN160	EN160	23.684994	90.356331	2006	NA	Clinical	Bangladesh	2006-XX-XX	Clinical	South Asia	Asia
+6536368fcdc1b97aaa34496e	EN166	EN166	23.684994	90.356331	2006	NA	Clinical	Bangladesh	2006-XX-XX	Clinical	South Asia	Asia
+6536368fcdc1b923df344970	EN168	EN168	23.684994	90.356331	2006	NA	Clinical	Bangladesh	2006-XX-XX	Clinical	South Asia	Asia
+63790c01ca78023eeb666514	F135		7.369722	12.354722	1993	Inaba	Human	Cameroon	1993-XX-XX	Clinical	Central Africa	Africa
+63790c01ca780263d5666515	F1393		11.825138	42.590275	1993	Ogawa	Human	Djibouti	1993-XX-XX	Clinical	East Africa	Africa
+62f606685f2db8cefcb6883f	F15KTH7		30.375321	69.345116	2010	NA	Clinical	Pakistan	2010-XX-XX	Clinical	South Asia	Asia
+63790c01ca7802a344666516	F3397		-13.133897	27.849332	1996	Ogawa	Human	Zambia	1996-XX-XX	Clinical	Southern Africa	Africa
+63790c01ca7802e048666517	F3403		-13.133897	27.849332	1996	NA	Human	Zambia	1996-XX-XX	Clinical	Southern Africa	Africa
+63790c01ca78020ccd666518	F3835		-6.369028	34.888822	1997	Ogawa	Human	Tanzania	1997-XX-XX	Clinical	East Africa	Africa
+63790c01ca7802bc09666519	F4169		9.081999	8.675277	1997	Inaba	Human	Nigeria	1997-XX-XX	Clinical	West Africa	Africa
+63790c01ca78022ab366651a	F4170		9.081999	8.675277	1997	Ogawa	Human	Nigeria	1997-XX-XX	Clinical	West Africa	Africa
+63790c01ca780243cd66651b	F5096		-13.254308	34.301525	1997	Ogawa	Human	Malawi	1997-XX-XX	Clinical	East Africa	Africa
+63790c01ca78022f6366651c	F5097		-13.254308	34.301525	1997	Ogawa	Human	Malawi	1997-XX-XX	Clinical	East Africa	Africa
+63790c01ca780233fe66651d	F5144		11.803749	-15.180413	1997	Ogawa	Human	Guinea Bissau	1997-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802899d66651e	F5149		-18.665695	35.529562	1997	Ogawa	Human	Mozambique	1997-XX-XX	Clinical	East Africa	Africa
+63790c01ca780235d166651f	F5197		-13.133897	27.849332	1998	Ogawa	Human	Zambia	1998-XX-XX	Clinical	East Africa	Africa
+63790c01ca7802288b666520	F5198		-13.133897	27.849332	1998	Ogawa	Human	Zambia	1998-XX-XX	Clinical	East Africa	Africa
+63790c01ca7802ab7b666521	F5332		-6.369028	34.888822	1998	Ogawa	Human	Tanzania	1998-XX-XX	Clinical	East Africa	Africa
+63790c01ca7802219e666522	F5333		-6.369028	34.888822	1998	Ogawa	Human	Tanzania	1998-XX-XX	Clinical	East Africa	Africa
+63790c01ca7802ab41666523	F8478		-30.559482	22.937506	2002	Ogawa	Human	South Africa	2002-XX-XX	Clinical	Southern Africa	Africa
+63790c01ca780208ed666524	F8479		-30.559482	22.937506	2002	Ogawa	Human	South Africa	2002-XX-XX	Clinical	Southern Africa	Africa
+6384ba94d11c0b9f61e26e37	FC1225		20.593684	78.96288	2001	NA	Clinical	India	2001-XX-XX	Clinical	South Asia	Asia
+6384ba94d11c0b6d69e26e39	FC1384		20.593684	78.96288	2000	NA	Clinical	India	2000-XX-XX	Clinical	South Asia	Asia
+63850f1b99333556c4281eae	FC2029		20.593684	78.96288	2001	NA	Clinical	India	2001-XX-XX	Clinical	South Asia	Asia
+6384ba94d11c0b632ee26e3d	FC2273		20.593684	78.96288	1998	NA	Clinical	India	1998-XX-XX	Clinical	South Asia	Asia
+63850f1b99333521bd281eb1	FC3611_A		20.593684	78.96288	1997	NA	Clinical	India	1997-XX-XX	Clinical	South Asia	Asia
+6384ba94d11c0b08abe26e3e	FC3611a		20.593684	78.96288	1999	NA	Clinical	India	1999-XX-XX	Clinical	South Asia	Asia
+63850f1b99333533be281ea2	FC952		20.593684	78.96288	2000	NA	Clinical	India	2000-XX-XX	Clinical	South Asia	Asia
+62fa15fd13251519e03feb2d	FJ147-CDC		35.86166	104.195397	2005	NA	Clinical	China	2005-XX-XX	Clinical	East Asia	Asia
+62f9f8ad13251542463fe9f6	G126		35.86166	104.195397	1962	NA		China	1962-XX-XX	NA	East Asia	Asia
+62f9f8ad1325150bbe3fe9f7	G320		35.86166	104.195397	1974	NA		China	1974-XX-XX	NA	East Asia	Asia
+62fa15fd13251529aa3feb2e	GD196110-CDC		35.86166	104.195397	1961	NA	Clinical	China	1961-XX-XX	Clinical	East Asia	Asia
+62eb9d20ac5d5d44870703a2	GP106		51.165691	10.451526	1975	Ogawa		Germany	1975-XX-XX	NA	Western Europe	Europe
+62eb9d20ac5d5d4fe90703a3	GP140		4.210484	101.975766	1978	Ogawa		Malaysia	1978-XX-XX	NA	Southeast Asia	Asia
+62eb9d20ac5d5d39a20703a4	GP143		25.930414	50.637772	1978	Inaba		Bahrain	1978-XX-XX	NA	Western/Central Asia	Asia
+62eb9d20ac5d5d5b0e0703a5	GP145		20.593684	78.96288	1979	Inaba		India	1979-XX-XX	NA	South Asia	Asia
+62eb9d20ac5d5d57b30703a6	GP152		20.593684	78.96288	1979	Inaba		India	1979-XX-XX	NA	South Asia	Asia
+62eb9d20ac5d5de7800703a7	GP160		20.593684	78.96288	1980	Ogawa		India	1980-XX-XX	NA	South Asia	Asia
+62eb9d20ac5d5d3f110703a1	GP60		20.593684	78.96288	1973	Ogawa		India	1973-XX-XX	NA	South Asia	Asia
+63790c01ca7802617f666526	Gaz11		31.952162	35.233154	1994	NA		Palestine	1994-XX-XX	NA	Western/Central Asia	Asia
+63790c01ca780254d0666525	Gaz2		31.952162	35.233154	1994	NA		Palestine	1994-XX-XX	NA	Western/Central Asia	Asia
+63790c01ca7802ded4666527	Gaz21		31.952162	35.233154	1994	NA		Palestine	1994-XX-XX	NA	Western/Central Asia	Asia
+636cce6f25257847986f7276	H03		25.354826	51.183884	2016	NA	Clinical	Qatar	2016-XX-XX	Clinical	Western/Central Asia	Asia
+636cce6f2525786c5b6f7277	H06A		25.354826	51.183884	2017	NA	Clinical	Qatar	2017-XX-XX	Clinical	Western/Central Asia	Asia
+636cce6f25257824176f7279	H09		25.354826	51.183884	2017	NA	Clinical	Qatar	2017-XX-XX	Clinical	Western/Central Asia	Asia
+636cce6f252578bda66f727b	H12		25.354826	51.183884	2017	NA	Clinical	Qatar	2017-XX-XX	Clinical	Western/Central Asia	Asia
+638922584379e1006a0d4826	H1C1		18.971187	-72.285215	2013	Ogawa	Clinical	Haiti	2013-XX-XX	Clinical	Carribbean	North America
+63eb4956beb4ca294b3f3e5b	H22		18.971187	-72.285215	2022	NA	Clinical	Haiti	2022-XX-XX	Clinical	Carribbean	North America
+638922584379e16c4d0d483f	H3C10		18.971187	-72.285215	2013	Ogawa	Clinical	Haiti	2013-XX-XX	Clinical	Carribbean	North America
+62ecf29aac5d5d4b32070bdc	HC-23A1		18.971187	-72.285215	2010	Ogawa	Clinical	Haiti	2010-XX-XX	Clinical	Carribbean	North America
+62f383335f2db8113bb67c40	HC-57A2		18.971187	-72.285215	2010	Ogawa	Clinical	Haiti	2010-XX-XX	Clinical	Carribbean	North America
+62ecf29bac5d5d40dd070bf1	HC-67A1		18.971187	-72.285215	2010	Ogawa	Clinical	Haiti	2010-XX-XX	Clinical	Carribbean	North America
+6389e731f00f70847d1c758a	HC1730		18.971187	-72.285215	2014	Ogawa	Clinical	Haiti	2014-XX-XX	Clinical	Carribbean	North America
+6389e731f00f70510a1c758b	HC1756		18.971187	-72.285215	2014	Ogawa	Clinical	Haiti	2014-XX-XX	Clinical	Carribbean	North America
+6389e731f00f705fb11c758c	HC1762		18.971187	-72.285215	2014	Ogawa	Clinical	Haiti	2014-XX-XX	Clinical	Carribbean	North America
+6389e731f00f70277d1c758d	HC1763		18.971187	-72.285215	2014	Ogawa	Clinical	Haiti	2014-XX-XX	Clinical	Carribbean	North America
+6389e731f00f70e3791c758e	HC1781		18.971187	-72.285215	2014	Ogawa	Clinical	Haiti	2014-XX-XX	Clinical	Carribbean	North America
+6389e731f00f70ae791c7590	HC1961		18.971187	-72.285215	2015	Inaba	Clinical	Haiti	2015-XX-XX	Clinical	Carribbean	North America
+6389e731f00f70dbeb1c7592	HC1979		18.971187	-72.285215	2015	Inaba	Clinical	Haiti	2015-XX-XX	Clinical	Carribbean	North America
+6389e731f00f701b201c7595	HC1998		18.971187	-72.285215	2015	Inaba	Clinical	Haiti	2015-XX-XX	Clinical	Carribbean	North America
+6389e731f00f70891b1c7596	HC2001		18.971187	-72.285215	2015	Inaba	Clinical	Haiti	2015-XX-XX	Clinical	Carribbean	North America
+6389e731f00f70a19e1c7597	HC2003		18.971187	-72.285215	2015	Inaba	Clinical	Haiti	2015-XX-XX	Clinical	Carribbean	North America
+65030bd03dc49666bd0c752c	HC2397		18.971187	-72.285215	2017	NA	Clinical	Haiti	2017-XX-XX	Clinical	Carribbean	North America
+65030bd03dc49651020c7541	HC2459		18.971187	-72.285215	2017	NA	Clinical	Haiti	2017-XX-XX	Clinical	Carribbean	North America
+65030bd03dc496ebb00c754b	HC2505		18.971187	-72.285215	2017	NA	Clinical	Haiti	2017-XX-XX	Clinical	Carribbean	North America
+65030bd03dc496112a0c755d	HC2559		18.971187	-72.285215	2017	NA	Clinical	Haiti	2017-XX-XX	Clinical	Carribbean	North America
+65030bd03dc496633d0c7560	HC2565		18.971187	-72.285215	2017	NA	Clinical	Haiti	2017-XX-XX	Clinical	Carribbean	North America
+6389e731f00f700b811c7581	HC543		18.971187	-72.285215	2013	Ogawa	Clinical	Haiti	2013-XX-XX	Clinical	Carribbean	North America
+65030bd03dc4968a970c751c	HC635		18.971187	-72.285215	2013	NA	Clinical	Haiti	2013-XX-XX	Clinical	Carribbean	North America
+6374b2e95f1bc7828f5dec06	HCIS-138A		23.684994	90.356331	2014	NA	Clinical	Bangladesh	2014-XX-XX	Clinical	South Asia	Asia
+6374b2e95f1bc741735dec08	HCIS-160B		23.684994	90.356331	2014	NA	Clinical	Bangladesh	2014-XX-XX	Clinical	South Asia	Asia
+637a2cd1ca7802a25c666c4a	H_14205		20.593684	78.96288	2002	NA	Clinical	India	2002-XX-XX	Clinical	South Asia	Asia
+637a2cd1ca780237c5666c4d	H_16382		20.593684	78.96288	2002	NA	Clinical	India	2002-XX-XX	Clinical	South Asia	Asia
+63555e20adddae822e1d842a	H_4272		23.634501	-102.552784	2013	Ogawa	Human	Mexico	2013-XX-XX	Clinical	Central America	North America
+63555e20adddae6a1c1d842d	H_4583		23.634501	-102.552784	2013	Ogawa	Human	Mexico	2013-XX-XX	Clinical	Central America	North America
+63555e20adddae03761d842e	H_4584		23.634501	-102.552784	2013	Ogawa	Human	Mexico	2013-XX-XX	Clinical	Central America	North America
+63555e20adddae33cb1d8430	H_5165		23.634501	-102.552784	2013	Ogawa	Human	Mexico	2013-XX-XX	Clinical	Central America	North America
+6512b71d86efcc55991461f5	IB4518		20.593684	78.96288	2006	NA	Clinical	India	2006-XX-XX	Clinical	South Asia	Asia
+6512b71d86efccb8f114621d	IB4583		20.593684	78.96288	2007	NA	Clinical	India	2007-XX-XX	Clinical	South Asia	Asia
+6512b71d86efcce115146224	IB4590		20.593684	78.96288	2007	NA	Clinical	India	2007-XX-XX	Clinical	South Asia	Asia
+6512b71d86efccc8cd14622f	IB4601		20.593684	78.96288	2007	NA	Clinical	India	2007-XX-XX	Clinical	South Asia	Asia
+6538e9e820be8004af2ce0e2	IC12775	IC12775	38.963745	35.243322	1970	NA	Human	Turkey	1970-XX-XX	Clinical	Western/Central Asia	Asia
+636f7976036d2aea357f9c96	ICDC-VC2272		35.86166	104.195397	2008	NA	Clinical	China	2008-XX-XX	Clinical	East Asia	Asia
+637e0310f971a1b5810540ea	IDH-00527		20.593684	78.96288	2008	NA	Clinical	India	2008-XX-XX	Clinical	South Asia	Asia
+637e0310f971a145710540ed	IDH-00745		20.593684	78.96288	2008	NA	Clinical	India	2008-XX-XX	Clinical	South Asia	Asia
+637e0310f971a1704c0540ee	IDH-00845		20.593684	78.96288	2008	NA	Clinical	India	2008-XX-XX	Clinical	South Asia	Asia
+637e0310f971a1baf80540f0	IDH-01241		20.593684	78.96288	2008	NA	Clinical	India	2008-XX-XX	Clinical	South Asia	Asia
+637e0310f971a1d01d0540ff	IDH-03107		20.593684	78.96288	2010	NA	Clinical	India	2010-XX-XX	Clinical	South Asia	Asia
+637e0310f971a10800054100	IDH-03159		20.593684	78.96288	2010	NA	Clinical	India	2010-XX-XX	Clinical	South Asia	Asia
+637e0310f971a144ca054103	IDH-03506		20.593684	78.96288	2011	NA	Clinical	India	2011-XX-XX	Clinical	South Asia	Asia
+637e0310f971a1216f05410c	IDH-04415		20.593684	78.96288	2012	NA	Clinical	India	2012-XX-XX	Clinical	South Asia	Asia
+637e0310f971a1db2405410f	IDH-04677		20.593684	78.96288	2012	NA	Clinical	India	2012-XX-XX	Clinical	South Asia	Asia
+637e0310f971a16ef4054111	IDH-04858		20.593684	78.96288	2012	NA	Clinical	India	2012-XX-XX	Clinical	South Asia	Asia
+637e0310f971a19f81054112	IDH-04986		20.593684	78.96288	2013	NA	Clinical	India	2013-XX-XX	Clinical	South Asia	Asia
+637e0310f971a1013e054117	IDH-05467		20.593684	78.96288	2013	NA	Clinical	India	2013-XX-XX	Clinical	South Asia	Asia
+637e0310f971a10ba5054118	IDH-05640		20.593684	78.96288	2013	NA	Clinical	India	2013-XX-XX	Clinical	South Asia	Asia
+637e0310f971a1fba6054119	IDH-06175		20.593684	78.96288	2014	NA	Clinical	India	2014-XX-XX	Clinical	South Asia	Asia
+637e0310f971a1e3b505411a	IDH-06592		20.593684	78.96288	2014	NA	Clinical	India	2014-XX-XX	Clinical	South Asia	Asia
+637e0310f971a1261105411c	IDH-06845		20.593684	78.96288	2014	NA	Clinical	India	2014-XX-XX	Clinical	South Asia	Asia
+637e0310f971a1127105411e	IDH-07176		20.593684	78.96288	2014	NA	Clinical	India	2014-XX-XX	Clinical	South Asia	Asia
+6374b2ea5f1bc723f05dec0d	IDH-08222		20.593684	78.96288	2015	NA	Clinical	India	2015-XX-XX	Clinical	South Asia	Asia
+6374b2ea5f1bc7b75f5dec0e	IDH-08341		20.593684	78.96288	2015	NA	Clinical	India	2015-XX-XX	Clinical	South Asia	Asia
+6374b2ea5f1bc7ae6e5dec13	IDH-08923		20.593684	78.96288	2016	NA	Clinical	India	2016-XX-XX	Clinical	South Asia	Asia
+6374b2ea5f1bc710335dec14	IDH-09108		20.593684	78.96288	2016	NA	Clinical	India	2016-XX-XX	Clinical	South Asia	Asia
+6374b2ea5f1bc7dc9f5dec18	IDH-09620		20.593684	78.96288	2016	NA	Clinical	India	2016-XX-XX	Clinical	South Asia	Asia
+636ffa6ab84af5dee3806d32	IDH0046		20.593684	78.96288	2001	NA	Clinical	India	2001-XX-XX	Clinical	South Asia	Asia
+636ffa6ab84af56f0f806d34	IDH08148		20.593684	78.96288	2015	Ogawa	Clinical	India	2015-XX-XX	Clinical	South Asia	Asia
+636f2c50036d2acc597f9c7f	IEC224		-14.235004	-51.92528	1994	NA	Clinical	Brazil	1994-XX-XX	Clinical	South America	South America
+636f35d4b84af5a29e806ce6	InDRE 3140		23.634501	-102.552784	2013	Ogawa	Clinical	Mexico	2013-XX-XX	Clinical	Central America	North America
+636f7976036d2a42d87f9c97	JS4		35.86166	104.195397	2010	NA	Clinical	China	2010-XX-XX	Clinical	East Asia	Asia
+63790c01ca7802fbbb666528	K0107		17.570692	-3.996166	2003	Ogawa	Human	Mali	2003-XX-XX	Clinical	West Africa	Africa
+63790c01ca78023e67666529	K0108		17.570692	-3.996166	2003	NA	Human	Mali	2003-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802f8ba66652a	K6975		11.803749	-15.180413	2008	Ogawa	Human	Guinea Bissau	2008-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802082866652b	K6979		11.803749	-15.180413	2008	Ogawa	Human	Guinea Bissau	2008-XX-XX	Clinical	West Africa	Africa
+62f153165f2db8bf77b67358	KNE11B		-0.023559	37.906193	2010	NA	Environmental	Kenya	2010-XX-XX	Environmental	East Africa	Africa
+62f153165f2db8856bb6736f	KNE134		-0.023559	37.906193	2009	NA	Environmental	Kenya	2009-XX-XX	Environmental	East Africa	Africa
+62f153165f2db8a7d1b67372	KNE168		-0.023559	37.906193	2009	NA	Environmental	Kenya	2009-XX-XX	Environmental	East Africa	Africa
+62f153165f2db83fcfb67353	KNE3C		-0.023559	37.906193	2010	NA	Environmental	Kenya	2010-XX-XX	Environmental	East Africa	Africa
+62f153165f2db84343b67354	KNE3G		-0.023559	37.906193	2010	NA	Environmental	Kenya	2010-XX-XX	Environmental	East Africa	Africa
+62f153165f2db81bb2b67376	KNEXX		-0.023559	37.906193	2010	NA	Environmental	Kenya	2010-XX-XX	Environmental	East Africa	Africa
+636cd80fdc9e1dc1ea61baa7	KorC1		35.907757	127.766922	2016	Ogawa	Clinical	South Korea	2016-XX-XX	Clinical	East Asia	Asia
+636cd80fdc9e1d6ab561baa8	KorC2		35.907757	127.766922	2016	Ogawa	Clinical	South Korea	2016-XX-XX	Clinical	East Asia	Asia
+636cd80fdc9e1d725361baa9	KorC3		35.907757	127.766922	2016	Ogawa	Clinical	South Korea	2016-XX-XX	Clinical	East Asia	Asia
+636cd80fdc9e1d468f61baaa	KorE1		35.907757	127.766922	2016	Ogawa	Environmental	South Korea	2016-XX-XX	Environmental	East Asia	Asia
+63790c01ca7802f4fd66652e	L174		-4.038333	21.758664	2012	NA		Democratic Republic of the Congo	2012-XX-XX	NA	Central Africa	Africa
+63790c01ca780244cc66652f	L184		-4.038333	21.758664	2012	NA		Democratic Republic of the Congo	2012-XX-XX	NA	Central Africa	Africa
+63790c01ca78029ae2666530	L193		-4.038333	21.758664	2012	NA		Democratic Republic of the Congo	2012-XX-XX	NA	Central Africa	Africa
+63790c01ca7802b1a9666532	L201		-4.038333	21.758664	2012	NA		Democratic Republic of the Congo	2012-XX-XX	NA	Central Africa	Africa
+63790c01ca78029d27666533	L204		-4.038333	21.758664	2012	NA		Democratic Republic of the Congo	2012-XX-XX	NA	Central Africa	Africa
+63790c01ca7802727b666534	L211		9.945587	-9.696645	2012	NA	Human	Guinea	2012-XX-XX	Clinical	West Africa	Africa
+63790c01ca78029835666535	L233		9.945587	-9.696645	2012	NA	Human	Guinea	2012-XX-XX	Clinical	West Africa	Africa
+63790c01ca78026a0e666536	L237		9.945587	-9.696645	2012	NA	Human	Guinea	2012-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802e86a666537	L254		-13.133897	27.849332	2012	NA	Human	Zambia	2012-XX-XX	Clinical	East Africa	Africa
+63790c01ca780238cb666538	L268		-13.133897	27.849332	2012	NA	Human	Zambia	2012-XX-XX	Clinical	East Africa	Africa
+63790c01ca78020b8e666539	L273		-13.133897	27.849332	2012	NA	Human	Zambia	2012-XX-XX	Clinical	East Africa	Africa
+63790c01ca780226de66653a	L283		-4.038333	21.758664	2008	NA	Human	Democratic Republic of the Congo	2008-XX-XX	Clinical	Central Africa	Africa
+63790c01ca7802127166653b	L284		-4.038333	21.758664	2008	NA	Human	Democratic Republic of the Congo	2008-XX-XX	Clinical	Central Africa	Africa
+63790c01ca780273ef66653c	L300		-4.038333	21.758664	2011	NA	Human	Democratic Republic of the Congo	2011-XX-XX	Clinical	Central Africa	Africa
+63790c01ca7802b2e766653d	L310		-4.038333	21.758664	2011	NA	Human	Democratic Republic of the Congo	2011-XX-XX	Clinical	Central Africa	Africa
+62f4dceb5f2db8ffafb68447	L3226		61.52401	105.318756	2010	NA	Clinical	Russia	2010-XX-XX	Clinical	Eastern Europe	Europe
+63790c01ca7802378366653f	L342		-4.038333	21.758664	2001	NA	Human	Democratic Republic of the Congo	2001-XX-XX	Clinical	Central Africa	Africa
+63790c01ca780223a1666540	L354		-4.038333	21.758664	2011	NA	Human	Democratic Republic of the Congo	2011-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78020e32666541	L363		-4.038333	21.758664	2013	NA	Human	Democratic Republic of the Congo	2013-XX-XX	Clinical	Central Africa	Africa
+63790c01ca7802e531666542	L372		-4.038333	21.758664	2013	NA	Human	Democratic Republic of the Congo	2013-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78025468666543	L377		-4.038333	21.758664	2013	NA	Human	Democratic Republic of the Congo	2013-XX-XX	Clinical	Central Africa	Africa
+63790c01ca7802fc4e666544	L384		-4.038333	21.758664	2013	NA	Human	Democratic Republic of the Congo	2013-XX-XX	Clinical	Central Africa	Africa
+63790c01ca78020229666545	L387		8.619543	0.824782	2010	NA	Human	Togo	2010-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802f572666546	L388		8.619543	0.824782	2010	NA	Human	Togo	2010-XX-XX	Clinical	West Africa	Africa
+63790c01ca78027a6b666547	L390		8.619543	0.824782	2010	NA	Human	Togo	2010-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802bd38666548	L395		8.619543	0.824782	2010	NA	Human	Togo	2010-XX-XX	Clinical	West Africa	Africa
+63790c01ca78026eb7666549	L397		8.619543	0.824782	2010	NA	Human	Togo	2010-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802a71666654a	L399		8.619543	0.824782	2011	NA	Human	Togo	2011-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802261a66654b	L400		8.619543	0.824782	2011	NA	Human	Togo	2011-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802468066654c	L403		8.619543	0.824782	2011	NA	Human	Togo	2011-XX-XX	Clinical	West Africa	Africa
+63790c01ca78022d6c66654d	L408		8.619543	0.824782	2011	NA	Human	Togo	2011-XX-XX	Clinical	West Africa	Africa
+63790c01ca780236ef66654e	L409		8.619543	0.824782	2012	NA	Human	Togo	2012-XX-XX	Clinical	West Africa	Africa
+63790c01ca78028c7d66654f	L410		8.619543	0.824782	2012	NA	Human	Togo	2012-XX-XX	Clinical	West Africa	Africa
+63790c01ca78027c42666550	L413		8.619543	0.824782	2012	NA	Human	Togo	2012-XX-XX	Clinical	West Africa	Africa
+63790c01ca7802472f66652d	L78		-4.038333	21.758664	2009	NA	Human	Democratic Republic of the Congo	2009-XX-XX	Clinical	Central Africa	Africa
+65364b9541a6587cc12d157e	LD04947912	LD04947912	-30.559482	22.937506	2023	Ogawa	Human (feces)	South Africa	2023-XX-XX	Clinical	Southern Africa	Africa
+65364b9541a65867f22d157f	LD04952620	LD04952620	-30.559482	22.937506	2023	Ogawa	Human (feces)	South Africa	2023-XX-XX	Clinical	Southern Africa	Africa
+65364b9541a658d9b72d1580	LD04967541	LD04967541	-30.559482	22.937506	2023	Ogawa	Human (feces)	South Africa	2023-XX-XX	Clinical	Southern Africa	Africa
+63beb90cff6bdd415ee90f33	M119		23.684994	90.356331	2019	NA	Clinical	Bangladesh	2019-XX-XX	Clinical	South Asia	Asia
+62f9f8ad1325157f8d3fe9f8	M2140		-25.274398	133.775136	1977	NA		Australia	1977-XX-XX	NA	Oceania	Oceania
+62fbdbbd1325151e473feed5	M3265/80		61.52401	105.318756	2014	NA	Clinical	Russia	2014-XX-XX	Clinical	Eastern Europe	Europe
+62c81e6718e65dd921dcfd46	M66_updated		-0.789275	113.921327	1937	Hikojima	Clinical	Indonesia	1937-XX-XX	Clinical	Southeast Asia	Asia
+63722bc7a35dd472c8fb9b2e	MAB005		23.684994	90.356331	2005	NA	Environmental	Bangladesh	2005-XX-XX	Environmental	South Asia	Asia
+63722bc7a35dd47b0efb9b36	MAB014		23.684994	90.356331	2008	NA	Clinical	Bangladesh	2008-XX-XX	Clinical	South Asia	Asia
+63722bc7a35dd40c64fb9b38	MAB017		23.684994	90.356331	2009	NA	Clinical	Bangladesh	2009-XX-XX	Clinical	South Asia	Asia
+62c827cee3d438c96be746b1	MAK757		-2.1333	120.2833	1937	NA	Clinical	Indonesia	1937-XX-XX	Clinical	Southeast Asia	Asia
+65244bfe507ea257fe01456a	MAM063		23.634501	-102.552784	1992	NA	Clinical	Mexico	1992-XX-XX	Clinical	Central America	North America
+65244bfe507ea2091301456b	MAM064		23.634501	-102.552784	1993	NA	Clinical	Mexico	1993-XX-XX	Clinical	Central America	North America
+65244bfe507ea2047a01456c	MAM065		23.634501	-102.552784	1994	NA	Environmental	Mexico	1994-XX-XX	Environmental	Central America	North America
+65244bfe507ea2cadc01456e	MAM068		23.634501	-102.552784	1998	NA	Clinical	Mexico	1998-XX-XX	Clinical	Central America	North America
+65244bfe507ea2085a01456f	MAM069		23.634501	-102.552784	1999	NA	Clinical	Mexico	1999-XX-XX	Clinical	Central America	North America
+65244bfe507ea29131014571	MAM072		23.634501	-102.552784	2000	NA	Clinical	Mexico	2000-XX-XX	Clinical	Central America	North America
+65244bfe507ea2fcf8014573	MAM088		23.634501	-102.552784	2006	NA	Clinical	Mexico	2006-XX-XX	Clinical	Central America	North America
+637a2cd1ca78029051666c67	MDO_203		20.593684	78.96288	1993	NA	Clinical	India	1993-XX-XX	Clinical	South Asia	Asia
+637a2cd1ca78027beb666c69	MDO_205		20.593684	78.96288	1993	NA	Clinical	India	1993-XX-XX	Clinical	South Asia	Asia
+62eb9d20ac5d5d188a0703ab	MG116025		23.684994	90.356331	1991	Ogawa		Bangladesh	1991-XX-XX	NA	South Asia	Asia
+62eb9d20ac5d5d600b0703ac	MG116226		23.684994	90.356331	1991	Ogawa		Bangladesh	1991-XX-XX	NA	South Asia	Asia
+62c827cee3d43819dbe746b2	MJ1236		23.684994	90.356331	1994	Inaba	Clinical	Bangladesh	1994-XX-XX	Clinical	South Asia	Asia
+62eb9d20ac5d5d124b0703ad	MJ1485		23.684994	90.356331	1994	Inaba		Bangladesh	1994-XX-XX	NA	South Asia	Asia
+62c827cee3d4384191e746b3	MO10		20.593684	78.96288	1992	Unknown	Clinical	India	1992-XX-XX	Clinical	South Asia	Asia
+637a2cd1ca78023da4666c6e	MO_10		20.593684	78.96288	1992	NA	Clinical	India	1992-XX-XX	Clinical	South Asia	Asia
+637a2cd1ca780278a3666c77	MO_1947		20.593684	78.96288	1994	NA	Clinical	India	1994-XX-XX	Clinical	South Asia	Asia
+637a2cd1ca78025ffa666c6f	MO_292		20.593684	78.96288	1994	NA	Clinical	India	1994-XX-XX	Clinical	South Asia	Asia
+638522f9d11c0ba6b9e273ed	MYA01		21.913965	95.956223	1994	NA	Clinical	Myanmar	1994-XX-XX	Clinical	Southeast Asia	Asia
+638522f9d11c0b7504e273ee	MYA03		21.913965	95.956223	1994	NA	Clinical	Myanmar	1994-XX-XX	Clinical	Southeast Asia	Asia
+6389fe199a9bd75c16a0b88d	Mo1		-6.369028	34.888822	2016	NA	Clinical	Tanzania	2016-XX-XX	Clinical	East Africa	Africa
+6389fe199a9bd79256a0b88e	Mo2		-6.369028	34.888822	2016	NA	Clinical	Tanzania	2016-XX-XX	Clinical	East Africa	Africa
+62c81e1b18e65d4331dcfd45	N16961		23.684994	90.356331	1975	Inaba	Clinical	Bangladesh	1975-XX-XX	Clinical	South Asia	Asia
+63792e93ca7802bc8c6669ff	NALMLE25		23.684994	90.356331	2018	Ogawa	Cinical	Bangladesh	2018-XX-XX	NA	South Asia	Asia
+63792e93ca78023706666a05	NALMLE31		23.684994	90.356331	2018	Ogawa	Cinical	Bangladesh	2018-XX-XX	NA	South Asia	Asia
+63792e93ca780215b4666a12	NALMLE45		23.684994	90.356331	2015	Ogawa	Cinical	Bangladesh	2015-XX-XX	NA	South Asia	Asia
+62f9f8ad132515dad23fe9f9	NCTC5395		33.223191	43.679291	1938	NA		Iraq	1938-XX-XX	NA	Western/Central Asia	Asia
+62f9f8ad13251556313fe9fa	NCTC9420		26.820553	30.802498	1954	NA		Egypt	1954-XX-XX	NA	North Africa	Africa
+62c827cee3d43801f0e746b6	NCTC_8457		26.820553	30.802498	1930	NA	Clinical	Egypt	1930-XX-XX	Clinical	North Africa	Africa
+63790c01ca780247e5666553	NICD_1242		-30.559482	22.937506	2001	Inaba	Human	South Africa	2001-XX-XX	Clinical	Southern Africa	Africa
+63790c01ca7802fb6266655a	NICD_15104		-30.559482	22.937506	2001	Ogawa	Human	South Africa	2001-XX-XX	Clinical	Southern Africa	Africa
+63790c01ca7802c60466655b	NICD_15907		-30.559482	22.937506	2001	Ogawa	Human	South Africa	2001-XX-XX	Clinical	Southern Africa	Africa
+63790c01ca7802752f66655c	NICD_15959		-30.559482	22.937506	2001	Ogawa	Human	South Africa	2001-XX-XX	Clinical	Southern Africa	Africa
+63790c01ca7802724566655e	NICD_16230		-30.559482	22.937506	2001	Ogawa	Human	South Africa	2001-XX-XX	Clinical	Southern Africa	Africa
+63790c01ca7802827a666551	NICD_273		-30.559482	22.937506	1998	Ogawa	Human	South Africa	1998-XX-XX	Clinical	Southern Africa	Africa
+63790c01ca7802155b666562	NICD_69147		-30.559482	22.937506	1980	Inaba	Human	South Africa	1980-XX-XX	Clinical	Southern Africa	Africa
+63790c01ca780253ab666563	NICD_69173		-30.559482	22.937506	1980	Inaba	Human	South Africa	1980-XX-XX	Clinical	Southern Africa	Africa
+63790c01ca780281cc666564	NICD_69175		-30.559482	22.937506	1980	Inaba	Human	South Africa	1980-XX-XX	Clinical	Southern Africa	Africa
+637a2cd1ca78027f2b666c7c	NPO_270		20.593684	78.96288	1993	NA	Clinical	India	1993-XX-XX	Clinical	South Asia	Asia
+637a2cd1ca78026fb6666c8c	NPO_565		20.593684	78.96288	1994	NA	Clinical	India	1994-XX-XX	Clinical	South Asia	Asia
+637a2cd1ca780260e5666c95	NPO_585		20.593684	78.96288	1994	NA	Clinical	India	1994-XX-XX	Clinical	South Asia	Asia
+637a2cd1ca7802de96666c96	NPO_586		20.593684	78.96288	1994	NA	Clinical	India	1994-XX-XX	Clinical	South Asia	Asia
+637a2cd1ca78022589666c97	NT_3478		20.593684	78.96288	1999	NA	Clinical	India	1999-XX-XX	Clinical	South Asia	Asia
+637a2cd1ca7802015f666c98	NT_3612		20.593684	78.96288	1999	NA	Clinical	India	1999-XX-XX	Clinical	South Asia	Asia
+637a2cd1ca78023093666c99	NT_3627		20.593684	78.96288	1999	NA	Clinical	India	1999-XX-XX	Clinical	South Asia	Asia
+637a2cd1ca780281fb666ca4	NT_4372		20.593684	78.96288	2002	NA	Clinical	India	2002-XX-XX	Clinical	South Asia	Asia
+637a2cd1ca780273dd666ca6	NT_4384		20.593684	78.96288	2002	NA	Clinical	India	2002-XX-XX	Clinical	South Asia	Asia
+62f383deac5d5ddb0b072c83	Nep21106		28.394857	84.124008	2003	Ogawa	Clinical	Nepal	2003-XX-XX	Clinical	South Asia	Asia
+62f383deac5d5d843d072c84	Nep21113		28.394857	84.124008	2003	Ogawa	Clinical	Nepal	2003-XX-XX	Clinical	South Asia	Asia
+637a2cd1ca780259ae666cad	OS_409		20.593684	78.96288	2006	NA	Clinical	India	2006-XX-XX	Clinical	South Asia	Asia
+650ad2fce44dc8abbaad4b01	P1		15.870032	100.992541	2010	NA	stool	Thailand	2010-XX-XX	Clinical	Southeast Asia	Asia
+62fddd54bc6fe931146659ba	P17		15.870032	100.992541	2010	Ogawa	stool	Thailand	2010-XX-XX	Clinical	Southeast Asia	Asia
+62fddd54bc6fe96e4d6659c2	P39		15.870032	100.992541	2010	Inaba	stool	Thailand	2010-XX-XX	Clinical	Southeast Asia	Asia
+62fddd54bc6fe9eed26659c5	P44		15.870032	100.992541	2010	Inaba	stool	Thailand	2010-XX-XX	Clinical	Southeast Asia	Asia
+62fddd54bc6fe914476659b9	P8		15.870032	100.992541	2010	Ogawa	stool	Thailand	2010-XX-XX	Clinical	Southeast Asia	Asia
+62f383deac5d5d1c59072c88	PCS022		23.684994	90.356331	2010	Ogawa	Clinical	Bangladesh	2010-XX-XX	Clinical	South Asia	Asia
+637a2cd1ca78028d89666cb3	PG_110		20.593684	78.96288	1998	NA	Clinical	India	1998-XX-XX	Clinical	South Asia	Asia
+637a2cd1ca78022d57666cb8	PG_177		20.593684	78.96288	1998	NA	Clinical	India	1998-XX-XX	Clinical	South Asia	Asia
+637a2cd1ca7802a473666cba	PG_178		20.593684	78.96288	1998	NA	Clinical	India	1998-XX-XX	Clinical	South Asia	Asia
+6538e9e820be807ca92ce0e3	PHC_93-0608	PHC_93-0608	30.375321	69.345116	1993	NA	Human	Pakistan	1993-XX-XX	Clinical	South Asia	Asia
+6538e9e820be805fa22ce0e4	PHC_95-0745	PHC_95-0745	48.379433	31.16558	1993	NA	Fish	Ukraine	1993-XX-XX	NA	Eastern Europe	Europe
+6538e9e820be806d972ce0e5	PHC_95-0747	PHC_95-0747	48.379433	31.16558	1995	NA	Human	Ukraine	1995-XX-XX	Clinical	Eastern Europe	Europe
+6538e9e820be806b032ce0e6	PHC_95-0753	PHC_95-0753	48.379433	31.16558	1995	NA	Human	Ukraine	1995-XX-XX	Clinical	Eastern Europe	Europe
+6538e9e820be80abc42ce0e7	PHC_95-0754	PHC_95-0754	48.379433	31.16558	1994	NA	Human	Ukraine	1994-XX-XX	Clinical	Eastern Europe	Europe
+6538e9e820be80e12c2ce0e8	PHC_95-0759	PHC_95-0759	48.379433	31.16558	1994	NA	Human	Ukraine	1994-XX-XX	Clinical	Eastern Europe	Europe
+6538e9e820be8000512ce0eb	PHC_95-0766	PHC_95-0766	48.379433	31.16558	1994	NA	Human	Ukraine	1994-XX-XX	Clinical	Eastern Europe	Europe
+6538e9e820be80eb802ce0ec	PHC_95-0768	PHC_95-0768	48.379433	31.16558	1994	NA	Human	Ukraine	1994-XX-XX	Clinical	Eastern Europe	Europe
+62eb9d20ac5d5d06c50703af	PRL18		20.593684	78.96288	1984	Ogawa		India	1984-XX-XX	NA	South Asia	Asia
+62eb9d20ac5d5d0ddd0703ae	PRL5		20.593684	78.96288	1980	Ogawa		India	1980-XX-XX	NA	South Asia	Asia
+62fa07a414c79827107c8c3e	PhRBD_Vc311		12.879721	121.774017	2011	Ogawa	Clinical	Philippines	2011-XX-XX	Clinical	Southeast Asia	Asia
+62fa07a414c7982c677c8c3f	PhRBD_Vc326		12.879721	121.774017	2011	Ogawa	Clinical	Philippines	2011-XX-XX	Clinical	Southeast Asia	Asia
+62fa07a414c7980e737c8c40	PhRBD_VcEnv		12.879721	121.774017	2011	Ogawa	Clinical	Philippines	2011-XX-XX	Clinical	Southeast Asia	Asia
+6512b71d86efcc1b8514623f	Prevac4246		20.593684	78.96288	2003	NA	Clinical	India	2003-XX-XX	Clinical	South Asia	Asia
+6512b71d86efcce4d514624c	Prevac4282		20.593684	78.96288	2003	NA	Clinical	India	2003-XX-XX	Clinical	South Asia	Asia
+637e3053f971a152c005420f	Prevac4291		20.593684	78.96288	2003	NA	Clinical	India	2003-XX-XX	Clinical	South Asia	Asia
+6512b71d86efcc5bb5146262	Prevac4332		20.593684	78.96288	2004	NA	Clinical	India	2004-XX-XX	Clinical	South Asia	Asia
+6512b71d86efccb9a114627d	Prevac4404		20.593684	78.96288	2005	NA	Clinical	India	2005-XX-XX	Clinical	South Asia	Asia
+637e3053f971a19bbf054221	Prevac4421		20.593684	78.96288	2005	NA	Clinical	India	2005-XX-XX	Clinical	South Asia	Asia
+6512b71d86efcc803c146285	Prevac4422		20.593684	78.96288	2005	NA	Clinical	India	2005-XX-XX	Clinical	South Asia	Asia
+6512b71e86efcc62711462b7	Prevac4500		20.593684	78.96288	2006	NA	Clinical	India	2006-XX-XX	Clinical	South Asia	Asia
+6512b71e86efcc14131462cf	Prevac4656		20.593684	78.96288	2006	NA	Clinical	India	2006-XX-XX	Clinical	South Asia	Asia
+6538dd12ca5192459713a25b	R-18304	R-18304	-14.235004	-51.92528	1993	NA	Clinical	Brazil	1993-XX-XX	Clinical	South America	South America
+6538dd12ca51924f4513a25c	R-18308	R-18308	20.593684	78.96288	1973	NA	Clinical	India	1973-XX-XX	Clinical	South Asia	Asia
+6538dd12ca5192489b13a25d	R-18317	R-18317	-14.235004	-51.92528	1994	NA	Clinical	Brazil	1994-XX-XX	Clinical	South America	South America
+62c827cee3d438efcde746b8	RC9		-0.023559	37.906193	1985	Ogawa	Clinical	Kenya	1985-XX-XX	Clinical	East Africa	Africa
+63790c01ca78027b60666566	RKI-ZBS2-CH19		-11.202692	17.873887	1972	Inaba	Human	Angola	1972-XX-XX	Clinical	Central Africa	Africa
+63790c01ca7802ebb3666568	RKI-ZBS2-CH218		38.963745	35.243322	1994	Ogawa	Human	Turkey	1994-XX-XX	Clinical	Western/Central Asia	Asia
+63790c01ca780233d2666569	RKI-ZBS2-CH234		38.963745	35.243322	1994	Ogawa	Human	Turkey	1994-XX-XX	Clinical	Western/Central Asia	Asia
+63790c01ca78021769666565	RKI-ZBS2-CH8		40.463667	-3.74922	1971	Inaba	Human	Spain	1971-XX-XX	Clinical	Southern Europe	Europe
+63790c01ca7802ce2d666567	RKI-ZBS2-CH99		38.963745	35.243322	1980	Ogawa	Human	Turkey	1980-XX-XX	Clinical	Western/Central Asia	Asia
+6389fe199a9bd7d3d4a0b892	Rv2		-6.369028	34.888822	2017	NA	Clinical	Tanzania	2017-XX-XX	Clinical	East Africa	Africa
+62f606685f2db84b02b68850	S16HH1		30.375321	69.345116	2010	NA	Clinical	Pakistan	2010-XX-XX	Clinical	South Asia	Asia
+62f606685f2db83cf1b68852	S18HH4		30.375321	69.345116	2010	NA	Clinical	Pakistan	2010-XX-XX	Clinical	South Asia	Asia
+62f606685f2db85124b68845	S2KCH17		30.375321	69.345116	2010	NA	Clinical	Pakistan	2010-XX-XX	Clinical	South Asia	Asia
+62f606685f2db81b0bb6884b	S9KCH9		30.375321	69.345116	2010	NA	Clinical	Pakistan	2010-XX-XX	Clinical	South Asia	Asia
+62fa15fd1325156ee63feb31	SC1998_242-1-CDC		35.86166	104.195397	1998	NA	Clinical	China	1998-XX-XX	Clinical	East Asia	Asia
+62fa15fd132515339d3feb32	SC2000-CDC		35.86166	104.195397	2000	NA	Clinical	China	2000-XX-XX	Clinical	East Asia	Asia
+637a2cd1ca78021cfb666cc6	SD_44		20.593684	78.96288	1992	NA	Clinical	India	1992-XX-XX	Clinical	South Asia	Asia
+637a2cd1ca7802d57d666cca	SG_16		20.593684	78.96288	1992	NA	Clinical	India	1992-XX-XX	Clinical	South Asia	Asia
+637a2cd1ca78022a4f666ccc	SG_18		20.593684	78.96288	1992	NA	Clinical	India	1992-XX-XX	Clinical	South Asia	Asia
+637a2cd1ca78022c36666cd5	SG_30		20.593684	78.96288	1993	NA	Clinical	India	1993-XX-XX	Clinical	South Asia	Asia
+637a2cd1ca78027d24666cd7	SG_41_2		20.593684	78.96288	1993	NA	Clinical	India	1993-XX-XX	Clinical	South Asia	Asia
+63790c01ca78027b1f66656a	SaoTome21		0.18636	6.613081	1989	NA		Sao Tome	1989-XX-XX	NA	Central Africa	Africa
+6389fe199a9bd7d719a0b893	Sg1		-6.369028	34.888822	2017	NA	Clinical	Tanzania	2017-XX-XX	Clinical	East Africa	Africa
+6389fe199a9bd743b8a0b894	Sg2		-6.369028	34.888822	2017	NA	Clinical	Tanzania	2017-XX-XX	Clinical	East Africa	Africa
+62fa15fd13251565753feb33	T21-CDC		15.870032	100.992541	1990	NA	Clinical	Thailand	1990-XX-XX	Clinical	Southeast Asia	Asia
+638922584379e10ec70d4844	TC05		23.684994	90.356331	2011	Ogawa	Clinical	Bangladesh	2011-XX-XX	Clinical	South Asia	Asia
+638922584379e141e50d4846	TC07		23.684994	90.356331	2012	Ogawa	Clinical	Bangladesh	2012-XX-XX	Clinical	South Asia	Asia
+638922584379e1788b0d4847	TC08		23.684994	90.356331	2012	Ogawa	Clinical	Bangladesh	2012-XX-XX	Clinical	South Asia	Asia
+638922584379e1034e0d484c	TC13		23.684994	90.356331	2012	Ogawa	Clinical	Bangladesh	2012-XX-XX	Clinical	South Asia	Asia
+636d08582525784c226f7307	THSTI_23485		20.593684	78.96288	2010	Ogawa	Human	India	2010-XX-XX	Clinical	South Asia	Asia
+636d0858252578109a6f7308	THSTI_23835		20.593684	78.96288	2010	Ogawa	Human	India	2010-XX-XX	Clinical	South Asia	Asia
+636d08582525782c006f7309	THSTI_26866		20.593684	78.96288	2011	Ogawa	Human	India	2011-XX-XX	Clinical	South Asia	Asia
+636d0858252578f9b56f730a	THSTI_26871		20.593684	78.96288	2011	Ogawa	Human	India	2011-XX-XX	Clinical	South Asia	Asia
+636d0858252578f9606f730c	THSTI_27071		20.593684	78.96288	2011	Ogawa	Human	India	2011-XX-XX	Clinical	South Asia	Asia
+636d085825257819e36f730f	THSTI_33102		20.593684	78.96288	2012	Ogawa	Human	India	2012-XX-XX	Clinical	South Asia	Asia
+636d085825257889f26f7311	THSTI_36133		20.593684	78.96288	2013	Ogawa	Human	India	2013-XX-XX	Clinical	South Asia	Asia
+636d08582525780ce86f7318	THSTI_45869		20.593684	78.96288	2015	Ogawa	Human	India	2015-XX-XX	Clinical	South Asia	Asia
+636d0858252578a8596f731b	THSTI_52586		20.593684	78.96288	2016	Ogawa	Human	India	2016-XX-XX	Clinical	South Asia	Asia
+636d08582525787f796f731c	THSTI_52588		20.593684	78.96288	2016	Ogawa	Human	India	2016-XX-XX	Clinical	South Asia	Asia
+636d0858252578b1046f731f	THSTI_55199		20.593684	78.96288	2017	Ogawa	Human	India	2017-XX-XX	Clinical	South Asia	Asia
+636d085825257854c76f7320	THSTI_56650		20.593684	78.96288	2017	Ogawa	Human	India	2017-XX-XX	Clinical	South Asia	Asia
+636d08582525787a3c6f7321	THSTI_56695		20.593684	78.96288	2017	Ogawa	Human	India	2017-XX-XX	Clinical	South Asia	Asia
+636d0858252578c14e6f7322	THSTI_56712		20.593684	78.96288	2017	Ogawa	Human	India	2017-XX-XX	Clinical	South Asia	Asia
+63790c01ca78029acc666578	THSTI_D31153		20.593684	78.96288	1998	Ogawa	Human	India	1998-XX-XX	Clinical	South Asia	Asia
+63790c01ca78022f0f666579	THSTI_E12067		20.593684	78.96288	1999	Ogawa	Human	India	1999-XX-XX	Clinical	South Asia	Asia
+63790c01ca7802021366657a	THSTI_G27875		20.593684	78.96288	2001	Ogawa	Human	India	2001-XX-XX	Clinical	South Asia	Asia
+63790c01ca780205e866657b	THSTI_GP106bis		51.165691	10.451526	1975	Ogawa		Germany	1975-XX-XX	NA	Western Europe	Europe
+63790c01ca7802150d66657c	THSTI_GP160bis		20.593684	78.96288	1980	Ogawa		India	1980-XX-XX	NA	South Asia	Asia
+63790c01ca780247df66657d	THSTI_H11801		20.593684	78.96288	2002	Ogawa	Human	India	2002-XX-XX	Clinical	South Asia	Asia
+63790c01ca78028df0666583	THSTI_IDH00563		20.593684	78.96288	2008	Ogawa	Human	India	2008-XX-XX	Clinical	South Asia	Asia
+63790c01ca78022843666587	THSTI_IDH02834		20.593684	78.96288	2010	Ogawa	Human	India	2010-XX-XX	Clinical	South Asia	Asia
+63790c01ca780268ff666593	THSTI_V108		20.593684	78.96288	1990	Inaba	Human	India	1990-XX-XX	Clinical	South Asia	Asia
+63790c01ca78025691666592	THSTI_V12		20.593684	78.96288	1989	Inaba	Human	India	1989-XX-XX	Clinical	South Asia	Asia
+63790c01ca7802525d666594	THSTI_V149		20.593684	78.96288	1990	Ogawa	Human	India	1990-XX-XX	Clinical	South Asia	Asia
+63790c01ca78022521666595	THSTI_V156		20.593684	78.96288	1991	Ogawa	Human	India	1991-XX-XX	Clinical	South Asia	Asia
+63790c01ca780238e7666596	THSTI_V157		20.593684	78.96288	1991	Ogawa	Human	India	1991-XX-XX	Clinical	South Asia	Asia
+63790c01ca78021afc666591	THSTI_V8		20.593684	78.96288	1989	Ogawa	Human	India	1989-XX-XX	Clinical	South Asia	Asia
+637d0370d11c0b3065e1ddc5	Tanz_20		-6.369028	34.888822	2015	Ogawa	Clinical	Tanzania	2015-XX-XX	Clinical	East Africa	Africa
+637d0370d11c0b3273e1ddc7	Tanz_26		-6.369028	34.888822	2015	Ogawa	Clinical	Tanzania	2015-XX-XX	Clinical	East Africa	Africa
+637d0370d11c0b6724e1ddcb	Tanz_38		-6.369028	34.888822	2015	Ogawa	Clinical	Tanzania	2015-XX-XX	Clinical	East Africa	Africa
+637d0370d11c0b77ede1ddcc	Tanz_41		-6.369028	34.888822	2015	Ogawa	Clinical	Tanzania	2015-XX-XX	Clinical	East Africa	Africa
+637d0370d11c0b376ce1ddd3	Tanz_56		-6.369028	34.888822	2012	Inaba	Clinical	Tanzania	2012-XX-XX	Clinical	East Africa	Africa
+637d0370d11c0bec42e1ddd4	Tanz_58		-6.369028	34.888822	2011	Inaba	Clinical	Tanzania	2011-XX-XX	Clinical	East Africa	Africa
+637d0370d11c0befbce1ddd5	Tanz_60		-6.369028	34.888822	2012	Inaba	Clinical	Tanzania	2012-XX-XX	Clinical	East Africa	Africa
+637d0370d11c0b5435e1ddd7	Tanz_62		-6.369028	34.888822	2012	Inaba	Clinical	Tanzania	2012-XX-XX	Clinical	East Africa	Africa
+637d0370d11c0b56f8e1dddd	Tanz_85		-6.369028	34.888822	2012	Inaba	Clinical	Tanzania	2012-XX-XX	Clinical	East Africa	Africa
+637d0370d11c0b8251e1dddf	Tanz_93		-6.369028	34.888822	2012	Inaba	Clinical	Tanzania	2012-XX-XX	Clinical	East Africa	Africa
+637d0370d11c0bf8e2e1dde1	Tanz_99		-6.369028	34.888822	2015	Ogawa	Clinical	Tanzania	2015-XX-XX	Clinical	East Africa	Africa
+6384c572d11c0b7e24e26e4a	UG010		1.373333	32.290275	2016	Ogawa	Clinical	Uganda	2016-XX-XX	Clinical	East Africa	Africa
+6384c572d11c0b0bcce26e4b	UG020		1.373333	32.290275	2016	Ogawa	Clinical	Uganda	2016-XX-XX	Clinical	East Africa	Africa
+6384c572d11c0b2407e26e4c	UG026		1.373333	32.290275	2015	Ogawa	Clinical	Uganda	2015-XX-XX	Clinical	East Africa	Africa
+6384c572d11c0b7303e26e4d	UG040		1.373333	32.290275	2015	Inaba	Clinical	Uganda	2015-XX-XX	Clinical	East Africa	Africa
+6384c572d11c0bc06ee26e4e	UG042		1.373333	32.290275	2015	Inaba	Clinical	Uganda	2015-XX-XX	Clinical	East Africa	Africa
+6384c572d11c0b5106e26e50	UG054		1.373333	32.290275	2015	Inaba	Clinical	Uganda	2015-XX-XX	Clinical	East Africa	Africa
+6384c572d11c0b7794e26e51	UG060		1.373333	32.290275	2014	Inaba	Clinical	Uganda	2014-XX-XX	Clinical	East Africa	Africa
+6384c572d11c0bda00e26e52	UG071		1.373333	32.290275	2014	Inaba	Clinical	Uganda	2014-XX-XX	Clinical	East Africa	Africa
+6384c572d11c0b48a2e26e53	UG086		1.373333	32.290275	2015	Inaba	Clinical	Uganda	2015-XX-XX	Clinical	East Africa	Africa
+62fa15fd13251551373feb34	V01-CDC		-35.675147	-71.542969	1991	NA	Clinical	Chile	1991-XX-XX	Clinical	South America	South America
+62fa15fd1325156bde3feb35	V011506-CDC		35.86166	104.195397	2001	NA	Clinical	China	2001-XX-XX	Clinical	East Asia	Asia
+636f378f036d2a36167f9c85	V060002		-0.789275	113.921327	1997	Ogawa	Clinical	Indonesia	1997-XX-XX	Clinical	Southeast Asia	Asia
+62eb9d20ac5d5d0ea70703b2	V109		20.593684	78.96288	1990	Ogawa		India	1990-XX-XX	NA	South Asia	Asia
+62eb9d20ac5d5dcdbd0703b3	V212-1		20.593684	78.96288	1991	Ogawa		India	1991-XX-XX	NA	South Asia	Asia
+62eb9d20ac5d5d509f0703b1	V5		20.593684	78.96288	1989	Ogawa		India	1989-XX-XX	NA	South Asia	Asia
+62fddd54bc6fe92e206659d0	VC O1_9		15.870032	100.992541	2000	Ogawa	stool	Thailand	2000-XX-XX	Clinical	Southeast Asia	Asia
+62d80337f50c0aafa5361ee7	VC-13		28.394857	84.124008	2010	Ogawa	Human	Nepal	2010-XX-XX	Clinical	South Asia	Asia
+62d80337f50c0ad627361eea	VC-16		28.394857	84.124008	2010	Ogawa	Human	Nepal	2010-XX-XX	Clinical	South Asia	Asia
+62d80337f50c0a8f96361eeb	VC-17		28.394857	84.124008	2010	Ogawa	Human	Nepal	2010-XX-XX	Clinical	South Asia	Asia
+62d80337f50c0afcfc361ef0	VC-22		28.394857	84.124008	2010	Ogawa	Human	Nepal	2010-XX-XX	Clinical	South Asia	Asia
+63106dde63244623cc7cb80d	VC-3		28.394857	84.124008	2010	Ogawa	Human	Nepal	2010-XX-XX	Clinical	South Asia	Asia
+6538dd12ca5192563613a26d	VC172	VC172	23.684994	90.356331	1993	NA	Clinical	Bangladesh	1993-XX-XX	Clinical	South Asia	Asia
+6538dd12ca5192a4af13a26e	VC179	VC179	23.684994	90.356331	1993	NA	Clinical	Bangladesh	1993-XX-XX	Clinical	South Asia	Asia
+62fa15fd1325158fc83feb36	VC2248-1-CDC		35.86166	104.195397	2008	NA	Clinical	China	2008-XX-XX	Clinical	East Asia	Asia
+62fa15fd13251541ed3feb37	VC2454-CDC		35.86166	104.195397	2005	NA	Clinical	China	2005-XX-XX	Clinical	East Asia	Asia
+6538dd12ca5192fedf13a275	VC434	VC434	1.352083	103.819836	1983	NA	Clinical	Singapore	1983-XX-XX	Clinical	Southeast Asia	Asia
+6538dd12ca5192bad013a277	VC504	VC504	28.394857	84.124008	1994	NA	Clinical	Nepal	1994-XX-XX	Clinical	South Asia	Asia
+6538dd12ca5192f39813a265	VC75	VC75	-0.789275	113.921327	1971	NA		Indonesia	1971-XX-XX	NA	Southeast Asia	Asia
+6538dd12ca519244fc13a266	VC77	VC77	-0.789275	113.921327	1971	NA		Indonesia	1971-XX-XX	NA	Southeast Asia	Asia
+6538dd12ca519203d913a267	VC83	VC83	21.913965	95.956223	1971	NA		Myanmar	1971-XX-XX	NA	Southeast Asia	Asia
+62f153165f2db896dcb67379	VE2		-0.023559	37.906193	2010	NA	Environmental	Kenya	2010-XX-XX	Environmental	East Africa	Africa
+638a59c4f00f7014451c77ac	Vc_EDC_755		23.684994	90.356331	2015	NA	Environmental	Bangladesh	2015-XX-XX	Environmental	South Asia	Asia
+651fe924aee402a22a6b040c	Vch-N1252	Vch-N1252	-25.274398	133.775136	2022	Ogawa	Clinical	Australia	2022-XX-XX	Clinical	Oceania	Oceania
+651fe924aee4027e786b040d	Vch-Q4233	Vch-Q4233	-25.274398	133.775136	2022	Ogawa	Clinical	Australia	2022-XX-XX	Clinical	Oceania	Oceania
+636f3bb5b84af5e89d806ce9	W4-13		20.593684	78.96288	2013	NA	Clinical	India	2013-XX-XX	Clinical	South Asia	Asia
+62fa15fd13251509903feb38	X190-CDC		-9.189967	-75.015152	1991	NA	Clinical	Peru	1991-XX-XX	Clinical	South America	South America
+638a044cf00f707c251c7659	YA00120881		-19.015438	29.154857	2018	Ogawa	Human	Zimbabwe	2018-XX-XX	Clinical	East Africa	Africa
+638a044cf00f7051fb1c765a	YA00122530		-19.015438	29.154857	2018	Ogawa	Human	Zimbabwe	2018-XX-XX	Clinical	East Africa	Africa
+638a044cf00f70131f1c765c	YA00122532		-19.015438	29.154857	2018	Ogawa	Human	Zimbabwe	2018-XX-XX	Clinical	East Africa	Africa
+638a044cf00f7061c41c765f	YA00122536		-19.015438	29.154857	2018	Ogawa	Human	Zimbabwe	2018-XX-XX	Clinical	East Africa	Africa
+638a044cf00f7006de1c7661	YA00122539		-19.015438	29.154857	2018	Ogawa	Human	Zimbabwe	2018-XX-XX	Clinical	East Africa	Africa
+65364b9541a65821ea2d1581	YA00436893	YA00436893	-30.559482	22.937506	2023	Ogawa	Human (feces)	South Africa	2023-XX-XX	Clinical	Southern Africa	Africa
+65364b9541a65870152d1582	YA00444950	YA00444950	-30.559482	22.937506	2023	Ogawa	Human (feces)	South Africa	2023-XX-XX	Clinical	Southern Africa	Africa
+6370a3b1b84af55671806d3f	YN2011004		35.86166	104.195397	2011	Ogawa	Clinical	China	2011-XX-XX	Clinical	East Asia	Asia
+6370a3b1b84af5a64a806d3c	YN89004		35.86166	104.195397	1989	Ogawa	Clinical	China	1989-XX-XX	Clinical	East Asia	Asia
+6370a3b1b84af5313a806d3d	YN97083		35.86166	104.195397	1997	Inaba	Clinical	China	1997-XX-XX	Clinical	East Asia	Asia
+6370a3b1b84af5956b806d3e	YN98296		35.86166	104.195397	1998	NA	Clinical	China	1998-XX-XX	Clinical	East Asia	Asia
+6389fe199a9bd7350aa0b897	Zb1		-6.369028	34.888822	2016	NA	Clinical	Tanzania	2016-XX-XX	Clinical	East Africa	Africa
+6389fe199a9bd7de4fa0b898	Zb2		-6.369028	34.888822	2016	NA	Clinical	Tanzania	2016-XX-XX	Clinical	East Africa	Africa
+6389fe199a9bd78815a0b899	Zb3		-6.369028	34.888822	2016	NA	Clinical	Tanzania	2016-XX-XX	Clinical	East Africa	Africa
+6389fe199a9bd778dfa0b89a	Zb4		-6.369028	34.888822	2017	NA	Clinical	Tanzania	2017-XX-XX	Clinical	East Africa	Africa
+63790c01ca780277e3666599	Zim_12		-19.015438	29.154857	2009	NA		Zimbabwe	2009-XX-XX	NA	East Africa	Africa
+63790c01ca7802fae066659a	Zim_25		-19.015438	29.154857	2009	NA		Zimbabwe	2009-XX-XX	NA	East Africa	Africa
+63790c01ca78024bef66659b	Zim_27		-19.015438	29.154857	2009	NA		Zimbabwe	2009-XX-XX	NA	East Africa	Africa
+63c7ba3f98090725d2ff8ae6	Ztox		-13.133897	27.849332	2016	Ogawa	Clinical	Zambia	2016-XX-XX	Clinical	East Africa	Africa
+6389e731f00f7051551c755f	env383		18.971187	-72.285215	2013	Ogawa	Environmental	Haiti	2013-XX-XX	Environmental	Carribbean	North America
+6538e9e820be80452a2ce0f0	PHC_95-0781		48.379433	31.16558	1994	NA	Human	Ukraine	1994-XX-XX	Clinical	Eastern Europe	Europe
