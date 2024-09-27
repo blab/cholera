@@ -9,6 +9,11 @@ params {
     slurm_queue = 'campus-new'
     slurm_opts = ''
     slurm_use_scratch = false
+
+    /* TODO: consider using a temp dir
+     * <https://sciwiki.fredhutch.org/scicomputing/store_temp/>
+     */
+    // singularity_cache = '/hpc/temp/bedford_t/…'
 }
 
 process {
