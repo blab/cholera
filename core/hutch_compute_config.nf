@@ -20,6 +20,7 @@ process {
   executor = 'slurm'
   queue = "${params.slurm_queue}"
   scratch = params.slurm_use_scratch
-  time = (params.max_time).m
+  // Doesn't work with 3.1.0 https://github.com/bactopia/bactopia/issues/558
+  // time = (params.max_time).m
   clusterOptions = "${params.slurm_opts}"
 }

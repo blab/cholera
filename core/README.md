@@ -9,7 +9,7 @@ trying to run bactopia here (version 3.1.0)
 module load Singularity/3.5.3
 
 # Run using our test accessions
-bactopia --accessions test-accessions.txt --outdir out/test-accessions -profile slurm,singularity --queue campus-new
+bactopia --accessions test-accessions.txt --nfconfig hutch_compute_config.nf --outdir out/test-accessions -profile singularity
 
 # Summarize results
 bactopia summary --bactopia-path out/test-accessions
