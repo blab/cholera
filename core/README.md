@@ -1,6 +1,6 @@
 # core
 
-trying to run bactopia here
+trying to run bactopia here (version 3.1.0)
 
 ## Commands
 
@@ -9,7 +9,7 @@ trying to run bactopia here
 module load Singularity/3.5.3
 
 # Run using our test accessions
-bactopia --accessions test-accessions.txt --nfconfig hutch_compute_config.nf --outdir out/test-accessions
+bactopia --accessions test-accessions.txt --outdir out/test-accessions -profile slurm,singularity --queue campus-new
 
 # Summarize results
 bactopia summary --bactopia-path out/test-accessions
@@ -39,16 +39,6 @@ The [test profile](https://github.com/bactopia/bactopia/blob/master/conf/profile
 
 Seems like [`task.memory`](https://www.nextflow.io/docs/latest/process.html#process-memory) is unset.
 
-### Singularity
-
-Singularity isn't working on SLURM jobs. Error message:
-
-> Could not run command: cat GCF_007624845\/GCF_007624845\.proteins\.tmp\.97\.faa | parallel --gnu --plain -j 4 --block 151523 --recstart '>' --pipe blastp -query - -db GCF_007624845/proteins -evalue 1e-09 -qcov_hsp_perc 80 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > GCF_007624845\/GCF_007624845\.proteins\.tmp\.97\.blast 2> /dev/null
-
-Seems to be something with the temp dir: https://github.com/bactopia/bactopia/issues/423
-
-Here's the full error output: [singularity-error-output.txt](./singularity-error-output.txt)
-
 ### Transient prokka error
 
 
@@ -75,18 +65,23 @@ Could not run command: makeblastdb -dbtype prot -in proteins\.faa -out GCF_02550
 I initially thought this was due to adding `--outdir` but I just tried again and it worked fine:
 
 ```
-[skipped  ] process > BACTOPIA:DATASETS                                        [100%] 1 of 1, stored: 1 ✔
-[7f/ff1d48] process > BACTOPIA:GATHER:GATHER_MODULE (GCF_007624775)            [100%] 4 of 4 ✔
-[ab/187f86] process > BACTOPIA:GATHER:CSVTK_CONCAT (meta)                      [100%] 1 of 1 ✔
-[14/1cf54e] process > BACTOPIA:QC:QC_MODULE (GCF_007624775)                    [100%] 4 of 4 ✔
-[d0/92f387] process > BACTOPIA:ASSEMBLER:ASSEMBLER_MODULE (GCF_007624775)      [100%] 4 of 4 ✔
-[4e/89f1bc] process > BACTOPIA:ASSEMBLER:CSVTK_CONCAT (assembly-scan)          [100%] 1 of 1 ✔
-[9b/6efa22] process > BACTOPIA:SKETCHER:SKETCHER_MODULE (GCF_007624775)        [100%] 4 of 4 ✔
-[bc/a469b3] process > BACTOPIA:ANNOTATOR:PROKKA_MODULE (GCF_007624775)         [100%] 6 of 6, failed: 2, retries: 2 ✔
-[6e/97cf19] process > BACTOPIA:AMRFINDERPLUS:AMRFINDERPLUS_RUN (GCF_007624775) [ 75%] 3 of 4
-[-        ] process > BACTOPIA:AMRFINDERPLUS:GENES_CONCAT                      -
-[-        ] process > BACTOPIA:AMRFINDERPLUS:PROTEINS_CONCAT                   -
-[4e/81aec9] process > BACTOPIA:MLST:MLST_MODULE (GCF_007624775)                [100%] 4 of 4 ✔
-[80/8fe292] process > BACTOPIA:MLST:CSVTK_CONCAT (mlst)                        [100%] 1 of 1 ✔
-[39/cbe857] process > BACTOPIA:DUMPSOFTWAREVERSIONS (1)                        [100%] 1 of 1 ✔
+[skipped  ] process > BACTOPIA:DATASETS                                               [100%] 1 of 1, stored: 1 ✔
+[7f/ff1d48] process > BACTOPIA:GATHER:GATHER_MODULE (GCF_007624775)                   [100%] 4 of 4 ✔
+[ab/187f86] process > BACTOPIA:GATHER:CSVTK_CONCAT (meta)                             [100%] 1 of 1 ✔
+[14/1cf54e] process > BACTOPIA:QC:QC_MODULE (GCF_007624775)                           [100%] 4 of 4 ✔
+executor >  slurm (36)
+[skipped  ] process > BACTOPIA:DATASETS                                               [100%] 1 of 1, stored: 1 ✔
+[7f/ff1d48] process > BACTOPIA:GATHER:GATHER_MODULE (GCF_007624775)                   [100%] 4 of 4 ✔
+[ab/187f86] process > BACTOPIA:GATHER:CSVTK_CONCAT (meta)                             [100%] 1 of 1 ✔
+[14/1cf54e] process > BACTOPIA:QC:QC_MODULE (GCF_007624775)                           [100%] 4 of 4 ✔
+[d0/92f387] process > BACTOPIA:ASSEMBLER:ASSEMBLER_MODULE (GCF_007624775)             [100%] 4 of 4 ✔
+[4e/89f1bc] process > BACTOPIA:ASSEMBLER:CSVTK_CONCAT (assembly-scan)                 [100%] 1 of 1 ✔
+[9b/6efa22] process > BACTOPIA:SKETCHER:SKETCHER_MODULE (GCF_007624775)               [100%] 4 of 4 ✔
+[bc/a469b3] process > BACTOPIA:ANNOTATOR:PROKKA_MODULE (GCF_007624775)                [100%] 6 of 6, failed: 2, retries: 2 ✔
+[6e/97cf19] process > BACTOPIA:AMRFINDERPLUS:AMRFINDERPLUS_RUN (GCF_007624775)        [100%] 4 of 4 ✔
+[52/1746a2] process > BACTOPIA:AMRFINDERPLUS:GENES_CONCAT (amrfinderplus-genes)       [100%] 1 of 1 ✔
+[74/701b7d] process > BACTOPIA:AMRFINDERPLUS:PROTEINS_CONCAT (amrfinderplus-proteins) [100%] 1 of 1 ✔
+[4e/81aec9] process > BACTOPIA:MLST:MLST_MODULE (GCF_007624775)                       [100%] 4 of 4 ✔
+[80/8fe292] process > BACTOPIA:MLST:CSVTK_CONCAT (mlst)                               [100%] 1 of 1 ✔
+[39/cbe857] process > BACTOPIA:DUMPSOFTWAREVERSIONS (1)                               [100%] 1 of 1 ✔
 ```
