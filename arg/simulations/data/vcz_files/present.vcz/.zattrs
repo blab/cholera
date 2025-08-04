@@ -1,0 +1,5 @@
+{
+    "source": "bio2zarr-0.1.5",
+    "vcf_header": "##fileformat=VCFv4.2\n##FILTER=<ID=PASS,Description=\"All filters passed\">\n##source=tskit 0.6.2\n##contig=<ID=1,length=1000000>\n##FORMAT=<ID=GT,Number=1,Type=String,Description=\"Genotype\">\n#CHROM\tPOS\tID\tREF\tALT\tQUAL\tFILTER\tINFO\tFORMAT\ttsk_0\ttsk_1\ttsk_2\ttsk_3\ttsk_4\ttsk_5\ttsk_6\ttsk_7\ttsk_8\ttsk_9\ttsk_10\ttsk_11\ttsk_12\ttsk_13\ttsk_14\ttsk_15\ttsk_16\ttsk_17\ttsk_18\ttsk_19\ttsk_20\ttsk_21\ttsk_22\ttsk_23\ttsk_24\n",
+    "vcf_zarr_version": "0.2"
+}
